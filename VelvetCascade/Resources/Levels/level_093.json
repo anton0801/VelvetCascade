@@ -1,0 +1,676 @@
+{
+  "authoredDifficulty" : 6,
+  "blockers" : [
+    {
+      "type" : "wall",
+      "x" : 3,
+      "y" : 1
+    },
+    {
+      "type" : "wall",
+      "x" : 4,
+      "y" : 1
+    },
+    {
+      "type" : "wall",
+      "x" : 3,
+      "y" : 5
+    },
+    {
+      "type" : "wall",
+      "x" : 4,
+      "y" : 5
+    }
+  ],
+  "campaignVersion" : 1,
+  "exitPorts" : [
+
+  ],
+  "fiveColorPalette" : [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "floors" : [
+    {
+      "hp" : 1,
+      "type" : "plate",
+      "x" : 0,
+      "y" : 0
+    },
+    {
+      "hp" : 1,
+      "type" : "plate",
+      "x" : 1,
+      "y" : 0
+    },
+    {
+      "hp" : 1,
+      "type" : "plate",
+      "x" : 6,
+      "y" : 0
+    },
+    {
+      "hp" : 1,
+      "type" : "plate",
+      "x" : 7,
+      "y" : 0
+    },
+    {
+      "hp" : 1,
+      "type" : "plate",
+      "x" : 0,
+      "y" : 1
+    },
+    {
+      "hp" : 1,
+      "type" : "plate",
+      "x" : 7,
+      "y" : 1
+    },
+    {
+      "hp" : 1,
+      "type" : "plate",
+      "x" : 0,
+      "y" : 6
+    },
+    {
+      "hp" : 1,
+      "type" : "plate",
+      "x" : 7,
+      "y" : 6
+    },
+    {
+      "hp" : 1,
+      "type" : "plate",
+      "x" : 0,
+      "y" : 7
+    },
+    {
+      "hp" : 1,
+      "type" : "plate",
+      "x" : 1,
+      "y" : 7
+    },
+    {
+      "hp" : 1,
+      "type" : "plate",
+      "x" : 6,
+      "y" : 7
+    },
+    {
+      "hp" : 1,
+      "type" : "plate",
+      "x" : 7,
+      "y" : 7
+    }
+  ],
+  "id" : 93,
+  "initialCharge" : 12,
+  "initialMoves" : 34,
+  "initialOccupants" : [
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 0,
+      "y" : 0
+    },
+    {
+      "color" : 3,
+      "type" : "gem",
+      "x" : 1,
+      "y" : 0
+    },
+    {
+      "color" : 3,
+      "type" : "gem",
+      "x" : 2,
+      "y" : 0
+    },
+    {
+      "color" : 2,
+      "type" : "gem",
+      "x" : 3,
+      "y" : 0
+    },
+    {
+      "color" : 4,
+      "type" : "gem",
+      "x" : 4,
+      "y" : 0
+    },
+    {
+      "color" : 4,
+      "type" : "gem",
+      "x" : 5,
+      "y" : 0
+    },
+    {
+      "color" : 1,
+      "type" : "gem",
+      "x" : 6,
+      "y" : 0
+    },
+    {
+      "color" : 3,
+      "type" : "gem",
+      "x" : 7,
+      "y" : 0
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 0,
+      "y" : 1
+    },
+    {
+      "color" : 2,
+      "type" : "gem",
+      "x" : 1,
+      "y" : 1
+    },
+    {
+      "color" : 2,
+      "type" : "gem",
+      "x" : 2,
+      "y" : 1
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 5,
+      "y" : 1
+    },
+    {
+      "color" : 4,
+      "type" : "gem",
+      "x" : 6,
+      "y" : 1
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 7,
+      "y" : 1
+    },
+    {
+      "color" : 3,
+      "type" : "gem",
+      "x" : 0,
+      "y" : 2
+    },
+    {
+      "color" : 3,
+      "type" : "gem",
+      "x" : 1,
+      "y" : 2
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 2,
+      "y" : 2
+    },
+    {
+      "color" : 2,
+      "type" : "gem",
+      "x" : 3,
+      "y" : 2
+    },
+    {
+      "color" : 4,
+      "type" : "gem",
+      "x" : 4,
+      "y" : 2
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 5,
+      "y" : 2
+    },
+    {
+      "color" : 2,
+      "type" : "gem",
+      "x" : 6,
+      "y" : 2
+    },
+    {
+      "color" : 3,
+      "type" : "gem",
+      "x" : 7,
+      "y" : 2
+    },
+    {
+      "color" : 1,
+      "type" : "gem",
+      "x" : 0,
+      "y" : 3
+    },
+    {
+      "color" : 3,
+      "type" : "gem",
+      "x" : 1,
+      "y" : 3
+    },
+    {
+      "color" : 1,
+      "type" : "gem",
+      "x" : 2,
+      "y" : 3
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 3,
+      "y" : 3
+    },
+    {
+      "color" : 2,
+      "type" : "gem",
+      "x" : 4,
+      "y" : 3
+    },
+    {
+      "color" : 3,
+      "type" : "gem",
+      "x" : 5,
+      "y" : 3
+    },
+    {
+      "color" : 1,
+      "type" : "gem",
+      "x" : 6,
+      "y" : 3
+    },
+    {
+      "color" : 4,
+      "type" : "gem",
+      "x" : 7,
+      "y" : 3
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 0,
+      "y" : 4
+    },
+    {
+      "color" : 1,
+      "type" : "gem",
+      "x" : 1,
+      "y" : 4
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 2,
+      "y" : 4
+    },
+    {
+      "color" : 1,
+      "type" : "gem",
+      "x" : 3,
+      "y" : 4
+    },
+    {
+      "color" : 3,
+      "type" : "gem",
+      "x" : 4,
+      "y" : 4
+    },
+    {
+      "color" : 4,
+      "type" : "gem",
+      "x" : 5,
+      "y" : 4
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 6,
+      "y" : 4
+    },
+    {
+      "color" : 1,
+      "type" : "gem",
+      "x" : 7,
+      "y" : 4
+    },
+    {
+      "color" : 3,
+      "type" : "gem",
+      "x" : 0,
+      "y" : 5
+    },
+    {
+      "color" : 3,
+      "type" : "gem",
+      "x" : 1,
+      "y" : 5
+    },
+    {
+      "color" : 2,
+      "type" : "gem",
+      "x" : 2,
+      "y" : 5
+    },
+    {
+      "color" : 2,
+      "type" : "gem",
+      "x" : 5,
+      "y" : 5
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 6,
+      "y" : 5
+    },
+    {
+      "color" : 4,
+      "type" : "gem",
+      "x" : 7,
+      "y" : 5
+    },
+    {
+      "color" : 1,
+      "type" : "gem",
+      "x" : 0,
+      "y" : 6
+    },
+    {
+      "color" : 3,
+      "type" : "gem",
+      "x" : 1,
+      "y" : 6
+    },
+    {
+      "color" : 1,
+      "type" : "gem",
+      "x" : 2,
+      "y" : 6
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 3,
+      "y" : 6
+    },
+    {
+      "color" : 2,
+      "type" : "gem",
+      "x" : 4,
+      "y" : 6
+    },
+    {
+      "color" : 2,
+      "type" : "gem",
+      "x" : 5,
+      "y" : 6
+    },
+    {
+      "color" : 1,
+      "type" : "gem",
+      "x" : 6,
+      "y" : 6
+    },
+    {
+      "color" : 4,
+      "type" : "gem",
+      "x" : 7,
+      "y" : 6
+    },
+    {
+      "color" : 4,
+      "type" : "gem",
+      "x" : 0,
+      "y" : 7
+    },
+    {
+      "color" : 2,
+      "type" : "gem",
+      "x" : 1,
+      "y" : 7
+    },
+    {
+      "color" : 3,
+      "type" : "gem",
+      "x" : 2,
+      "y" : 7
+    },
+    {
+      "color" : 1,
+      "type" : "gem",
+      "x" : 3,
+      "y" : 7
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 4,
+      "y" : 7
+    },
+    {
+      "color" : 1,
+      "type" : "gem",
+      "x" : 5,
+      "y" : 7
+    },
+    {
+      "color" : 4,
+      "type" : "gem",
+      "x" : 6,
+      "y" : 7
+    },
+    {
+      "color" : 3,
+      "type" : "gem",
+      "x" : 7,
+      "y" : 7
+    }
+  ],
+  "initialOrientation" : 0,
+  "levelVersion" : 1,
+  "mask" : [
+    "11111111",
+    "11111111",
+    "11111111",
+    "11111111",
+    "11111111",
+    "11111111",
+    "11111111",
+    "11111111"
+  ],
+  "n" : 8,
+  "objectives" : [
+    {
+      "type" : "plates"
+    },
+    {
+      "color" : 1,
+      "target" : 41,
+      "type" : "collect"
+    }
+  ],
+  "overlays" : [
+    {
+      "hp" : 1,
+      "type" : "chain",
+      "x" : 2,
+      "y" : 0
+    },
+    {
+      "hp" : 1,
+      "type" : "chain",
+      "x" : 5,
+      "y" : 0
+    },
+    {
+      "hp" : 1,
+      "type" : "chain",
+      "x" : 2,
+      "y" : 3
+    },
+    {
+      "hp" : 1,
+      "type" : "chain",
+      "x" : 5,
+      "y" : 3
+    },
+    {
+      "hp" : 1,
+      "type" : "chain",
+      "x" : 2,
+      "y" : 6
+    },
+    {
+      "hp" : 1,
+      "type" : "chain",
+      "x" : 5,
+      "y" : 6
+    },
+    {
+      "hp" : 1,
+      "type" : "chain",
+      "x" : 0,
+      "y" : 7
+    },
+    {
+      "hp" : 1,
+      "type" : "chain",
+      "x" : 7,
+      "y" : 7
+    }
+  ],
+  "playtestStatus" : "solver-verified; automated bot win rate 88% (24 runs, no refill peeking); manual playtest not performed",
+  "requiredTurns" : 0,
+  "rngAlgorithmVersion" : 1,
+  "seed" : 3325387614824763,
+  "shape" : "S8",
+  "shutterSwitchLinks" : [
+
+  ],
+  "solutionTrace" : [
+    {
+      "action" : "rotate",
+      "hash" : "55d71baf617cb7d0"
+    },
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 0,
+        "y" : 3
+      },
+      "hash" : "98bd2af90fa923a8",
+      "to" : {
+        "x" : 1,
+        "y" : 3
+      }
+    },
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 5,
+        "y" : 2
+      },
+      "hash" : "21e08bf9a2bee400",
+      "to" : {
+        "x" : 6,
+        "y" : 2
+      }
+    },
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 6,
+        "y" : 0
+      },
+      "hash" : "360336364a6a784d",
+      "to" : {
+        "x" : 7,
+        "y" : 0
+      }
+    },
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 6,
+        "y" : 0
+      },
+      "hash" : "a098b79bda33a7de",
+      "to" : {
+        "x" : 6,
+        "y" : 1
+      }
+    },
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 5,
+        "y" : 2
+      },
+      "hash" : "3ab91583a8702c93",
+      "to" : {
+        "x" : 5,
+        "y" : 3
+      }
+    },
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 4,
+        "y" : 2
+      },
+      "hash" : "e09e93c8896cf96a",
+      "to" : {
+        "x" : 5,
+        "y" : 2
+      }
+    },
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 5,
+        "y" : 6
+      },
+      "hash" : "8df51201d6475995",
+      "to" : {
+        "x" : 5,
+        "y" : 7
+      }
+    },
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 3,
+        "y" : 3
+      },
+      "hash" : "ee6e8cfc4c8cfcb4",
+      "to" : {
+        "x" : 3,
+        "y" : 4
+      }
+    },
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 7,
+        "y" : 3
+      },
+      "hash" : "99a377fc77c7d22d",
+      "to" : {
+        "x" : 7,
+        "y" : 4
+      }
+    }
+  ],
+  "title" : "Braced Rigging",
+  "turnBrief" : "1",
+  "tutorialSteps" : [
+
+  ],
+  "worldID" : 5
+}

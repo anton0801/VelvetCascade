@@ -1,0 +1,37 @@
+{
+  "id": "A02",
+  "variant": 1,
+  "time": "2026-09-29T10:29:11+00:00",
+  "runtimeFile": "VelvetCascade/Resources/Audio/vc_footlight_air_loop.wav",
+  "strippedLeadingSamples": 0,
+  "strippedTrailingSamples": 0,
+  "providerLoopSeam": 0.329,
+  "method": "provider loop kept (seam already clean)",
+  "loopFrames": 480000,
+  "crossfadeMs": 0,
+  "level": {
+    "gainDb": -0.24,
+    "peakCeilingDb": -12.0,
+    "rmsCeilingDb": -36.0
+  },
+  "seamAfterEdit": {
+    "seamClickRatio": 0.33,
+    "pass": true,
+    "channels": [
+      {
+        "channel": 0,
+        "seamJump": 0.009888,
+        "seamD2": 0.018219,
+        "localP99D2": 0.055267,
+        "ratio": 0.33
+      },
+      {
+        "channel": 1,
+        "seamJump": 0.009705,
+        "seamD2": 0.017792,
+        "localP99D2": 0.055664,
+        "ratio": 0.32
+      }
+    ]
+  }
+}

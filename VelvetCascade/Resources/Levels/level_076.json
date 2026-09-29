@@ -1,0 +1,529 @@
+{
+  "authoredDifficulty" : 6,
+  "blockers" : [
+    {
+      "hp" : 2,
+      "type" : "crate",
+      "x" : 1,
+      "y" : 3
+    },
+    {
+      "hp" : 2,
+      "type" : "crate",
+      "x" : 2,
+      "y" : 3
+    },
+    {
+      "hp" : 2,
+      "type" : "crate",
+      "x" : 5,
+      "y" : 3
+    },
+    {
+      "hp" : 1,
+      "type" : "crate",
+      "x" : 2,
+      "y" : 6
+    },
+    {
+      "hp" : 2,
+      "type" : "crate",
+      "x" : 3,
+      "y" : 6
+    },
+    {
+      "hp" : 1,
+      "type" : "crate",
+      "x" : 4,
+      "y" : 6
+    }
+  ],
+  "campaignVersion" : 1,
+  "exitPorts" : [
+
+  ],
+  "fiveColorPalette" : [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "floors" : [
+    {
+      "hp" : 1,
+      "type" : "plate",
+      "x" : 3,
+      "y" : 1
+    },
+    {
+      "hp" : 1,
+      "type" : "plate",
+      "x" : 2,
+      "y" : 2
+    },
+    {
+      "hp" : 1,
+      "type" : "plate",
+      "x" : 3,
+      "y" : 2
+    },
+    {
+      "hp" : 1,
+      "type" : "plate",
+      "x" : 4,
+      "y" : 2
+    },
+    {
+      "hp" : 1,
+      "type" : "plate",
+      "x" : 0,
+      "y" : 3
+    },
+    {
+      "hp" : 1,
+      "type" : "plate",
+      "x" : 3,
+      "y" : 3
+    },
+    {
+      "hp" : 1,
+      "type" : "plate",
+      "x" : 4,
+      "y" : 3
+    },
+    {
+      "hp" : 1,
+      "type" : "plate",
+      "x" : 6,
+      "y" : 3
+    },
+    {
+      "hp" : 1,
+      "type" : "plate",
+      "x" : 2,
+      "y" : 4
+    },
+    {
+      "hp" : 1,
+      "type" : "plate",
+      "x" : 3,
+      "y" : 4
+    },
+    {
+      "hp" : 1,
+      "type" : "plate",
+      "x" : 4,
+      "y" : 4
+    },
+    {
+      "hp" : 1,
+      "type" : "plate",
+      "x" : 3,
+      "y" : 5
+    }
+  ],
+  "id" : 76,
+  "initialCharge" : 6,
+  "initialMoves" : 30,
+  "initialOccupants" : [
+    {
+      "color" : 4,
+      "type" : "gem",
+      "x" : 2,
+      "y" : 0
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 3,
+      "y" : 0
+    },
+    {
+      "color" : 4,
+      "type" : "gem",
+      "x" : 4,
+      "y" : 0
+    },
+    {
+      "color" : 2,
+      "type" : "gem",
+      "x" : 1,
+      "y" : 1
+    },
+    {
+      "color" : 2,
+      "type" : "gem",
+      "x" : 2,
+      "y" : 1
+    },
+    {
+      "color" : 1,
+      "type" : "gem",
+      "x" : 3,
+      "y" : 1
+    },
+    {
+      "color" : 3,
+      "type" : "gem",
+      "x" : 4,
+      "y" : 1
+    },
+    {
+      "color" : 2,
+      "type" : "gem",
+      "x" : 5,
+      "y" : 1
+    },
+    {
+      "color" : 3,
+      "type" : "gem",
+      "x" : 0,
+      "y" : 2
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 1,
+      "y" : 2
+    },
+    {
+      "color" : 2,
+      "type" : "gem",
+      "x" : 2,
+      "y" : 2
+    },
+    {
+      "color" : 3,
+      "type" : "gem",
+      "x" : 3,
+      "y" : 2
+    },
+    {
+      "color" : 3,
+      "type" : "gem",
+      "x" : 4,
+      "y" : 2
+    },
+    {
+      "color" : 4,
+      "type" : "gem",
+      "x" : 5,
+      "y" : 2
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 6,
+      "y" : 2
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 0,
+      "y" : 3
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 3,
+      "y" : 3
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 4,
+      "y" : 3
+    },
+    {
+      "color" : 1,
+      "type" : "gem",
+      "x" : 6,
+      "y" : 3
+    },
+    {
+      "color" : 4,
+      "type" : "gem",
+      "x" : 0,
+      "y" : 4
+    },
+    {
+      "color" : 4,
+      "type" : "gem",
+      "x" : 1,
+      "y" : 4
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 2,
+      "y" : 4
+    },
+    {
+      "color" : 1,
+      "type" : "gem",
+      "x" : 3,
+      "y" : 4
+    },
+    {
+      "color" : 3,
+      "type" : "gem",
+      "x" : 4,
+      "y" : 4
+    },
+    {
+      "color" : 3,
+      "type" : "gem",
+      "x" : 5,
+      "y" : 4
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 6,
+      "y" : 4
+    },
+    {
+      "color" : 3,
+      "type" : "gem",
+      "x" : 1,
+      "y" : 5
+    },
+    {
+      "color" : 2,
+      "type" : "gem",
+      "x" : 2,
+      "y" : 5
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 3,
+      "y" : 5
+    },
+    {
+      "color" : 3,
+      "type" : "gem",
+      "x" : 4,
+      "y" : 5
+    },
+    {
+      "color" : 2,
+      "type" : "gem",
+      "x" : 5,
+      "y" : 5
+    }
+  ],
+  "initialOrientation" : 0,
+  "levelVersion" : 1,
+  "mask" : [
+    "0011100",
+    "0111110",
+    "1111111",
+    "1111111",
+    "1111111",
+    "0111110",
+    "0011100"
+  ],
+  "n" : 7,
+  "objectives" : [
+    {
+      "type" : "plates"
+    },
+    {
+      "color" : 3,
+      "target" : 41,
+      "type" : "collect"
+    }
+  ],
+  "overlays" : [
+    {
+      "hp" : 1,
+      "type" : "ice",
+      "x" : 3,
+      "y" : 0
+    },
+    {
+      "hp" : 1,
+      "type" : "ice",
+      "x" : 2,
+      "y" : 2
+    },
+    {
+      "hp" : 1,
+      "type" : "ice",
+      "x" : 4,
+      "y" : 2
+    },
+    {
+      "hp" : 1,
+      "type" : "ice",
+      "x" : 0,
+      "y" : 4
+    },
+    {
+      "hp" : 1,
+      "type" : "ice",
+      "x" : 2,
+      "y" : 4
+    },
+    {
+      "hp" : 1,
+      "type" : "ice",
+      "x" : 6,
+      "y" : 4
+    }
+  ],
+  "playtestStatus" : "solver-verified; automated bot win rate 67% (24 runs, no refill peeking); manual playtest not performed",
+  "requiredTurns" : 0,
+  "rngAlgorithmVersion" : 1,
+  "seed" : 260877161664506,
+  "shape" : "D7",
+  "shutterSwitchLinks" : [
+
+  ],
+  "solutionTrace" : [
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 4,
+        "y" : 3
+      },
+      "hash" : "48558ec1e6123918",
+      "to" : {
+        "x" : 4,
+        "y" : 4
+      }
+    },
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 3,
+        "y" : 4
+      },
+      "hash" : "9a544b7e23b31737",
+      "to" : {
+        "x" : 4,
+        "y" : 4
+      }
+    },
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 5,
+        "y" : 4
+      },
+      "hash" : "53cac7bd05ac05c5",
+      "to" : {
+        "x" : 5,
+        "y" : 5
+      }
+    },
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 3,
+        "y" : 3
+      },
+      "hash" : "74f17ee5599923da",
+      "to" : {
+        "x" : 4,
+        "y" : 3
+      }
+    },
+    {
+      "action" : "rotate",
+      "hash" : "faed5d9c09ff35da"
+    },
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 2,
+        "y" : 2
+      },
+      "hash" : "8350d258fb77501c",
+      "to" : {
+        "x" : 3,
+        "y" : 2
+      }
+    },
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 4,
+        "y" : 3
+      },
+      "hash" : "e1a86e9977d12a50",
+      "to" : {
+        "x" : 5,
+        "y" : 3
+      }
+    },
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 5,
+        "y" : 3
+      },
+      "hash" : "f4ce974a5dc43f8e",
+      "to" : {
+        "x" : 6,
+        "y" : 3
+      }
+    },
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 1,
+        "y" : 3
+      },
+      "hash" : "2fe95864b65f4b53",
+      "to" : {
+        "x" : 2,
+        "y" : 3
+      }
+    },
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 4,
+        "y" : 3
+      },
+      "hash" : "44c2868d038c1dcd",
+      "to" : {
+        "x" : 5,
+        "y" : 3
+      }
+    },
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 3,
+        "y" : 1
+      },
+      "hash" : "21a5eac1527ed334",
+      "to" : {
+        "x" : 3,
+        "y" : 2
+      }
+    },
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 4,
+        "y" : 2
+      },
+      "hash" : "a07657ec11b699dd",
+      "to" : {
+        "x" : 5,
+        "y" : 2
+      }
+    }
+  ],
+  "title" : "Ice and Timber",
+  "turnBrief" : "1",
+  "tutorialSteps" : [
+
+  ],
+  "worldID" : 4
+}

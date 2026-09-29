@@ -1,0 +1,618 @@
+{
+  "authoredDifficulty" : 10,
+  "blockers" : [
+
+  ],
+  "campaignVersion" : 1,
+  "exitPorts" : [
+    {
+      "direction" : 1,
+      "keyID" : 1,
+      "x" : 7,
+      "y" : 7
+    },
+    {
+      "direction" : 2,
+      "keyID" : 2,
+      "x" : 7,
+      "y" : 0
+    },
+    {
+      "direction" : 3,
+      "keyID" : 3,
+      "x" : 0,
+      "y" : 0
+    }
+  ],
+  "fiveColorPalette" : [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "floors" : [
+
+  ],
+  "id" : 159,
+  "initialCharge" : 12,
+  "initialMoves" : 46,
+  "initialOccupants" : [
+    {
+      "color" : 4,
+      "type" : "gem",
+      "x" : 0,
+      "y" : 0
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 1,
+      "y" : 0
+    },
+    {
+      "keyID" : 3,
+      "type" : "key",
+      "x" : 2,
+      "y" : 0
+    },
+    {
+      "color" : 3,
+      "type" : "gem",
+      "x" : 3,
+      "y" : 0
+    },
+    {
+      "color" : 2,
+      "type" : "gem",
+      "x" : 4,
+      "y" : 0
+    },
+    {
+      "color" : 2,
+      "type" : "gem",
+      "x" : 5,
+      "y" : 0
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 6,
+      "y" : 0
+    },
+    {
+      "color" : 1,
+      "type" : "gem",
+      "x" : 7,
+      "y" : 0
+    },
+    {
+      "color" : 3,
+      "type" : "gem",
+      "x" : 0,
+      "y" : 1
+    },
+    {
+      "color" : 3,
+      "type" : "gem",
+      "x" : 1,
+      "y" : 1
+    },
+    {
+      "color" : 4,
+      "type" : "gem",
+      "x" : 2,
+      "y" : 1
+    },
+    {
+      "color" : 3,
+      "type" : "gem",
+      "x" : 3,
+      "y" : 1
+    },
+    {
+      "color" : 4,
+      "type" : "gem",
+      "x" : 4,
+      "y" : 1
+    },
+    {
+      "color" : 3,
+      "type" : "gem",
+      "x" : 5,
+      "y" : 1
+    },
+    {
+      "color" : 1,
+      "type" : "gem",
+      "x" : 6,
+      "y" : 1
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 7,
+      "y" : 1
+    },
+    {
+      "color" : 4,
+      "type" : "gem",
+      "x" : 0,
+      "y" : 2
+    },
+    {
+      "color" : 4,
+      "type" : "gem",
+      "x" : 1,
+      "y" : 2
+    },
+    {
+      "color" : 2,
+      "type" : "gem",
+      "x" : 2,
+      "y" : 2
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 3,
+      "y" : 2
+    },
+    {
+      "color" : 1,
+      "type" : "gem",
+      "x" : 4,
+      "y" : 2
+    },
+    {
+      "color" : 3,
+      "type" : "gem",
+      "x" : 5,
+      "y" : 2
+    },
+    {
+      "color" : 4,
+      "type" : "gem",
+      "x" : 6,
+      "y" : 2
+    },
+    {
+      "keyID" : 2,
+      "type" : "key",
+      "x" : 7,
+      "y" : 2
+    },
+    {
+      "color" : 1,
+      "type" : "gem",
+      "x" : 0,
+      "y" : 3
+    },
+    {
+      "color" : 1,
+      "type" : "gem",
+      "x" : 1,
+      "y" : 3
+    },
+    {
+      "color" : 2,
+      "type" : "gem",
+      "x" : 2,
+      "y" : 3
+    },
+    {
+      "color" : 1,
+      "type" : "gem",
+      "x" : 5,
+      "y" : 3
+    },
+    {
+      "color" : 3,
+      "type" : "gem",
+      "x" : 6,
+      "y" : 3
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 7,
+      "y" : 3
+    },
+    {
+      "color" : 4,
+      "type" : "gem",
+      "x" : 0,
+      "y" : 4
+    },
+    {
+      "color" : 2,
+      "type" : "gem",
+      "x" : 1,
+      "y" : 4
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 2,
+      "y" : 4
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 5,
+      "y" : 4
+    },
+    {
+      "color" : 2,
+      "type" : "gem",
+      "x" : 6,
+      "y" : 4
+    },
+    {
+      "color" : 4,
+      "type" : "gem",
+      "x" : 7,
+      "y" : 4
+    },
+    {
+      "color" : 1,
+      "type" : "gem",
+      "x" : 0,
+      "y" : 5
+    },
+    {
+      "color" : 3,
+      "type" : "gem",
+      "x" : 1,
+      "y" : 5
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 2,
+      "y" : 5
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 3,
+      "y" : 5
+    },
+    {
+      "color" : 4,
+      "type" : "gem",
+      "x" : 4,
+      "y" : 5
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 5,
+      "y" : 5
+    },
+    {
+      "color" : 1,
+      "type" : "gem",
+      "x" : 6,
+      "y" : 5
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 7,
+      "y" : 5
+    },
+    {
+      "color" : 3,
+      "type" : "gem",
+      "x" : 0,
+      "y" : 6
+    },
+    {
+      "color" : 2,
+      "type" : "gem",
+      "x" : 1,
+      "y" : 6
+    },
+    {
+      "color" : 1,
+      "type" : "gem",
+      "x" : 2,
+      "y" : 6
+    },
+    {
+      "color" : 4,
+      "type" : "gem",
+      "x" : 3,
+      "y" : 6
+    },
+    {
+      "color" : 1,
+      "type" : "gem",
+      "x" : 4,
+      "y" : 6
+    },
+    {
+      "color" : 2,
+      "type" : "gem",
+      "x" : 5,
+      "y" : 6
+    },
+    {
+      "color" : 1,
+      "type" : "gem",
+      "x" : 6,
+      "y" : 6
+    },
+    {
+      "color" : 3,
+      "type" : "gem",
+      "x" : 7,
+      "y" : 6
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 0,
+      "y" : 7
+    },
+    {
+      "color" : 1,
+      "type" : "gem",
+      "x" : 1,
+      "y" : 7
+    },
+    {
+      "color" : 3,
+      "type" : "gem",
+      "x" : 2,
+      "y" : 7
+    },
+    {
+      "color" : 2,
+      "type" : "gem",
+      "x" : 3,
+      "y" : 7
+    },
+    {
+      "color" : 1,
+      "type" : "gem",
+      "x" : 4,
+      "y" : 7
+    },
+    {
+      "keyID" : 1,
+      "type" : "key",
+      "x" : 5,
+      "y" : 7
+    },
+    {
+      "color" : 4,
+      "type" : "gem",
+      "x" : 6,
+      "y" : 7
+    },
+    {
+      "color" : 4,
+      "type" : "gem",
+      "x" : 7,
+      "y" : 7
+    }
+  ],
+  "initialOrientation" : 0,
+  "levelVersion" : 1,
+  "mask" : [
+    "11111111",
+    "11111111",
+    "11111111",
+    "11100111",
+    "11100111",
+    "11111111",
+    "11111111",
+    "11111111"
+  ],
+  "n" : 8,
+  "objectives" : [
+    {
+      "type" : "keys"
+    }
+  ],
+  "overlays" : [
+    {
+      "hp" : 1,
+      "type" : "chain",
+      "x" : 3,
+      "y" : 0
+    },
+    {
+      "hp" : 1,
+      "type" : "chain",
+      "x" : 4,
+      "y" : 0
+    },
+    {
+      "hp" : 1,
+      "type" : "ice",
+      "x" : 3,
+      "y" : 1
+    },
+    {
+      "hp" : 1,
+      "type" : "ice",
+      "x" : 4,
+      "y" : 1
+    },
+    {
+      "hp" : 1,
+      "type" : "chain",
+      "x" : 2,
+      "y" : 4
+    },
+    {
+      "hp" : 1,
+      "type" : "chain",
+      "x" : 5,
+      "y" : 4
+    },
+    {
+      "hp" : 1,
+      "type" : "ice",
+      "x" : 2,
+      "y" : 5
+    },
+    {
+      "hp" : 1,
+      "type" : "ice",
+      "x" : 5,
+      "y" : 5
+    },
+    {
+      "hp" : 1,
+      "type" : "chain",
+      "x" : 0,
+      "y" : 6
+    },
+    {
+      "hp" : 1,
+      "type" : "chain",
+      "x" : 2,
+      "y" : 6
+    },
+    {
+      "hp" : 1,
+      "type" : "chain",
+      "x" : 5,
+      "y" : 6
+    },
+    {
+      "hp" : 1,
+      "type" : "chain",
+      "x" : 7,
+      "y" : 6
+    }
+  ],
+  "playtestStatus" : "solver-verified; automated bot win rate 46% (24 runs, no refill peeking); manual playtest not performed",
+  "requiredTurns" : 3,
+  "rngAlgorithmVersion" : 1,
+  "seed" : 5171689927192614,
+  "shape" : "R8",
+  "shutterSwitchLinks" : [
+
+  ],
+  "solutionTrace" : [
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 5,
+        "y" : 3
+      },
+      "hash" : "a3a0fb8d12c7e688",
+      "to" : {
+        "x" : 6,
+        "y" : 3
+      }
+    },
+    {
+      "action" : "rotate",
+      "hash" : "f048c167f3dfc491"
+    },
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 0,
+        "y" : 3
+      },
+      "hash" : "40266de8707febac",
+      "to" : {
+        "x" : 0,
+        "y" : 4
+      }
+    },
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 1,
+        "y" : 5
+      },
+      "hash" : "8369b2e4ee9a4009",
+      "to" : {
+        "x" : 2,
+        "y" : 5
+      }
+    },
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 2,
+        "y" : 6
+      },
+      "hash" : "8ca56f62a1c8a027",
+      "to" : {
+        "x" : 2,
+        "y" : 7
+      }
+    },
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 3,
+        "y" : 6
+      },
+      "hash" : "2a330a4d81c375df",
+      "to" : {
+        "x" : 3,
+        "y" : 7
+      }
+    },
+    {
+      "action" : "rotate",
+      "hash" : "08db0635d7fd5d06"
+    },
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 0,
+        "y" : 0
+      },
+      "hash" : "721b45ecbc808826",
+      "to" : {
+        "x" : 1,
+        "y" : 0
+      }
+    },
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 1,
+        "y" : 4
+      },
+      "hash" : "0b003db802c4a04f",
+      "to" : {
+        "x" : 2,
+        "y" : 4
+      }
+    },
+    {
+      "action" : "rotate",
+      "hash" : "1f6980d210095172"
+    },
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 1,
+        "y" : 1
+      },
+      "hash" : "d574662dae9e69db",
+      "to" : {
+        "x" : 1,
+        "y" : 2
+      }
+    }
+  ],
+  "title" : "Around the Stage",
+  "turnBrief" : "3!",
+  "tutorialSteps" : [
+
+  ],
+  "worldID" : 8
+}

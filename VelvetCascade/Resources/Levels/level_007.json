@@ -1,0 +1,380 @@
+{
+  "authoredDifficulty" : 1,
+  "blockers" : [
+
+  ],
+  "campaignVersion" : 1,
+  "exitPorts" : [
+
+  ],
+  "fiveColorPalette" : [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "floors" : [
+
+  ],
+  "id" : 7,
+  "initialCharge" : 6,
+  "initialMoves" : 24,
+  "initialOccupants" : [
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 0,
+      "y" : 0
+    },
+    {
+      "color" : 3,
+      "type" : "gem",
+      "x" : 1,
+      "y" : 0
+    },
+    {
+      "color" : 2,
+      "type" : "gem",
+      "x" : 2,
+      "y" : 0
+    },
+    {
+      "color" : 4,
+      "type" : "gem",
+      "x" : 3,
+      "y" : 0
+    },
+    {
+      "color" : 1,
+      "type" : "gem",
+      "x" : 4,
+      "y" : 0
+    },
+    {
+      "color" : 3,
+      "type" : "gem",
+      "x" : 5,
+      "y" : 0
+    },
+    {
+      "color" : 4,
+      "type" : "gem",
+      "x" : 0,
+      "y" : 1
+    },
+    {
+      "color" : 4,
+      "type" : "gem",
+      "x" : 1,
+      "y" : 1
+    },
+    {
+      "color" : 1,
+      "type" : "gem",
+      "x" : 2,
+      "y" : 1
+    },
+    {
+      "color" : 2,
+      "type" : "gem",
+      "x" : 3,
+      "y" : 1
+    },
+    {
+      "color" : 2,
+      "type" : "gem",
+      "x" : 4,
+      "y" : 1
+    },
+    {
+      "color" : 3,
+      "type" : "gem",
+      "x" : 5,
+      "y" : 1
+    },
+    {
+      "color" : 3,
+      "type" : "gem",
+      "x" : 0,
+      "y" : 2
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 1,
+      "y" : 2
+    },
+    {
+      "color" : 4,
+      "type" : "gem",
+      "x" : 2,
+      "y" : 2
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 3,
+      "y" : 2
+    },
+    {
+      "color" : 1,
+      "type" : "gem",
+      "x" : 4,
+      "y" : 2
+    },
+    {
+      "color" : 1,
+      "type" : "gem",
+      "x" : 5,
+      "y" : 2
+    },
+    {
+      "color" : 4,
+      "type" : "gem",
+      "x" : 0,
+      "y" : 3
+    },
+    {
+      "color" : 1,
+      "type" : "gem",
+      "x" : 1,
+      "y" : 3
+    },
+    {
+      "color" : 2,
+      "type" : "gem",
+      "x" : 2,
+      "y" : 3
+    },
+    {
+      "color" : 4,
+      "type" : "gem",
+      "x" : 3,
+      "y" : 3
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 4,
+      "y" : 3
+    },
+    {
+      "color" : 3,
+      "type" : "gem",
+      "x" : 5,
+      "y" : 3
+    },
+    {
+      "color" : 2,
+      "type" : "gem",
+      "x" : 0,
+      "y" : 4
+    },
+    {
+      "color" : 4,
+      "type" : "gem",
+      "x" : 1,
+      "y" : 4
+    },
+    {
+      "color" : 2,
+      "type" : "gem",
+      "x" : 2,
+      "y" : 4
+    },
+    {
+      "color" : 2,
+      "type" : "gem",
+      "x" : 3,
+      "y" : 4
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 4,
+      "y" : 4
+    },
+    {
+      "color" : 4,
+      "type" : "gem",
+      "x" : 5,
+      "y" : 4
+    },
+    {
+      "color" : 2,
+      "type" : "gem",
+      "x" : 0,
+      "y" : 5
+    },
+    {
+      "color" : 2,
+      "type" : "gem",
+      "x" : 1,
+      "y" : 5
+    },
+    {
+      "color" : 1,
+      "type" : "gem",
+      "x" : 2,
+      "y" : 5
+    },
+    {
+      "color" : 2,
+      "type" : "gem",
+      "x" : 3,
+      "y" : 5
+    },
+    {
+      "color" : 1,
+      "type" : "gem",
+      "x" : 4,
+      "y" : 5
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 5,
+      "y" : 5
+    }
+  ],
+  "initialOrientation" : 0,
+  "levelVersion" : 1,
+  "mask" : [
+    "111111",
+    "111111",
+    "111111",
+    "111111",
+    "111111",
+    "111111"
+  ],
+  "n" : 6,
+  "newMechanic" : "Stage Burst",
+  "newMechanicTopic" : "specials",
+  "objectives" : [
+    {
+      "color" : 1,
+      "target" : 24,
+      "type" : "collect"
+    }
+  ],
+  "overlays" : [
+
+  ],
+  "playtestStatus" : "solver-verified; automated bot win rate 100% (24 runs, no refill peeking); manual playtest not performed",
+  "requiredTurns" : 0,
+  "rngAlgorithmVersion" : 1,
+  "seed" : 8022875413038448,
+  "shape" : "S6",
+  "shutterSwitchLinks" : [
+
+  ],
+  "solutionTrace" : [
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 2,
+        "y" : 1
+      },
+      "hash" : "816f7745280278bd",
+      "to" : {
+        "x" : 2,
+        "y" : 2
+      }
+    },
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 3,
+        "y" : 2
+      },
+      "hash" : "4fb941261271fee6",
+      "to" : {
+        "x" : 4,
+        "y" : 2
+      }
+    },
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 2,
+        "y" : 3
+      },
+      "hash" : "1c1749b324e62bfb",
+      "to" : {
+        "x" : 3,
+        "y" : 3
+      }
+    },
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 4,
+        "y" : 4
+      },
+      "hash" : "3277bbcda6cf1c4e",
+      "to" : {
+        "x" : 4,
+        "y" : 5
+      }
+    },
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 0,
+        "y" : 0
+      },
+      "hash" : "59b245ceadbe2c29",
+      "to" : {
+        "x" : 1,
+        "y" : 0
+      }
+    },
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 1,
+        "y" : 4
+      },
+      "hash" : "c70c0dc3db0b7bf5",
+      "to" : {
+        "x" : 1,
+        "y" : 5
+      }
+    },
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 0,
+        "y" : 5
+      },
+      "hash" : "a7623c04a7995964",
+      "to" : {
+        "x" : 1,
+        "y" : 5
+      }
+    },
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 1,
+        "y" : 5
+      },
+      "hash" : "493becf38ce4a3ef",
+      "to" : {
+        "x" : 2,
+        "y" : 5
+      }
+    }
+  ],
+  "title" : "Crossed Lights",
+  "turnBrief" : "0",
+  "tutorialSteps" : [
+    {
+      "text" : "Match five gems in a T or L shape to create a Stage Burst.",
+      "title" : "Crossed lights",
+      "trigger" : "start"
+    }
+  ],
+  "worldID" : 1
+}

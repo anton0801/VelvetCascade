@@ -1,0 +1,508 @@
+{
+  "authoredDifficulty" : 3,
+  "blockers" : [
+
+  ],
+  "campaignVersion" : 1,
+  "exitPorts" : [
+
+  ],
+  "fiveColorPalette" : [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "floors" : [
+    {
+      "hp" : 1,
+      "type" : "plate",
+      "x" : 1,
+      "y" : 1
+    },
+    {
+      "hp" : 1,
+      "type" : "plate",
+      "x" : 2,
+      "y" : 1
+    },
+    {
+      "hp" : 1,
+      "type" : "plate",
+      "x" : 3,
+      "y" : 1
+    },
+    {
+      "hp" : 1,
+      "type" : "plate",
+      "x" : 4,
+      "y" : 1
+    },
+    {
+      "hp" : 1,
+      "type" : "plate",
+      "x" : 1,
+      "y" : 2
+    },
+    {
+      "hp" : 2,
+      "type" : "plate",
+      "x" : 2,
+      "y" : 2
+    },
+    {
+      "hp" : 2,
+      "type" : "plate",
+      "x" : 3,
+      "y" : 2
+    },
+    {
+      "hp" : 1,
+      "type" : "plate",
+      "x" : 4,
+      "y" : 2
+    },
+    {
+      "hp" : 1,
+      "type" : "plate",
+      "x" : 1,
+      "y" : 3
+    },
+    {
+      "hp" : 2,
+      "type" : "plate",
+      "x" : 2,
+      "y" : 3
+    },
+    {
+      "hp" : 2,
+      "type" : "plate",
+      "x" : 3,
+      "y" : 3
+    },
+    {
+      "hp" : 1,
+      "type" : "plate",
+      "x" : 4,
+      "y" : 3
+    },
+    {
+      "hp" : 1,
+      "type" : "plate",
+      "x" : 1,
+      "y" : 4
+    },
+    {
+      "hp" : 1,
+      "type" : "plate",
+      "x" : 2,
+      "y" : 4
+    },
+    {
+      "hp" : 1,
+      "type" : "plate",
+      "x" : 3,
+      "y" : 4
+    },
+    {
+      "hp" : 1,
+      "type" : "plate",
+      "x" : 4,
+      "y" : 4
+    }
+  ],
+  "id" : 20,
+  "initialCharge" : 6,
+  "initialMoves" : 30,
+  "initialOccupants" : [
+    {
+      "color" : 1,
+      "type" : "gem",
+      "x" : 0,
+      "y" : 0
+    },
+    {
+      "color" : 1,
+      "type" : "gem",
+      "x" : 1,
+      "y" : 0
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 2,
+      "y" : 0
+    },
+    {
+      "color" : 4,
+      "type" : "gem",
+      "x" : 3,
+      "y" : 0
+    },
+    {
+      "color" : 4,
+      "type" : "gem",
+      "x" : 4,
+      "y" : 0
+    },
+    {
+      "color" : 3,
+      "type" : "gem",
+      "x" : 5,
+      "y" : 0
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 0,
+      "y" : 1
+    },
+    {
+      "color" : 4,
+      "type" : "gem",
+      "x" : 1,
+      "y" : 1
+    },
+    {
+      "color" : 4,
+      "type" : "gem",
+      "x" : 2,
+      "y" : 1
+    },
+    {
+      "color" : 2,
+      "type" : "gem",
+      "x" : 3,
+      "y" : 1
+    },
+    {
+      "color" : 1,
+      "type" : "gem",
+      "x" : 4,
+      "y" : 1
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 5,
+      "y" : 1
+    },
+    {
+      "color" : 1,
+      "type" : "gem",
+      "x" : 0,
+      "y" : 2
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 1,
+      "y" : 2
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 2,
+      "y" : 2
+    },
+    {
+      "color" : 2,
+      "type" : "gem",
+      "x" : 3,
+      "y" : 2
+    },
+    {
+      "color" : 4,
+      "type" : "gem",
+      "x" : 4,
+      "y" : 2
+    },
+    {
+      "color" : 1,
+      "type" : "gem",
+      "x" : 5,
+      "y" : 2
+    },
+    {
+      "color" : 3,
+      "type" : "gem",
+      "x" : 0,
+      "y" : 3
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 1,
+      "y" : 3
+    },
+    {
+      "color" : 1,
+      "type" : "gem",
+      "x" : 2,
+      "y" : 3
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 3,
+      "y" : 3
+    },
+    {
+      "color" : 3,
+      "type" : "gem",
+      "x" : 4,
+      "y" : 3
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 5,
+      "y" : 3
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 0,
+      "y" : 4
+    },
+    {
+      "color" : 2,
+      "type" : "gem",
+      "x" : 1,
+      "y" : 4
+    },
+    {
+      "color" : 2,
+      "type" : "gem",
+      "x" : 2,
+      "y" : 4
+    },
+    {
+      "color" : 1,
+      "type" : "gem",
+      "x" : 3,
+      "y" : 4
+    },
+    {
+      "color" : 4,
+      "type" : "gem",
+      "x" : 4,
+      "y" : 4
+    },
+    {
+      "color" : 4,
+      "type" : "gem",
+      "x" : 5,
+      "y" : 4
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 0,
+      "y" : 5
+    },
+    {
+      "color" : 3,
+      "type" : "gem",
+      "x" : 1,
+      "y" : 5
+    },
+    {
+      "color" : 1,
+      "type" : "gem",
+      "x" : 2,
+      "y" : 5
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 3,
+      "y" : 5
+    },
+    {
+      "color" : 1,
+      "type" : "gem",
+      "x" : 4,
+      "y" : 5
+    },
+    {
+      "color" : 1,
+      "type" : "gem",
+      "x" : 5,
+      "y" : 5
+    }
+  ],
+  "initialOrientation" : 0,
+  "levelVersion" : 1,
+  "mask" : [
+    "111111",
+    "111111",
+    "111111",
+    "111111",
+    "111111",
+    "111111"
+  ],
+  "n" : 6,
+  "objectives" : [
+    {
+      "type" : "plates"
+    },
+    {
+      "color" : 4,
+      "target" : 43,
+      "type" : "collect"
+    }
+  ],
+  "overlays" : [
+
+  ],
+  "playtestStatus" : "solver-verified; automated bot win rate 88% (24 runs, no refill peeking); manual playtest not performed",
+  "requiredTurns" : 0,
+  "rngAlgorithmVersion" : 1,
+  "seed" : 2585686965152783,
+  "shape" : "S6",
+  "shutterSwitchLinks" : [
+
+  ],
+  "solutionTrace" : [
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 2,
+        "y" : 4
+      },
+      "hash" : "62362d991bc0ae10",
+      "to" : {
+        "x" : 3,
+        "y" : 4
+      }
+    },
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 1,
+        "y" : 1
+      },
+      "hash" : "e3b46085467042de",
+      "to" : {
+        "x" : 1,
+        "y" : 2
+      }
+    },
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 0,
+        "y" : 2
+      },
+      "hash" : "45e32a8b9e6a9cfe",
+      "to" : {
+        "x" : 0,
+        "y" : 3
+      }
+    },
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 1,
+        "y" : 2
+      },
+      "hash" : "b889f5f0457f8f3f",
+      "to" : {
+        "x" : 2,
+        "y" : 2
+      }
+    },
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 1,
+        "y" : 4
+      },
+      "hash" : "770c225640664270",
+      "to" : {
+        "x" : 2,
+        "y" : 4
+      }
+    },
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 2,
+        "y" : 2
+      },
+      "hash" : "7350df3d1fe20c1d",
+      "to" : {
+        "x" : 3,
+        "y" : 2
+      }
+    },
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 0,
+        "y" : 4
+      },
+      "hash" : "5115aaed67e986a0",
+      "to" : {
+        "x" : 0,
+        "y" : 5
+      }
+    },
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 0,
+        "y" : 2
+      },
+      "hash" : "4f688236d9d0e88b",
+      "to" : {
+        "x" : 1,
+        "y" : 2
+      }
+    },
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 3,
+        "y" : 4
+      },
+      "hash" : "5c5a3ffbeae2726d",
+      "to" : {
+        "x" : 4,
+        "y" : 4
+      }
+    },
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 2,
+        "y" : 4
+      },
+      "hash" : "86f7e8cf08020f44",
+      "to" : {
+        "x" : 2,
+        "y" : 5
+      }
+    },
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 1,
+        "y" : 0
+      },
+      "hash" : "d44f3fd467412580",
+      "to" : {
+        "x" : 1,
+        "y" : 1
+      }
+    }
+  ],
+  "title" : "Ruby Finale",
+  "turnBrief" : "2",
+  "tutorialSteps" : [
+
+  ],
+  "worldID" : 1
+}

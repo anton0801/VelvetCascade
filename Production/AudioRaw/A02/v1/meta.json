@@ -1,0 +1,67 @@
+{
+  "id": "A02",
+  "variant": 1,
+  "provider": "ElevenLabs",
+  "endpoint": "/v1/sound-generation",
+  "model": "eleven_text_to_sound_v2",
+  "outputFormatRequested": "mp3_44100_128",
+  "requestHash": "sha256:5ee8b93cb6f6c618c4f01322428cf720ddcddb2685d18bf12d0f373e7c2c8443",
+  "normalizedRequest": {
+    "method": "POST",
+    "host": "api.elevenlabs.io",
+    "path": "/v1/sound-generation",
+    "query": {
+      "output_format": "mp3_44100_128"
+    },
+    "body": {
+      "text": "A seamless subdued stage footlight atmosphere with a faint warm air movement and tiny occasional safe flame flickers, no roaring fire, no speech, no music, no sharp transient.",
+      "model_id": "eleven_text_to_sound_v2",
+      "duration_seconds": 10.0,
+      "loop": true,
+      "prompt_influence": 0.5
+    }
+  },
+  "requestedAt": "2026-09-29T10:12:28+00:00",
+  "completedAt": "2026-09-29T10:12:32+00:00",
+  "elapsedSeconds": 3.36,
+  "httpStatus": 200,
+  "contentType": "audio/mpeg",
+  "providerHeaders": {
+    "date": "Tue, 29 Sep 2026 10:12:28 GMT",
+    "character-cost": "100",
+    "content-length": "160958",
+    "content-type": "audio/mpeg",
+    "x-trace-id": "014c4de1e44d21416278014fedee5a54",
+    "x-region": "us-central1"
+  },
+  "providerRequestId": "014c4de1e44d21416278014fedee5a54",
+  "rawSha256": "cf8b076731b5530659d1df93d826d257b678f4b647a24cb45c8fcc901b070133",
+  "rawBytes": 160958,
+  "accountTierAtGeneration": null,
+  "costNote": "Actual cost not invented: only provider response headers above are recorded.",
+  "listeningQA": "pending",
+  "codec": {
+    "codec_name": "mp3",
+    "codec_long_name": "MP3 (MPEG audio layer 3)",
+    "sample_rate": "44100",
+    "channels": 2,
+    "bits_per_sample": 0,
+    "bit_rate": "128000"
+  },
+  "container": "mp3",
+  "decodedDuration": 10.0,
+  "decodedChannels": 2,
+  "peakDBFS": -25.14,
+  "rmsDBFS": -35.76,
+  "rawFile": "raw.mp3",
+  "master": {
+    "file": "master.wav",
+    "sampleRate": 48000,
+    "channels": 2,
+    "bitDepth": 24,
+    "codec": "pcm_s24le",
+    "sha256": "06c4ce02e6e26805971352811305881c9c9b6a762fc5890f1d74c8645c0772dc"
+  },
+  "technicalQA": "pass",
+  "technicalQAReasons": []
+}

@@ -1,0 +1,61 @@
+{
+  "id": "A01",
+  "variant": 1,
+  "provider": "ElevenLabs",
+  "endpoint": "/v1/sound-generation",
+  "model": "eleven_text_to_sound_v2",
+  "outputFormatRequested": "mp3_44100_128",
+  "requestHash": "sha256:277bc5fd44d65401e8da56fc62cffb21cef4e10b28e1ac4882b57e960802d265",
+  "normalizedRequest": {
+    "method": "POST",
+    "host": "api.elevenlabs.io",
+    "path": "/v1/sound-generation",
+    "query": {
+      "output_format": "mp3_44100_128"
+    },
+    "body": {
+      "text": "A seamless quiet empty velvet theatre ambience, very soft room air, distant restrained wooden settling, intimate warm space, no people, no footsteps, no music, no obvious repetitive event.",
+      "model_id": "eleven_text_to_sound_v2",
+      "duration_seconds": 12.0,
+      "loop": true,
+      "prompt_influence": 0.5
+    }
+  },
+  "requestedAt": "2026-09-29T10:12:27+00:00",
+  "completedAt": "2026-09-29T10:12:32+00:00",
+  "elapsedSeconds": 4.09,
+  "httpStatus": 200,
+  "contentType": "audio/mpeg",
+  "providerHeaders": {
+    "date": "Tue, 29 Sep 2026 10:12:27 GMT",
+    "character-cost": "120",
+    "content-length": "193141",
+    "content-type": "audio/mpeg",
+    "x-trace-id": "cbcd154faef595e162527fcfdd50d902",
+    "x-region": "us-central1"
+  },
+  "providerRequestId": "cbcd154faef595e162527fcfdd50d902",
+  "rawSha256": "83076fffc3130b3e33a594931e23287e8e77f1a8f59ea37a688da6afe0ef2367",
+  "rawBytes": 193141,
+  "accountTierAtGeneration": null,
+  "costNote": "Actual cost not invented: only provider response headers above are recorded.",
+  "listeningQA": "pending",
+  "codec": {
+    "codec_name": "mp3",
+    "codec_long_name": "MP3 (MPEG audio layer 3)",
+    "sample_rate": "44100",
+    "channels": 2,
+    "bits_per_sample": 0,
+    "bit_rate": "128000"
+  },
+  "container": "mp3",
+  "decodedDuration": 12.0,
+  "decodedChannels": 2,
+  "peakDBFS": -52.29,
+  "rmsDBFS": -65.21,
+  "rawFile": "raw_failed.mp3",
+  "technicalQA": "fail",
+  "technicalQAReasons": [
+    "near-silent output (peak -52.29 dBFS, rms -65.21 dBFS)"
+  ]
+}

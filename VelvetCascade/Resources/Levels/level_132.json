@@ -1,0 +1,499 @@
+{
+  "authoredDifficulty" : 8,
+  "blockers" : [
+    {
+      "type" : "wall",
+      "x" : 2,
+      "y" : 0
+    },
+    {
+      "type" : "wall",
+      "x" : 5,
+      "y" : 0
+    }
+  ],
+  "campaignVersion" : 1,
+  "exitPorts" : [
+    {
+      "direction" : 1,
+      "keyID" : 1,
+      "x" : 2,
+      "y" : 7
+    },
+    {
+      "direction" : 1,
+      "keyID" : 2,
+      "x" : 7,
+      "y" : 4
+    },
+    {
+      "direction" : 1,
+      "keyID" : 3,
+      "x" : 2,
+      "y" : 2
+    }
+  ],
+  "fiveColorPalette" : [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "floors" : [
+
+  ],
+  "id" : 132,
+  "initialCharge" : 6,
+  "initialMoves" : 38,
+  "initialOccupants" : [
+    {
+      "color" : 1,
+      "type" : "gem",
+      "x" : 0,
+      "y" : 0
+    },
+    {
+      "color" : 2,
+      "type" : "gem",
+      "x" : 1,
+      "y" : 0
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 6,
+      "y" : 0
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 7,
+      "y" : 0
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 0,
+      "y" : 1
+    },
+    {
+      "color" : 1,
+      "type" : "gem",
+      "x" : 1,
+      "y" : 1
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 2,
+      "y" : 1
+    },
+    {
+      "color" : 1,
+      "type" : "gem",
+      "x" : 5,
+      "y" : 1
+    },
+    {
+      "color" : 1,
+      "type" : "gem",
+      "x" : 6,
+      "y" : 1
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 7,
+      "y" : 1
+    },
+    {
+      "keyID" : 3,
+      "type" : "key",
+      "x" : 0,
+      "y" : 2
+    },
+    {
+      "color" : 1,
+      "type" : "gem",
+      "x" : 1,
+      "y" : 2
+    },
+    {
+      "color" : 2,
+      "type" : "gem",
+      "x" : 2,
+      "y" : 2
+    },
+    {
+      "color" : 1,
+      "type" : "gem",
+      "x" : 5,
+      "y" : 2
+    },
+    {
+      "color" : 4,
+      "type" : "gem",
+      "x" : 6,
+      "y" : 2
+    },
+    {
+      "color" : 4,
+      "type" : "gem",
+      "x" : 7,
+      "y" : 2
+    },
+    {
+      "color" : 4,
+      "type" : "gem",
+      "x" : 0,
+      "y" : 3
+    },
+    {
+      "color" : 2,
+      "type" : "gem",
+      "x" : 1,
+      "y" : 3
+    },
+    {
+      "color" : 4,
+      "type" : "gem",
+      "x" : 2,
+      "y" : 3
+    },
+    {
+      "color" : 3,
+      "type" : "gem",
+      "x" : 3,
+      "y" : 3
+    },
+    {
+      "color" : 1,
+      "type" : "gem",
+      "x" : 4,
+      "y" : 3
+    },
+    {
+      "color" : 3,
+      "type" : "gem",
+      "x" : 5,
+      "y" : 3
+    },
+    {
+      "color" : 2,
+      "type" : "gem",
+      "x" : 6,
+      "y" : 3
+    },
+    {
+      "color" : 4,
+      "type" : "gem",
+      "x" : 7,
+      "y" : 3
+    },
+    {
+      "color" : 3,
+      "type" : "gem",
+      "x" : 0,
+      "y" : 4
+    },
+    {
+      "color" : 3,
+      "type" : "gem",
+      "x" : 1,
+      "y" : 4
+    },
+    {
+      "color" : 1,
+      "type" : "gem",
+      "x" : 2,
+      "y" : 4
+    },
+    {
+      "color" : 4,
+      "type" : "gem",
+      "x" : 3,
+      "y" : 4
+    },
+    {
+      "keyID" : 2,
+      "type" : "key",
+      "x" : 4,
+      "y" : 4
+    },
+    {
+      "color" : 4,
+      "type" : "gem",
+      "x" : 5,
+      "y" : 4
+    },
+    {
+      "color" : 4,
+      "type" : "gem",
+      "x" : 6,
+      "y" : 4
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 7,
+      "y" : 4
+    },
+    {
+      "color" : 2,
+      "type" : "gem",
+      "x" : 0,
+      "y" : 5
+    },
+    {
+      "color" : 1,
+      "type" : "gem",
+      "x" : 1,
+      "y" : 5
+    },
+    {
+      "color" : 2,
+      "type" : "gem",
+      "x" : 2,
+      "y" : 5
+    },
+    {
+      "color" : 2,
+      "type" : "gem",
+      "x" : 5,
+      "y" : 5
+    },
+    {
+      "color" : 2,
+      "type" : "gem",
+      "x" : 6,
+      "y" : 5
+    },
+    {
+      "color" : 4,
+      "type" : "gem",
+      "x" : 7,
+      "y" : 5
+    },
+    {
+      "color" : 1,
+      "type" : "gem",
+      "x" : 0,
+      "y" : 6
+    },
+    {
+      "color" : 4,
+      "type" : "gem",
+      "x" : 1,
+      "y" : 6
+    },
+    {
+      "color" : 2,
+      "type" : "gem",
+      "x" : 2,
+      "y" : 6
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 5,
+      "y" : 6
+    },
+    {
+      "color" : 4,
+      "type" : "gem",
+      "x" : 6,
+      "y" : 6
+    },
+    {
+      "color" : 2,
+      "type" : "gem",
+      "x" : 7,
+      "y" : 6
+    },
+    {
+      "keyID" : 1,
+      "type" : "key",
+      "x" : 0,
+      "y" : 7
+    },
+    {
+      "color" : 3,
+      "type" : "gem",
+      "x" : 1,
+      "y" : 7
+    },
+    {
+      "color" : 1,
+      "type" : "gem",
+      "x" : 2,
+      "y" : 7
+    },
+    {
+      "color" : 3,
+      "type" : "gem",
+      "x" : 5,
+      "y" : 7
+    },
+    {
+      "color" : 2,
+      "type" : "gem",
+      "x" : 6,
+      "y" : 7
+    },
+    {
+      "color" : 4,
+      "type" : "gem",
+      "x" : 7,
+      "y" : 7
+    }
+  ],
+  "initialOrientation" : 0,
+  "levelVersion" : 1,
+  "mask" : [
+    "11100111",
+    "11100111",
+    "11100111",
+    "11111111",
+    "11111111",
+    "11100111",
+    "11100111",
+    "11100111"
+  ],
+  "n" : 8,
+  "objectives" : [
+    {
+      "type" : "keys"
+    }
+  ],
+  "overlays" : [
+    {
+      "hp" : 1,
+      "type" : "chain",
+      "x" : 0,
+      "y" : 0
+    },
+    {
+      "hp" : 1,
+      "type" : "chain",
+      "x" : 7,
+      "y" : 0
+    },
+    {
+      "hp" : 1,
+      "type" : "chain",
+      "x" : 3,
+      "y" : 3
+    },
+    {
+      "hp" : 1,
+      "type" : "chain",
+      "x" : 4,
+      "y" : 3
+    },
+    {
+      "hp" : 1,
+      "type" : "chain",
+      "x" : 0,
+      "y" : 5
+    },
+    {
+      "hp" : 1,
+      "type" : "chain",
+      "x" : 7,
+      "y" : 5
+    }
+  ],
+  "playtestStatus" : "solver-verified; automated bot win rate 58% (24 runs, no refill peeking); manual playtest not performed",
+  "requiredTurns" : 1,
+  "rngAlgorithmVersion" : 1,
+  "seed" : 8161604870117496,
+  "shape" : "T8",
+  "shutterSwitchLinks" : [
+
+  ],
+  "solutionTrace" : [
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 6,
+        "y" : 3
+      },
+      "hash" : "bba97fcc37ccc3cf",
+      "to" : {
+        "x" : 7,
+        "y" : 3
+      }
+    },
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 6,
+        "y" : 6
+      },
+      "hash" : "c96274c5e149ee90",
+      "to" : {
+        "x" : 7,
+        "y" : 6
+      }
+    },
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 6,
+        "y" : 3
+      },
+      "hash" : "a91583e87c921d37",
+      "to" : {
+        "x" : 6,
+        "y" : 4
+      }
+    },
+    {
+      "action" : "rotate",
+      "hash" : "e445d73cbebabf4e"
+    },
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 6,
+        "y" : 3
+      },
+      "hash" : "a2645c7a28ea1cef",
+      "to" : {
+        "x" : 6,
+        "y" : 4
+      }
+    },
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 6,
+        "y" : 2
+      },
+      "hash" : "68cd32bcf4df773e",
+      "to" : {
+        "x" : 6,
+        "y" : 3
+      }
+    },
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 6,
+        "y" : 7
+      },
+      "hash" : "f564ea67d02bb123",
+      "to" : {
+        "x" : 7,
+        "y" : 7
+      }
+    }
+  ],
+  "title" : "Three Deliveries",
+  "turnBrief" : "1!",
+  "tutorialSteps" : [
+
+  ],
+  "worldID" : 7
+}

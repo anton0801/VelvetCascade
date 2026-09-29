@@ -1,0 +1,21 @@
+{
+  "id": "S02",
+  "variant": 1,
+  "time": "2026-09-29T10:29:01+00:00",
+  "runtimeFile": "VelvetCascade/Resources/Audio/vc_ui_back.wav",
+  "method": "onset-trim + decay-preserving taper",
+  "sourceOnsetSample": 0,
+  "sourceStartSample": 0,
+  "targetFrames": 9600,
+  "tailLevelBeforeShapingDbRel": -27.4,
+  "decayShaped": true,
+  "fadeInMs": 2.0,
+  "fadeOutMs": 8.0,
+  "dcFilter": "one-pole high-pass 20 Hz",
+  "level": {
+    "gainDb": -2.89,
+    "peakCeilingDb": -9.0,
+    "rmsCeilingDb": null
+  },
+  "seamAfterEdit": null
+}

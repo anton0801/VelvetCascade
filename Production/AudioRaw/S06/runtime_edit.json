@@ -1,0 +1,21 @@
+{
+  "id": "S06",
+  "variant": 1,
+  "time": "2026-09-29T10:29:02+00:00",
+  "runtimeFile": "VelvetCascade/Resources/Audio/vc_curtain_close.wav",
+  "method": "onset-trim",
+  "sourceOnsetSample": 5,
+  "sourceStartSample": 0,
+  "targetFrames": 31200,
+  "tailLevelBeforeShapingDbRel": -40.2,
+  "decayShaped": false,
+  "fadeInMs": 2.0,
+  "fadeOutMs": 8.0,
+  "dcFilter": "one-pole high-pass 20 Hz",
+  "level": {
+    "gainDb": -0.9,
+    "peakCeilingDb": -6.0,
+    "rmsCeilingDb": null
+  },
+  "seamAfterEdit": null
+}

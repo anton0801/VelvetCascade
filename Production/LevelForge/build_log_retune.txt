@@ -1,0 +1,21 @@
+Forging 19 levels with 8 jobs…
+L043 Crate Row ok; outside-band(100%) moves 28→22 sol 4 (turns 1, req 0) bot 100% 4.2s
+L047 Under the Props ok; outside-band(100%) moves 30→24 sol 5 (turns 1, req 0) bot 100% 5.2s
+L067 Warm Centre ok moves 30→30 sol 6 (turns 1, req 0) bot 71% 5.5s
+L074 Under the Ice ok moves 34→39 sol 11 (turns 2, req 0) bot 62% 11.8s
+L082 Hanging Row ok; outside-band(100%) moves 30→24 sol 4 (turns 1, req 0) bot 100% 12.6s
+L028 Two Appointments ok; outside-band(100%) moves 30→24 sol 8 (turns 1, req 1) bot 100% 22.7s
+L134 Stitched Bridge ok; outside-band(96%) moves 38→30 sol 8 (turns 1, req 0) bot 96% 16.4s
+L084 Chain and Frost ok; outside-band(100%) moves 32→25 sol 8 (turns 0, req 0) bot 100% 31.4s
+L093 Braced Rigging ok moves 34→34 sol 10 (turns 1, req 0) bot 88% 27.3s
+L087 Suspended Carpet ok; outside-band(92%) moves 34→27 sol 6 (turns 1, req 0) bot 92% 34.5s
+L096 Mixed Rigging ok; outside-band(96%) moves 36→28 sol 9 (turns 1, req 0) bot 96% 33.9s
+L153 An Inner Stitch ok; outside-band(100%) moves 38→30 sol 7 (turns 2, req 0) bot 100% 22.4s
+L089 A Bright Release ok; outside-band(92%) moves 32→25 sol 9 (turns 2, req 0) bot 92% 43.9s
+L165 Five Bright Shapes ok; outside-band(100%) moves 38→30 sol 7 (turns 0, req 0) bot 100% 29.2s
+L140 Split Finale ok; outside-band(29%) moves 44→72 sol 12 (turns 2, req 2) bot 29% 48.9s
+L176 A Woven Ovation ok; outside-band(88%) moves 44→35 sol 11 (turns 2, req 0) bot 88% 33.6s
+L166 The Brass Circle ok; outside-band(100%) moves 42→33 sol 5 (turns 2, req 2) bot 100% 40.2s
+L178 The Penultimate Cue ok; outside-band(17%) moves 46→76 sol 14 (turns 2, req 2) bot 17% 45.7s
+L179 Grand Procession ok; outside-band(29%) moves 48→78 sol 13 (turns 3, req 3) bot 29% 47.0s
+Done. 180 records, 16 not ok: ["28:ok; outside-band(100%)", "43:ok; outside-band(100%)", "47:ok; outside-band(100%)", "82:ok; outside-band(100%)", "84:ok; outside-band(100%)", "87:ok; outside-band(92%)", "89:ok; outside-band(92%)", "96:ok; outside-band(96%)", "134:ok; outside-band(96%)", "140:ok; outside-band(29%)", "153:ok; outside-band(100%)", "165:ok; outside-band(100%)", "166:ok; outside-band(100%)", "176:ok; outside-band(88%)", "178:ok; outside-band(17%)", "179:ok; outside-band(29%)"]

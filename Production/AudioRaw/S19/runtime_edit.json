@@ -1,0 +1,21 @@
+{
+  "id": "S19",
+  "variant": 1,
+  "time": "2026-09-29T10:29:05+00:00",
+  "runtimeFile": "VelvetCascade/Resources/Audio/vc_turn_ready.wav",
+  "method": "onset-trim",
+  "sourceOnsetSample": 9,
+  "sourceStartSample": 0,
+  "targetFrames": 33600,
+  "tailLevelBeforeShapingDbRel": -77.3,
+  "decayShaped": false,
+  "fadeInMs": 2.0,
+  "fadeOutMs": 8.0,
+  "dcFilter": "one-pole high-pass 20 Hz",
+  "level": {
+    "gainDb": -4.06,
+    "peakCeilingDb": -4.5,
+    "rmsCeilingDb": null
+  },
+  "seamAfterEdit": null
+}

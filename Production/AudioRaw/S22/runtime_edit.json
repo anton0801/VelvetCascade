@@ -1,0 +1,21 @@
+{
+  "id": "S22",
+  "variant": 1,
+  "time": "2026-09-29T10:29:06+00:00",
+  "runtimeFile": "VelvetCascade/Resources/Audio/vc_turn_lock.wav",
+  "method": "onset-trim",
+  "sourceOnsetSample": 28,
+  "sourceStartSample": 0,
+  "targetFrames": 10560,
+  "tailLevelBeforeShapingDbRel": -47.0,
+  "decayShaped": false,
+  "fadeInMs": 2.0,
+  "fadeOutMs": 8.0,
+  "dcFilter": "one-pole high-pass 20 Hz",
+  "level": {
+    "gainDb": -3.45,
+    "peakCeilingDb": -4.5,
+    "rmsCeilingDb": null
+  },
+  "seamAfterEdit": null
+}

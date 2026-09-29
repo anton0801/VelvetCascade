@@ -1,0 +1,660 @@
+{
+  "authoredDifficulty" : 10,
+  "blockers" : [
+    {
+      "hp" : 1,
+      "type" : "crate",
+      "x" : 2,
+      "y" : 5
+    },
+    {
+      "hp" : 1,
+      "type" : "crate",
+      "x" : 5,
+      "y" : 5
+    },
+    {
+      "hp" : 1,
+      "type" : "crate",
+      "x" : 2,
+      "y" : 6
+    },
+    {
+      "hp" : 1,
+      "type" : "crate",
+      "x" : 5,
+      "y" : 6
+    }
+  ],
+  "campaignVersion" : 1,
+  "exitPorts" : [
+
+  ],
+  "fiveColorPalette" : [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "floors" : [
+    {
+      "hp" : 1,
+      "type" : "plate",
+      "x" : 2,
+      "y" : 1
+    },
+    {
+      "hp" : 1,
+      "type" : "plate",
+      "x" : 5,
+      "y" : 1
+    },
+    {
+      "hp" : 1,
+      "type" : "plate",
+      "x" : 1,
+      "y" : 2
+    },
+    {
+      "hp" : 1,
+      "type" : "plate",
+      "x" : 2,
+      "y" : 2
+    },
+    {
+      "hp" : 1,
+      "type" : "plate",
+      "x" : 5,
+      "y" : 2
+    },
+    {
+      "hp" : 1,
+      "type" : "plate",
+      "x" : 6,
+      "y" : 2
+    },
+    {
+      "hp" : 1,
+      "type" : "plate",
+      "x" : 1,
+      "y" : 3
+    },
+    {
+      "hp" : 1,
+      "type" : "plate",
+      "x" : 2,
+      "y" : 3
+    },
+    {
+      "hp" : 2,
+      "type" : "plate",
+      "x" : 3,
+      "y" : 3
+    },
+    {
+      "hp" : 2,
+      "type" : "plate",
+      "x" : 4,
+      "y" : 3
+    },
+    {
+      "hp" : 1,
+      "type" : "plate",
+      "x" : 5,
+      "y" : 3
+    },
+    {
+      "hp" : 1,
+      "type" : "plate",
+      "x" : 6,
+      "y" : 3
+    },
+    {
+      "hp" : 1,
+      "type" : "plate",
+      "x" : 1,
+      "y" : 4
+    },
+    {
+      "hp" : 2,
+      "type" : "plate",
+      "x" : 2,
+      "y" : 4
+    },
+    {
+      "hp" : 2,
+      "type" : "plate",
+      "x" : 3,
+      "y" : 4
+    },
+    {
+      "hp" : 2,
+      "type" : "plate",
+      "x" : 4,
+      "y" : 4
+    },
+    {
+      "hp" : 2,
+      "type" : "plate",
+      "x" : 5,
+      "y" : 4
+    },
+    {
+      "hp" : 1,
+      "type" : "plate",
+      "x" : 6,
+      "y" : 4
+    }
+  ],
+  "id" : 174,
+  "initialCharge" : 0,
+  "initialMoves" : 42,
+  "initialOccupants" : [
+    {
+      "color" : 3,
+      "type" : "gem",
+      "x" : 0,
+      "y" : 0
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 1,
+      "y" : 0
+    },
+    {
+      "color" : 2,
+      "type" : "gem",
+      "x" : 2,
+      "y" : 0
+    },
+    {
+      "color" : 3,
+      "type" : "gem",
+      "x" : 5,
+      "y" : 0
+    },
+    {
+      "color" : 4,
+      "type" : "gem",
+      "x" : 6,
+      "y" : 0
+    },
+    {
+      "color" : 2,
+      "type" : "gem",
+      "x" : 7,
+      "y" : 0
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 0,
+      "y" : 1
+    },
+    {
+      "color" : 2,
+      "type" : "gem",
+      "x" : 1,
+      "y" : 1
+    },
+    {
+      "color" : 3,
+      "type" : "gem",
+      "x" : 2,
+      "y" : 1
+    },
+    {
+      "color" : 2,
+      "type" : "gem",
+      "x" : 5,
+      "y" : 1
+    },
+    {
+      "color" : 4,
+      "type" : "gem",
+      "x" : 6,
+      "y" : 1
+    },
+    {
+      "color" : 3,
+      "type" : "gem",
+      "x" : 7,
+      "y" : 1
+    },
+    {
+      "color" : 1,
+      "type" : "gem",
+      "x" : 0,
+      "y" : 2
+    },
+    {
+      "color" : 4,
+      "type" : "gem",
+      "x" : 1,
+      "y" : 2
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 2,
+      "y" : 2
+    },
+    {
+      "color" : 4,
+      "type" : "gem",
+      "x" : 5,
+      "y" : 2
+    },
+    {
+      "color" : 3,
+      "type" : "gem",
+      "x" : 6,
+      "y" : 2
+    },
+    {
+      "color" : 2,
+      "type" : "gem",
+      "x" : 7,
+      "y" : 2
+    },
+    {
+      "color" : 4,
+      "type" : "gem",
+      "x" : 0,
+      "y" : 3
+    },
+    {
+      "color" : 1,
+      "type" : "gem",
+      "x" : 1,
+      "y" : 3
+    },
+    {
+      "color" : 1,
+      "type" : "gem",
+      "x" : 2,
+      "y" : 3
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 3,
+      "y" : 3
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 4,
+      "y" : 3
+    },
+    {
+      "color" : 4,
+      "type" : "gem",
+      "x" : 5,
+      "y" : 3
+    },
+    {
+      "color" : 4,
+      "type" : "gem",
+      "x" : 6,
+      "y" : 3
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 7,
+      "y" : 3
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 0,
+      "y" : 4
+    },
+    {
+      "color" : 2,
+      "type" : "gem",
+      "x" : 1,
+      "y" : 4
+    },
+    {
+      "color" : 4,
+      "type" : "gem",
+      "x" : 2,
+      "y" : 4
+    },
+    {
+      "color" : 1,
+      "type" : "gem",
+      "x" : 3,
+      "y" : 4
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 4,
+      "y" : 4
+    },
+    {
+      "color" : 2,
+      "type" : "gem",
+      "x" : 5,
+      "y" : 4
+    },
+    {
+      "color" : 1,
+      "type" : "gem",
+      "x" : 6,
+      "y" : 4
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 7,
+      "y" : 4
+    },
+    {
+      "color" : 4,
+      "type" : "gem",
+      "x" : 0,
+      "y" : 5
+    },
+    {
+      "color" : 1,
+      "type" : "gem",
+      "x" : 1,
+      "y" : 5
+    },
+    {
+      "color" : 4,
+      "type" : "gem",
+      "x" : 6,
+      "y" : 5
+    },
+    {
+      "color" : 1,
+      "type" : "gem",
+      "x" : 7,
+      "y" : 5
+    },
+    {
+      "color" : 1,
+      "type" : "gem",
+      "x" : 0,
+      "y" : 6
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 1,
+      "y" : 6
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 6,
+      "y" : 6
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 7,
+      "y" : 6
+    },
+    {
+      "color" : 1,
+      "type" : "gem",
+      "x" : 0,
+      "y" : 7
+    },
+    {
+      "color" : 2,
+      "type" : "gem",
+      "x" : 1,
+      "y" : 7
+    },
+    {
+      "color" : 1,
+      "type" : "gem",
+      "x" : 2,
+      "y" : 7
+    },
+    {
+      "color" : 1,
+      "type" : "gem",
+      "x" : 5,
+      "y" : 7
+    },
+    {
+      "color" : 1,
+      "type" : "gem",
+      "x" : 6,
+      "y" : 7
+    },
+    {
+      "color" : 3,
+      "type" : "gem",
+      "x" : 7,
+      "y" : 7
+    }
+  ],
+  "initialOrientation" : 0,
+  "levelVersion" : 1,
+  "mask" : [
+    "11100111",
+    "11100111",
+    "11100111",
+    "11111111",
+    "11111111",
+    "11100111",
+    "11100111",
+    "11100111"
+  ],
+  "n" : 8,
+  "objectives" : [
+    {
+      "type" : "plates"
+    },
+    {
+      "color" : 1,
+      "target" : 42,
+      "type" : "collect"
+    }
+  ],
+  "overlays" : [
+    {
+      "hp" : 2,
+      "type" : "ice",
+      "x" : 0,
+      "y" : 1
+    },
+    {
+      "hp" : 2,
+      "type" : "ice",
+      "x" : 2,
+      "y" : 1
+    },
+    {
+      "hp" : 2,
+      "type" : "ice",
+      "x" : 5,
+      "y" : 1
+    },
+    {
+      "hp" : 2,
+      "type" : "ice",
+      "x" : 7,
+      "y" : 1
+    },
+    {
+      "hp" : 1,
+      "type" : "ice",
+      "x" : 2,
+      "y" : 3
+    },
+    {
+      "hp" : 2,
+      "type" : "ice",
+      "x" : 3,
+      "y" : 3
+    },
+    {
+      "hp" : 2,
+      "type" : "ice",
+      "x" : 4,
+      "y" : 3
+    },
+    {
+      "hp" : 1,
+      "type" : "ice",
+      "x" : 5,
+      "y" : 3
+    },
+    {
+      "hp" : 1,
+      "type" : "ice",
+      "x" : 0,
+      "y" : 6
+    },
+    {
+      "hp" : 1,
+      "type" : "ice",
+      "x" : 7,
+      "y" : 6
+    }
+  ],
+  "playtestStatus" : "solver-verified; automated bot win rate 46% (24 runs, no refill peeking); manual playtest not performed",
+  "requiredTurns" : 0,
+  "rngAlgorithmVersion" : 1,
+  "seed" : 261137394377297,
+  "shape" : "T8",
+  "shutterSwitchLinks" : [
+
+  ],
+  "solutionTrace" : [
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 0,
+        "y" : 2
+      },
+      "hash" : "c49ce53fec9702a0",
+      "to" : {
+        "x" : 0,
+        "y" : 3
+      }
+    },
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 0,
+        "y" : 5
+      },
+      "hash" : "0f5b831db8e133b2",
+      "to" : {
+        "x" : 1,
+        "y" : 5
+      }
+    },
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 1,
+        "y" : 4
+      },
+      "hash" : "1d9c17696d80b105",
+      "to" : {
+        "x" : 1,
+        "y" : 5
+      }
+    },
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 2,
+        "y" : 3
+      },
+      "hash" : "87aa76d77399d6f8",
+      "to" : {
+        "x" : 2,
+        "y" : 4
+      }
+    },
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 2,
+        "y" : 2
+      },
+      "hash" : "69ba94a244117293",
+      "to" : {
+        "x" : 2,
+        "y" : 3
+      }
+    },
+    {
+      "action" : "rotate",
+      "hash" : "460255df1c7f4939"
+    },
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 5,
+        "y" : 5
+      },
+      "hash" : "a50c2189d5fc79b9",
+      "to" : {
+        "x" : 6,
+        "y" : 5
+      }
+    },
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 7,
+        "y" : 3
+      },
+      "hash" : "4b4d5e6aa8dfc0e7",
+      "to" : {
+        "x" : 7,
+        "y" : 4
+      }
+    },
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 1,
+        "y" : 1
+      },
+      "hash" : "9906a907cfaf697c",
+      "to" : {
+        "x" : 1,
+        "y" : 2
+      }
+    },
+    {
+      "action" : "rotate",
+      "hash" : "913d1eeee582b083"
+    },
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 2,
+        "y" : 3
+      },
+      "hash" : "edcaf747dbcac0a2",
+      "to" : {
+        "x" : 2,
+        "y" : 4
+      }
+    }
+  ],
+  "title" : "Crystals Across the Gap",
+  "turnBrief" : "1",
+  "tutorialSteps" : [
+
+  ],
+  "worldID" : 9
+}

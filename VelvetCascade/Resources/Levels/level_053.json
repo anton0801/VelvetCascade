@@ -1,0 +1,466 @@
+{
+  "authoredDifficulty" : 4,
+  "blockers" : [
+    {
+      "hp" : 1,
+      "type" : "crate",
+      "x" : 2,
+      "y" : 1
+    },
+    {
+      "hp" : 1,
+      "type" : "crate",
+      "x" : 4,
+      "y" : 1
+    },
+    {
+      "hp" : 1,
+      "type" : "crate",
+      "x" : 0,
+      "y" : 2
+    },
+    {
+      "hp" : 2,
+      "type" : "crate",
+      "x" : 1,
+      "y" : 2
+    },
+    {
+      "type" : "wall",
+      "x" : 2,
+      "y" : 2
+    },
+    {
+      "type" : "wall",
+      "x" : 4,
+      "y" : 2
+    },
+    {
+      "hp" : 2,
+      "type" : "crate",
+      "x" : 5,
+      "y" : 2
+    },
+    {
+      "hp" : 1,
+      "type" : "crate",
+      "x" : 6,
+      "y" : 2
+    }
+  ],
+  "campaignVersion" : 1,
+  "exitPorts" : [
+
+  ],
+  "fiveColorPalette" : [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "floors" : [
+    {
+      "hp" : 1,
+      "type" : "plate",
+      "x" : 3,
+      "y" : 1
+    },
+    {
+      "hp" : 1,
+      "type" : "plate",
+      "x" : 3,
+      "y" : 2
+    },
+    {
+      "hp" : 1,
+      "type" : "plate",
+      "x" : 1,
+      "y" : 3
+    },
+    {
+      "hp" : 1,
+      "type" : "plate",
+      "x" : 2,
+      "y" : 3
+    },
+    {
+      "hp" : 1,
+      "type" : "plate",
+      "x" : 3,
+      "y" : 3
+    },
+    {
+      "hp" : 1,
+      "type" : "plate",
+      "x" : 4,
+      "y" : 3
+    },
+    {
+      "hp" : 1,
+      "type" : "plate",
+      "x" : 5,
+      "y" : 3
+    },
+    {
+      "hp" : 1,
+      "type" : "plate",
+      "x" : 3,
+      "y" : 4
+    }
+  ],
+  "id" : 53,
+  "initialCharge" : 12,
+  "initialMoves" : 32,
+  "initialOccupants" : [
+    {
+      "color" : 3,
+      "type" : "gem",
+      "x" : 2,
+      "y" : 0
+    },
+    {
+      "color" : 2,
+      "type" : "gem",
+      "x" : 3,
+      "y" : 0
+    },
+    {
+      "color" : 2,
+      "type" : "gem",
+      "x" : 4,
+      "y" : 0
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 3,
+      "y" : 1
+    },
+    {
+      "color" : 4,
+      "type" : "gem",
+      "x" : 3,
+      "y" : 2
+    },
+    {
+      "color" : 2,
+      "type" : "gem",
+      "x" : 0,
+      "y" : 3
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 1,
+      "y" : 3
+    },
+    {
+      "color" : 2,
+      "type" : "gem",
+      "x" : 2,
+      "y" : 3
+    },
+    {
+      "color" : 4,
+      "type" : "gem",
+      "x" : 3,
+      "y" : 3
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 4,
+      "y" : 3
+    },
+    {
+      "color" : 2,
+      "type" : "gem",
+      "x" : 5,
+      "y" : 3
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 6,
+      "y" : 3
+    },
+    {
+      "color" : 2,
+      "type" : "gem",
+      "x" : 0,
+      "y" : 4
+    },
+    {
+      "color" : 3,
+      "type" : "gem",
+      "x" : 1,
+      "y" : 4
+    },
+    {
+      "color" : 1,
+      "type" : "gem",
+      "x" : 2,
+      "y" : 4
+    },
+    {
+      "color" : 1,
+      "type" : "gem",
+      "x" : 3,
+      "y" : 4
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 4,
+      "y" : 4
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 5,
+      "y" : 4
+    },
+    {
+      "color" : 1,
+      "type" : "gem",
+      "x" : 6,
+      "y" : 4
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 2,
+      "y" : 5
+    },
+    {
+      "color" : 3,
+      "type" : "gem",
+      "x" : 3,
+      "y" : 5
+    },
+    {
+      "color" : 2,
+      "type" : "gem",
+      "x" : 4,
+      "y" : 5
+    },
+    {
+      "color" : 3,
+      "type" : "gem",
+      "x" : 2,
+      "y" : 6
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 3,
+      "y" : 6
+    },
+    {
+      "color" : 1,
+      "type" : "gem",
+      "x" : 4,
+      "y" : 6
+    }
+  ],
+  "initialOrientation" : 0,
+  "levelVersion" : 1,
+  "mask" : [
+    "0011100",
+    "0011100",
+    "1111111",
+    "1111111",
+    "1111111",
+    "0011100",
+    "0011100"
+  ],
+  "n" : 7,
+  "newMechanic" : "Brass Baffles",
+  "newMechanicTopic" : "curtainSweep",
+  "objectives" : [
+    {
+      "type" : "plates"
+    },
+    {
+      "color" : 1,
+      "target" : 43,
+      "type" : "collect"
+    }
+  ],
+  "overlays" : [
+
+  ],
+  "playtestStatus" : "solver-verified; automated bot win rate 58% (24 runs, no refill peeking); manual playtest not performed",
+  "requiredTurns" : 0,
+  "rngAlgorithmVersion" : 1,
+  "seed" : 3139084719878388,
+  "shape" : "X7",
+  "shutterSwitchLinks" : [
+
+  ],
+  "solutionTrace" : [
+    {
+      "action" : "rotate",
+      "hash" : "fca357197788a82c"
+    },
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 4,
+        "y" : 5
+      },
+      "hash" : "0a50b486a326f4dd",
+      "to" : {
+        "x" : 4,
+        "y" : 6
+      }
+    },
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 2,
+        "y" : 3
+      },
+      "hash" : "5c15ba08fe616190",
+      "to" : {
+        "x" : 2,
+        "y" : 4
+      }
+    },
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 1,
+        "y" : 3
+      },
+      "hash" : "95b0471a2dc1f053",
+      "to" : {
+        "x" : 1,
+        "y" : 4
+      }
+    },
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 3,
+        "y" : 4
+      },
+      "hash" : "1cb57cb7400cfef4",
+      "to" : {
+        "x" : 4,
+        "y" : 4
+      }
+    },
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 3,
+        "y" : 4
+      },
+      "hash" : "868d3931f0252f71",
+      "to" : {
+        "x" : 4,
+        "y" : 4
+      }
+    },
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 3,
+        "y" : 5
+      },
+      "hash" : "fb112e09d1f9f64c",
+      "to" : {
+        "x" : 3,
+        "y" : 6
+      }
+    },
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 3,
+        "y" : 4
+      },
+      "hash" : "20b83734b90df102",
+      "to" : {
+        "x" : 3,
+        "y" : 5
+      }
+    },
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 2,
+        "y" : 5
+      },
+      "hash" : "b502cfd48550fb3a",
+      "to" : {
+        "x" : 3,
+        "y" : 5
+      }
+    },
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 6,
+        "y" : 3
+      },
+      "hash" : "792a3670879355f4",
+      "to" : {
+        "x" : 6,
+        "y" : 4
+      }
+    },
+    {
+      "action" : "rotate",
+      "hash" : "8cb77defb332d147"
+    },
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 2,
+        "y" : 4
+      },
+      "hash" : "d179541904cdc527",
+      "to" : {
+        "x" : 3,
+        "y" : 4
+      }
+    },
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 3,
+        "y" : 3
+      },
+      "hash" : "57ff0073ffa1bd9d",
+      "to" : {
+        "x" : 3,
+        "y" : 4
+      }
+    },
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 0,
+        "y" : 3
+      },
+      "hash" : "501735e03aa45766",
+      "to" : {
+        "x" : 1,
+        "y" : 3
+      }
+    }
+  ],
+  "title" : "Brass Supports",
+  "turnBrief" : "1",
+  "tutorialSteps" : [
+    {
+      "text" : "Baffles never break. They split the stage into separate falls, each with its own inlet.",
+      "title" : "Brass baffles",
+      "trigger" : "start"
+    }
+  ],
+  "worldID" : 3
+}

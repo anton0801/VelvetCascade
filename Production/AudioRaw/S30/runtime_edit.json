@@ -1,0 +1,21 @@
+{
+  "id": "S30",
+  "variant": 1,
+  "time": "2026-09-29T10:29:08+00:00",
+  "runtimeFile": "VelvetCascade/Resources/Audio/vc_switch_press.wav",
+  "method": "onset-trim + decay-preserving taper",
+  "sourceOnsetSample": 468,
+  "sourceStartSample": 372,
+  "targetFrames": 10560,
+  "tailLevelBeforeShapingDbRel": -27.9,
+  "decayShaped": true,
+  "fadeInMs": 2.0,
+  "fadeOutMs": 8.0,
+  "dcFilter": "one-pole high-pass 20 Hz",
+  "level": {
+    "gainDb": -2.92,
+    "peakCeilingDb": -6.0,
+    "rmsCeilingDb": null
+  },
+  "seamAfterEdit": null
+}

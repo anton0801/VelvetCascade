@@ -1,0 +1,22 @@
+{
+  "id": "S16",
+  "variant": 1,
+  "time": "2026-09-29T10:29:05+00:00",
+  "runtimeFile": "VelvetCascade/Resources/Audio/vc_stage_burst.wav",
+  "method": "onset-trim",
+  "sourceOnsetSample": 0,
+  "sourceStartSample": 0,
+  "targetFrames": 26400,
+  "tailLevelBeforeShapingDbRel": -50.3,
+  "decayShaped": false,
+  "fadeInMs": 2.0,
+  "fadeOutMs": 8.0,
+  "dcFilter": "one-pole high-pass 20 Hz",
+  "level": {
+    "gainDb": 9.32,
+    "peakCeilingDb": -4.5,
+    "rmsCeilingDb": null,
+    "quietOutlierLift": "provider output was more than 15 dB below the ceiling; lifted to ceiling-8 dB"
+  },
+  "seamAfterEdit": null
+}

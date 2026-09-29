@@ -1,0 +1,390 @@
+{
+  "authoredDifficulty" : 3,
+  "blockers" : [
+    {
+      "hp" : 2,
+      "type" : "crate",
+      "x" : 6,
+      "y" : 2
+    },
+    {
+      "hp" : 1,
+      "type" : "crate",
+      "x" : 2,
+      "y" : 4
+    },
+    {
+      "hp" : 1,
+      "type" : "crate",
+      "x" : 4,
+      "y" : 4
+    },
+    {
+      "hp" : 2,
+      "type" : "crate",
+      "x" : 3,
+      "y" : 5
+    },
+    {
+      "hp" : 2,
+      "type" : "crate",
+      "x" : 3,
+      "y" : 6
+    }
+  ],
+  "campaignVersion" : 1,
+  "exitPorts" : [
+
+  ],
+  "fiveColorPalette" : [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "floors" : [
+
+  ],
+  "id" : 44,
+  "initialCharge" : 12,
+  "initialMoves" : 30,
+  "initialOccupants" : [
+    {
+      "color" : 3,
+      "type" : "gem",
+      "x" : 2,
+      "y" : 0
+    },
+    {
+      "color" : 2,
+      "type" : "gem",
+      "x" : 3,
+      "y" : 0
+    },
+    {
+      "color" : 2,
+      "type" : "gem",
+      "x" : 4,
+      "y" : 0
+    },
+    {
+      "color" : 4,
+      "type" : "gem",
+      "x" : 2,
+      "y" : 1
+    },
+    {
+      "color" : 3,
+      "type" : "gem",
+      "x" : 3,
+      "y" : 1
+    },
+    {
+      "color" : 3,
+      "type" : "gem",
+      "x" : 4,
+      "y" : 1
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 0,
+      "y" : 2
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 1,
+      "y" : 2
+    },
+    {
+      "color" : 3,
+      "type" : "gem",
+      "x" : 2,
+      "y" : 2
+    },
+    {
+      "color" : 1,
+      "type" : "gem",
+      "x" : 3,
+      "y" : 2
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 4,
+      "y" : 2
+    },
+    {
+      "color" : 1,
+      "type" : "gem",
+      "x" : 5,
+      "y" : 2
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 0,
+      "y" : 3
+    },
+    {
+      "color" : 4,
+      "type" : "gem",
+      "x" : 1,
+      "y" : 3
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 2,
+      "y" : 3
+    },
+    {
+      "color" : 2,
+      "type" : "gem",
+      "x" : 3,
+      "y" : 3
+    },
+    {
+      "color" : 3,
+      "type" : "gem",
+      "x" : 4,
+      "y" : 3
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 5,
+      "y" : 3
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 6,
+      "y" : 3
+    },
+    {
+      "color" : 4,
+      "type" : "gem",
+      "x" : 0,
+      "y" : 4
+    },
+    {
+      "color" : 4,
+      "type" : "gem",
+      "x" : 1,
+      "y" : 4
+    },
+    {
+      "color" : 3,
+      "type" : "gem",
+      "x" : 3,
+      "y" : 4
+    },
+    {
+      "color" : 1,
+      "type" : "gem",
+      "x" : 5,
+      "y" : 4
+    },
+    {
+      "color" : 1,
+      "type" : "gem",
+      "x" : 6,
+      "y" : 4
+    },
+    {
+      "color" : 4,
+      "type" : "gem",
+      "x" : 2,
+      "y" : 5
+    },
+    {
+      "color" : 4,
+      "type" : "gem",
+      "x" : 4,
+      "y" : 5
+    },
+    {
+      "color" : 2,
+      "type" : "gem",
+      "x" : 2,
+      "y" : 6
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 4,
+      "y" : 6
+    }
+  ],
+  "initialOrientation" : 0,
+  "levelVersion" : 1,
+  "mask" : [
+    "0011100",
+    "0011100",
+    "1111111",
+    "1111111",
+    "1111111",
+    "0011100",
+    "0011100"
+  ],
+  "n" : 7,
+  "newMechanic" : "Sturdy Crates",
+  "newMechanicTopic" : "crates",
+  "objectives" : [
+    {
+      "color" : 1,
+      "target" : 30,
+      "type" : "collect"
+    }
+  ],
+  "overlays" : [
+
+  ],
+  "playtestStatus" : "solver-verified; automated bot win rate 75% (24 runs, no refill peeking); manual playtest not performed",
+  "requiredTurns" : 0,
+  "rngAlgorithmVersion" : 1,
+  "seed" : 4282920407158380,
+  "shape" : "X7",
+  "shutterSwitchLinks" : [
+
+  ],
+  "solutionTrace" : [
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 2,
+        "y" : 2
+      },
+      "hash" : "dd1034db0b960381",
+      "to" : {
+        "x" : 2,
+        "y" : 3
+      }
+    },
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 4,
+        "y" : 2
+      },
+      "hash" : "55b56e64e7cb3ce9",
+      "to" : {
+        "x" : 4,
+        "y" : 3
+      }
+    },
+    {
+      "action" : "rotate",
+      "hash" : "bfb4df81a0522eb8"
+    },
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 1,
+        "y" : 2
+      },
+      "hash" : "1f61a37f1a3bb98e",
+      "to" : {
+        "x" : 2,
+        "y" : 2
+      }
+    },
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 3,
+        "y" : 2
+      },
+      "hash" : "762fa2c4dc403e46",
+      "to" : {
+        "x" : 4,
+        "y" : 2
+      }
+    },
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 4,
+        "y" : 3
+      },
+      "hash" : "a062626b5472f4a7",
+      "to" : {
+        "x" : 5,
+        "y" : 3
+      }
+    },
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 2,
+        "y" : 1
+      },
+      "hash" : "9f8b9512e73ed543",
+      "to" : {
+        "x" : 3,
+        "y" : 1
+      }
+    },
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 5,
+        "y" : 3
+      },
+      "hash" : "c48b0e72b6b375c6",
+      "to" : {
+        "x" : 6,
+        "y" : 3
+      }
+    },
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 5,
+        "y" : 3
+      },
+      "hash" : "b3d680dfca2295b0",
+      "to" : {
+        "x" : 5,
+        "y" : 4
+      }
+    },
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 5,
+        "y" : 3
+      },
+      "hash" : "5cd38b50baf06432",
+      "to" : {
+        "x" : 5,
+        "y" : 4
+      }
+    },
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 5,
+        "y" : 4
+      },
+      "hash" : "b334191c779dfd79",
+      "to" : {
+        "x" : 6,
+        "y" : 4
+      }
+    }
+  ],
+  "title" : "A Stronger Box",
+  "turnBrief" : "1",
+  "tutorialSteps" : [
+    {
+      "text" : "Crates with two studs take two hits — at most one hit per wave.",
+      "title" : "Sturdy crates",
+      "trigger" : "start"
+    }
+  ],
+  "worldID" : 3
+}

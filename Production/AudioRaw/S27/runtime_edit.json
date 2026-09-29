@@ -1,0 +1,21 @@
+{
+  "id": "S27",
+  "variant": 1,
+  "time": "2026-09-29T10:29:07+00:00",
+  "runtimeFile": "VelvetCascade/Resources/Audio/vc_crate_break.wav",
+  "method": "onset-trim",
+  "sourceOnsetSample": 285,
+  "sourceStartSample": 189,
+  "targetFrames": 19200,
+  "tailLevelBeforeShapingDbRel": -58.6,
+  "decayShaped": false,
+  "fadeInMs": 2.0,
+  "fadeOutMs": 8.0,
+  "dcFilter": "one-pole high-pass 20 Hz",
+  "level": {
+    "gainDb": -3.69,
+    "peakCeilingDb": -6.0,
+    "rmsCeilingDb": null
+  },
+  "seamAfterEdit": null
+}

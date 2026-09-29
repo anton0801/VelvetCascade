@@ -1,0 +1,854 @@
+{
+  "authoredDifficulty" : 10,
+  "blockers" : [
+    {
+      "hp" : 2,
+      "type" : "crate",
+      "x" : 3,
+      "y" : 0
+    },
+    {
+      "hp" : 2,
+      "type" : "crate",
+      "x" : 4,
+      "y" : 0
+    },
+    {
+      "hp" : 2,
+      "type" : "crate",
+      "x" : 2,
+      "y" : 1
+    },
+    {
+      "hp" : 2,
+      "type" : "crate",
+      "x" : 5,
+      "y" : 1
+    },
+    {
+      "group" : 1,
+      "type" : "shutter",
+      "x" : 7,
+      "y" : 1
+    },
+    {
+      "hp" : 1,
+      "type" : "crate",
+      "x" : 3,
+      "y" : 2
+    },
+    {
+      "hp" : 1,
+      "type" : "crate",
+      "x" : 4,
+      "y" : 2
+    },
+    {
+      "group" : 1,
+      "type" : "shutter",
+      "x" : 7,
+      "y" : 2
+    },
+    {
+      "hp" : 1,
+      "type" : "crate",
+      "x" : 2,
+      "y" : 3
+    },
+    {
+      "hp" : 1,
+      "type" : "crate",
+      "x" : 5,
+      "y" : 3
+    },
+    {
+      "group" : 0,
+      "type" : "shutter",
+      "x" : 1,
+      "y" : 5
+    },
+    {
+      "group" : 0,
+      "type" : "shutter",
+      "x" : 2,
+      "y" : 5
+    },
+    {
+      "group" : 2,
+      "type" : "shutter",
+      "x" : 5,
+      "y" : 7
+    },
+    {
+      "group" : 2,
+      "type" : "shutter",
+      "x" : 6,
+      "y" : 7
+    }
+  ],
+  "campaignVersion" : 1,
+  "exitPorts" : [
+    {
+      "direction" : 1,
+      "keyID" : 1,
+      "x" : 7,
+      "y" : 7
+    },
+    {
+      "direction" : 2,
+      "keyID" : 2,
+      "x" : 7,
+      "y" : 0
+    },
+    {
+      "direction" : 3,
+      "keyID" : 3,
+      "x" : 0,
+      "y" : 5
+    }
+  ],
+  "fiveColorPalette" : [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "floors" : [
+    {
+      "hp" : 2,
+      "type" : "plate",
+      "x" : 3,
+      "y" : 1
+    },
+    {
+      "hp" : 2,
+      "type" : "plate",
+      "x" : 4,
+      "y" : 1
+    },
+    {
+      "hp" : 1,
+      "type" : "plate",
+      "x" : 0,
+      "y" : 2
+    },
+    {
+      "hp" : 1,
+      "type" : "plate",
+      "x" : 1,
+      "y" : 2
+    },
+    {
+      "group" : 0,
+      "type" : "switch",
+      "x" : 2,
+      "y" : 2
+    },
+    {
+      "group" : 1,
+      "type" : "switch",
+      "x" : 5,
+      "y" : 2
+    },
+    {
+      "hp" : 1,
+      "type" : "plate",
+      "x" : 6,
+      "y" : 2
+    },
+    {
+      "hp" : 1,
+      "type" : "plate",
+      "x" : 0,
+      "y" : 3
+    },
+    {
+      "hp" : 2,
+      "type" : "plate",
+      "x" : 1,
+      "y" : 3
+    },
+    {
+      "hp" : 2,
+      "type" : "plate",
+      "x" : 6,
+      "y" : 3
+    },
+    {
+      "hp" : 1,
+      "type" : "plate",
+      "x" : 0,
+      "y" : 4
+    },
+    {
+      "hp" : 2,
+      "type" : "plate",
+      "x" : 1,
+      "y" : 4
+    },
+    {
+      "hp" : 2,
+      "type" : "plate",
+      "x" : 2,
+      "y" : 4
+    },
+    {
+      "hp" : 2,
+      "type" : "plate",
+      "x" : 5,
+      "y" : 4
+    },
+    {
+      "group" : 2,
+      "type" : "switch",
+      "x" : 6,
+      "y" : 4
+    },
+    {
+      "hp" : 1,
+      "type" : "plate",
+      "x" : 7,
+      "y" : 4
+    },
+    {
+      "hp" : 2,
+      "type" : "plate",
+      "x" : 4,
+      "y" : 5
+    },
+    {
+      "hp" : 1,
+      "type" : "plate",
+      "x" : 5,
+      "y" : 5
+    },
+    {
+      "hp" : 1,
+      "type" : "plate",
+      "x" : 6,
+      "y" : 5
+    },
+    {
+      "hp" : 1,
+      "type" : "plate",
+      "x" : 2,
+      "y" : 6
+    },
+    {
+      "hp" : 2,
+      "type" : "plate",
+      "x" : 3,
+      "y" : 6
+    },
+    {
+      "hp" : 2,
+      "type" : "plate",
+      "x" : 4,
+      "y" : 6
+    },
+    {
+      "hp" : 1,
+      "type" : "plate",
+      "x" : 5,
+      "y" : 6
+    },
+    {
+      "hp" : 1,
+      "type" : "plate",
+      "x" : 6,
+      "y" : 6
+    },
+    {
+      "hp" : 1,
+      "type" : "plate",
+      "x" : 3,
+      "y" : 7
+    }
+  ],
+  "id" : 180,
+  "initialCharge" : 12,
+  "initialMoves" : 50,
+  "initialOccupants" : [
+    {
+      "color" : 4,
+      "type" : "gem",
+      "x" : 0,
+      "y" : 0
+    },
+    {
+      "color" : 1,
+      "type" : "gem",
+      "x" : 1,
+      "y" : 0
+    },
+    {
+      "color" : 3,
+      "type" : "gem",
+      "x" : 2,
+      "y" : 0
+    },
+    {
+      "color" : 2,
+      "type" : "gem",
+      "x" : 5,
+      "y" : 0
+    },
+    {
+      "color" : 1,
+      "type" : "gem",
+      "x" : 6,
+      "y" : 0
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 7,
+      "y" : 0
+    },
+    {
+      "color" : 1,
+      "type" : "gem",
+      "x" : 0,
+      "y" : 1
+    },
+    {
+      "color" : 1,
+      "type" : "gem",
+      "x" : 1,
+      "y" : 1
+    },
+    {
+      "color" : 3,
+      "type" : "gem",
+      "x" : 3,
+      "y" : 1
+    },
+    {
+      "color" : 4,
+      "type" : "gem",
+      "x" : 4,
+      "y" : 1
+    },
+    {
+      "color" : 3,
+      "type" : "gem",
+      "x" : 6,
+      "y" : 1
+    },
+    {
+      "color" : 4,
+      "type" : "gem",
+      "x" : 0,
+      "y" : 2
+    },
+    {
+      "color" : 4,
+      "type" : "gem",
+      "x" : 1,
+      "y" : 2
+    },
+    {
+      "color" : 1,
+      "type" : "gem",
+      "x" : 2,
+      "y" : 2
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 5,
+      "y" : 2
+    },
+    {
+      "color" : 1,
+      "type" : "gem",
+      "x" : 6,
+      "y" : 2
+    },
+    {
+      "color" : 2,
+      "type" : "gem",
+      "x" : 0,
+      "y" : 3
+    },
+    {
+      "color" : 3,
+      "type" : "gem",
+      "x" : 1,
+      "y" : 3
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 6,
+      "y" : 3
+    },
+    {
+      "keyID" : 2,
+      "type" : "key",
+      "x" : 7,
+      "y" : 3
+    },
+    {
+      "color" : 4,
+      "type" : "gem",
+      "x" : 0,
+      "y" : 4
+    },
+    {
+      "color" : 3,
+      "type" : "gem",
+      "x" : 1,
+      "y" : 4
+    },
+    {
+      "color" : 4,
+      "type" : "gem",
+      "x" : 2,
+      "y" : 4
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 5,
+      "y" : 4
+    },
+    {
+      "color" : 2,
+      "type" : "gem",
+      "x" : 6,
+      "y" : 4
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 7,
+      "y" : 4
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 0,
+      "y" : 5
+    },
+    {
+      "keyID" : 3,
+      "type" : "key",
+      "x" : 3,
+      "y" : 5
+    },
+    {
+      "color" : 2,
+      "type" : "gem",
+      "x" : 4,
+      "y" : 5
+    },
+    {
+      "color" : 3,
+      "type" : "gem",
+      "x" : 5,
+      "y" : 5
+    },
+    {
+      "color" : 2,
+      "type" : "gem",
+      "x" : 6,
+      "y" : 5
+    },
+    {
+      "color" : 1,
+      "type" : "gem",
+      "x" : 7,
+      "y" : 5
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 0,
+      "y" : 6
+    },
+    {
+      "color" : 1,
+      "type" : "gem",
+      "x" : 1,
+      "y" : 6
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 2,
+      "y" : 6
+    },
+    {
+      "color" : 4,
+      "type" : "gem",
+      "x" : 3,
+      "y" : 6
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 4,
+      "y" : 6
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 5,
+      "y" : 6
+    },
+    {
+      "color" : 4,
+      "type" : "gem",
+      "x" : 6,
+      "y" : 6
+    },
+    {
+      "color" : 0,
+      "type" : "gem",
+      "x" : 7,
+      "y" : 6
+    },
+    {
+      "color" : 4,
+      "type" : "gem",
+      "x" : 0,
+      "y" : 7
+    },
+    {
+      "color" : 4,
+      "type" : "gem",
+      "x" : 1,
+      "y" : 7
+    },
+    {
+      "color" : 2,
+      "type" : "gem",
+      "x" : 2,
+      "y" : 7
+    },
+    {
+      "color" : 4,
+      "type" : "gem",
+      "x" : 3,
+      "y" : 7
+    },
+    {
+      "keyID" : 1,
+      "type" : "key",
+      "x" : 4,
+      "y" : 7
+    },
+    {
+      "color" : 1,
+      "type" : "gem",
+      "x" : 7,
+      "y" : 7
+    }
+  ],
+  "initialOrientation" : 0,
+  "levelVersion" : 1,
+  "mask" : [
+    "11111111",
+    "11111111",
+    "11111111",
+    "11100111",
+    "11100111",
+    "11111111",
+    "11111111",
+    "11111111"
+  ],
+  "n" : 8,
+  "objectives" : [
+    {
+      "type" : "keys"
+    },
+    {
+      "type" : "plates"
+    },
+    {
+      "color" : 4,
+      "target" : 36,
+      "type" : "collect"
+    }
+  ],
+  "overlays" : [
+    {
+      "hp" : 1,
+      "type" : "ice",
+      "x" : 1,
+      "y" : 2
+    },
+    {
+      "hp" : 1,
+      "type" : "ice",
+      "x" : 6,
+      "y" : 2
+    },
+    {
+      "hp" : 2,
+      "type" : "ice",
+      "x" : 0,
+      "y" : 4
+    },
+    {
+      "hp" : 2,
+      "type" : "ice",
+      "x" : 7,
+      "y" : 4
+    },
+    {
+      "hp" : 1,
+      "type" : "ice",
+      "x" : 1,
+      "y" : 6
+    },
+    {
+      "hp" : 2,
+      "type" : "ice",
+      "x" : 2,
+      "y" : 6
+    },
+    {
+      "hp" : 2,
+      "type" : "ice",
+      "x" : 5,
+      "y" : 6
+    },
+    {
+      "hp" : 1,
+      "type" : "ice",
+      "x" : 6,
+      "y" : 6
+    }
+  ],
+  "playtestStatus" : "solver-verified; automated bot win rate 29% (24 runs, no refill peeking); manual playtest not performed",
+  "requiredTurns" : 3,
+  "rngAlgorithmVersion" : 1,
+  "seed" : 7427505435438364,
+  "shape" : "R8",
+  "shutterSwitchLinks" : [
+    {
+      "group" : 0,
+      "shutters" : [
+        {
+          "x" : 1,
+          "y" : 5
+        },
+        {
+          "x" : 2,
+          "y" : 5
+        }
+      ],
+      "switches" : [
+        {
+          "x" : 2,
+          "y" : 2
+        }
+      ]
+    },
+    {
+      "group" : 1,
+      "shutters" : [
+        {
+          "x" : 7,
+          "y" : 1
+        },
+        {
+          "x" : 7,
+          "y" : 2
+        }
+      ],
+      "switches" : [
+        {
+          "x" : 5,
+          "y" : 2
+        }
+      ]
+    },
+    {
+      "group" : 2,
+      "shutters" : [
+        {
+          "x" : 5,
+          "y" : 7
+        },
+        {
+          "x" : 6,
+          "y" : 7
+        }
+      ],
+      "switches" : [
+        {
+          "x" : 6,
+          "y" : 4
+        }
+      ]
+    }
+  ],
+  "solutionTrace" : [
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 2,
+        "y" : 7
+      },
+      "hash" : "6c7195dd7b5918ca",
+      "to" : {
+        "x" : 3,
+        "y" : 7
+      }
+    },
+    {
+      "action" : "rotate",
+      "hash" : "d517a46ab6cfe4ec"
+    },
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 6,
+        "y" : 0
+      },
+      "hash" : "75eb458bcdb5e090",
+      "to" : {
+        "x" : 7,
+        "y" : 0
+      }
+    },
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 3,
+        "y" : 2
+      },
+      "hash" : "2d55a97e4a43dd1d",
+      "to" : {
+        "x" : 4,
+        "y" : 2
+      }
+    },
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 5,
+        "y" : 0
+      },
+      "hash" : "7134a185237afed3",
+      "to" : {
+        "x" : 5,
+        "y" : 1
+      }
+    },
+    {
+      "action" : "rotate",
+      "hash" : "46580ba52d472b77"
+    },
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 3,
+        "y" : 1
+      },
+      "hash" : "75de98938520c6ce",
+      "to" : {
+        "x" : 4,
+        "y" : 1
+      }
+    },
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 7,
+        "y" : 0
+      },
+      "hash" : "4f5fd301ce829442",
+      "to" : {
+        "x" : 7,
+        "y" : 1
+      }
+    },
+    {
+      "action" : "rotate",
+      "hash" : "c5b1e0a17557a065"
+    },
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 6,
+        "y" : 2
+      },
+      "hash" : "2371dd8f8031b324",
+      "to" : {
+        "x" : 7,
+        "y" : 2
+      }
+    },
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 0,
+        "y" : 7
+      },
+      "hash" : "cb04e2c224026a0b",
+      "to" : {
+        "x" : 1,
+        "y" : 7
+      }
+    },
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 5,
+        "y" : 4
+      },
+      "hash" : "f18bfecb98f74692",
+      "to" : {
+        "x" : 5,
+        "y" : 5
+      }
+    },
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 2,
+        "y" : 0
+      },
+      "hash" : "35c9831bf2a6b083",
+      "to" : {
+        "x" : 2,
+        "y" : 1
+      }
+    },
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 0,
+        "y" : 0
+      },
+      "hash" : "0fb145eaca753e19",
+      "to" : {
+        "x" : 1,
+        "y" : 0
+      }
+    },
+    {
+      "action" : "swap",
+      "from" : {
+        "x" : 2,
+        "y" : 6
+      },
+      "hash" : "3a03ac66e9bd4da1",
+      "to" : {
+        "x" : 3,
+        "y" : 6
+      }
+    }
+  ],
+  "title" : "The Final Bow",
+  "turnBrief" : "3!",
+  "tutorialSteps" : [
+
+  ],
+  "worldID" : 9
+}

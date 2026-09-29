@@ -1,0 +1,82 @@
+Generating 38 ID(s) with concurrency 2: S04, S05, S06, S07, S08, S09, S10, S11, S12, S13, S14, S15, S16, S17, S18, S19, S20, S21, S22, S23, S24, S25, S26, S27, S28, S29, S30, S31, S32, S33, S34, S35, S36, S37, S38, S39, A01, A02
+[S04] POST /v1/sound-generation (v1, attempt 1, format mp3_44100_128, duration=0.5s loop=False)
+[S05] POST /v1/sound-generation (v1, attempt 1, format mp3_44100_128, duration=1.0s loop=False)
+[S06] POST /v1/sound-generation (v1, attempt 1, format mp3_44100_128, duration=0.9s loop=False)
+[S07] POST /v1/sound-generation (v1, attempt 1, format mp3_44100_128, duration=0.5s loop=False)
+[S08] POST /v1/sound-generation (v1, attempt 1, format mp3_44100_128, duration=0.5s loop=False)
+[S09] POST /v1/sound-generation (v1, attempt 1, format mp3_44100_128, duration=0.6s loop=False)
+[S10] POST /v1/sound-generation (v1, attempt 1, format mp3_44100_128, duration=0.7s loop=False)
+[S11] POST /v1/sound-generation (v1, attempt 1, format mp3_44100_128, duration=0.7s loop=False)
+[S12] POST /v1/sound-generation (v1, attempt 1, format mp3_44100_128, duration=0.8s loop=False)
+[S13] POST /v1/sound-generation (v1, attempt 1, format mp3_44100_128, duration=0.5s loop=False)
+[S14] POST /v1/sound-generation (v1, attempt 1, format mp3_44100_128, duration=0.7s loop=False)
+[S15] POST /v1/sound-generation (v1, attempt 1, format mp3_44100_128, duration=0.7s loop=False)
+[S16] POST /v1/sound-generation (v1, attempt 1, format mp3_44100_128, duration=0.8s loop=False)
+[S17] POST /v1/sound-generation (v1, attempt 1, format mp3_44100_128, duration=1.1s loop=False)
+[S18] POST /v1/sound-generation (v1, attempt 1, format mp3_44100_128, duration=0.5s loop=False)
+[S19] POST /v1/sound-generation (v1, attempt 1, format mp3_44100_128, duration=0.9s loop=False)
+[S20] POST /v1/sound-generation (v1, attempt 1, format mp3_44100_128, duration=0.7s loop=False)
+[S21] POST /v1/sound-generation (v1, attempt 1, format mp3_44100_128, duration=1.1s loop=False)
+[S22] POST /v1/sound-generation (v1, attempt 1, format mp3_44100_128, duration=0.5s loop=False)
+[S23] POST /v1/sound-generation (v1, attempt 1, format mp3_44100_128, duration=0.7s loop=False)
+[S24] POST /v1/sound-generation (v1, attempt 1, format mp3_44100_128, duration=0.8s loop=False)
+[S25] POST /v1/sound-generation (v1, attempt 1, format mp3_44100_128, duration=0.5s loop=False)
+[S26] POST /v1/sound-generation (v1, attempt 1, format mp3_44100_128, duration=0.5s loop=False)
+[S27] POST /v1/sound-generation (v1, attempt 1, format mp3_44100_128, duration=0.6s loop=False)
+[S28] POST /v1/sound-generation (v1, attempt 1, format mp3_44100_128, duration=0.6s loop=False)
+[S29] POST /v1/sound-generation (v1, attempt 1, format mp3_44100_128, duration=0.6s loop=False)
+[S30] POST /v1/sound-generation (v1, attempt 1, format mp3_44100_128, duration=0.5s loop=False)
+[S31] POST /v1/sound-generation (v1, attempt 1, format mp3_44100_128, duration=0.8s loop=False)
+[S32] POST /v1/sound-generation (v1, attempt 1, format mp3_44100_128, duration=0.7s loop=False)
+[S33] POST /v1/sound-generation (v1, attempt 1, format mp3_44100_128, duration=2.8s loop=False)
+[S34] POST /v1/sound-generation (v1, attempt 1, format mp3_44100_128, duration=1.7s loop=False)
+[S35] POST /v1/sound-generation (v1, attempt 1, format mp3_44100_128, duration=3.4s loop=False)
+[S36] POST /v1/sound-generation (v1, attempt 1, format mp3_44100_128, duration=0.9s loop=False)
+[S37] POST /v1/sound-generation (v1, attempt 1, format mp3_44100_128, duration=1.5s loop=True)
+[S37] HTTP 400: invalid_text_length | text_too_long | validation_error | Invalid text length received for text 'A seamless loop of three small polished wooden and ...', expected a maximum number of 450 characters but received 463 characters.. Stopping this ID.
+[S38] POST /v1/sound-generation (v1, attempt 1, format mp3_44100_128, duration=0.5s loop=False)
+[S39] POST /v1/sound-generation (v1, attempt 1, format mp3_44100_128, duration=1.4s loop=False)
+[S39] HTTP 400: invalid_text_length | text_too_long | validation_error | Invalid text length received for text 'A short original warm theatre gift chime with thre ...', expected a maximum number of 450 characters but received 455 characters.. Stopping this ID.
+[A01] POST /v1/sound-generation (v1, attempt 1, format mp3_44100_128, duration=12.0s loop=True)
+[A02] POST /v1/sound-generation (v1, attempt 1, format mp3_44100_128, duration=10.0s loop=True)
+[A01] output failed technical checks: ['near-silent output (peak -52.29 dBFS, rms -65.21 dBFS)']
+
+ID   result               detail
+S04  generated            v1 mp3 44100Hz 2ch 0.48s peak -9.99 dBFS, request-id 9a18fec045d26608e526ad252a62fad2, 1.72s
+S05  generated            v1 mp3 44100Hz 2ch 1.0s peak -4.36 dBFS, request-id 5258e72124985e4d2f6ffe2af86eb56a, 1.55s
+S06  generated            v1 mp3 44100Hz 2ch 0.88s peak -0.27 dBFS, request-id dc86c5b858da2f5bbb9ab59825d087f9, 1.73s
+S07  generated            v1 mp3 44100Hz 2ch 0.48s peak -0.71 dBFS, request-id 1f4cd80924bbfb76dc50ea02e87d2f74, 1.5s
+S08  generated            v1 mp3 44100Hz 2ch 0.48s peak -11.43 dBFS, request-id 4bc747b2ef95a347e6440c1a8455b4aa, 2.87s
+S09  generated            v1 mp3 44100Hz 2ch 0.6s peak -7.1 dBFS, request-id dfd9d064134e0e4592daacb928d2deb6, 1.69s
+S10  generated            v1 mp3 44100Hz 2ch 0.6803s peak -6.85 dBFS, request-id 316765920facc8483e39e744572b1b7b, 1.97s
+S11  generated            v1 mp3 44100Hz 2ch 0.6803s peak -0.09 dBFS, request-id 47e3f7deac5701f66e54a8645547b37b, 1.61s
+S12  generated            v1 mp3 44100Hz 2ch 0.8s peak -7.15 dBFS, request-id d398d99b311c7a04431f0ab38d54b4d8, 1.78s
+S13  generated            v1 mp3 44100Hz 2ch 0.48s peak -36.5 dBFS, request-id 4531ccf205eaecb4381eb563b2b419de, 1.61s
+S14  generated            v1 mp3 44100Hz 2ch 0.6803s peak -3.56 dBFS, request-id 9c4666d7f7b97957679bcc619194385f, 1.62s
+S15  generated            v1 mp3 44100Hz 2ch 0.6803s peak -4.3 dBFS, request-id 99bfdfcb32cb511b3db7a409c4c59f2a, 1.66s
+S16  generated            v1 mp3 44100Hz 2ch 0.8s peak -21.44 dBFS, request-id 58c374300b76be4bfe1bbeb90eff5daa, 1.78s
+S17  generated            v1 mp3 44100Hz 2ch 1.08s peak -8.47 dBFS, request-id 9b53d5f214237ce9260b66f0ec3ae135, 1.68s
+S18  generated            v1 mp3 44100Hz 2ch 0.48s peak -2.3 dBFS, request-id a679f38946d5ecdeee4426e5eaebadf9, 1.62s
+S19  generated            v1 mp3 44100Hz 2ch 0.88s peak -0.35 dBFS, request-id 34513171c051c1cf1d40fc8ab794e75d, 1.81s
+S20  generated            v1 mp3 44100Hz 2ch 0.6803s peak 0.39 dBFS, request-id ea228d78ba3972f7412d91bdf16eb7c1, 3.25s
+S21  generated            v1 mp3 44100Hz 2ch 1.08s peak -2.55 dBFS, request-id 11ccb2398982209163e26873481d2507, 1.94s
+S22  generated            v1 mp3 44100Hz 2ch 0.48s peak 0.47 dBFS, request-id 2c6f8a32c5fbec9ae7bb6b836752a0a9, 1.54s
+S23  generated            v1 mp3 44100Hz 2ch 0.6803s peak -4.9 dBFS, request-id 67b8bc3d8fe8308787e2d6cab38e877e, 1.62s
+S24  generated            v1 mp3 44100Hz 2ch 0.8s peak -4.37 dBFS, request-id 81ff712fbae299ff45d6866ee85b3d68, 2.93s
+S25  generated            v1 mp3 44100Hz 2ch 0.48s peak -0.3 dBFS, request-id 06ae33404745985e013d559937b1d185, 1.55s
+S26  generated            v1 mp3 44100Hz 2ch 0.48s peak -26.9 dBFS, request-id 14a82c3b69e5f831a125992f46375222, 1.79s
+S27  generated            v1 mp3 44100Hz 2ch 0.6s peak -0.83 dBFS, request-id d208907b3489b6dde12f1ba2c6df8e06, 1.59s
+S28  generated            v1 mp3 44100Hz 2ch 0.6s peak 0.51 dBFS, request-id 40c12e93135ab37c5337ef9620b5f822, 1.7s
+S29  generated            v1 mp3 44100Hz 2ch 0.6s peak -3.75 dBFS, request-id e0fd6b2376cd38018f3966b09183b0d4, 1.72s
+S30  generated            v1 mp3 44100Hz 2ch 0.48s peak -1.15 dBFS, request-id 3c60605dea9956d76bc0c7b757f5f359, 1.6s
+S31  generated            v1 mp3 44100Hz 2ch 0.8s peak -3.87 dBFS, request-id 966ff8eda44b9e7c280d38ef7f817aae, 1.74s
+S32  generated            v1 mp3 44100Hz 2ch 0.6803s peak -10.25 dBFS, request-id 0bd71c84105ed8795f249eb552baa09b, 1.51s
+S33  generated            v1 mp3 44100Hz 2ch 2.76s peak 0.3 dBFS, request-id c8a2cda6b4ec7280a572d4c3e72fc56e, 2.6s
+S34  generated            v1 mp3 44100Hz 2ch 1.68s peak 0.46 dBFS, request-id a07d3958431b07782e6f5853a157c62a, 1.91s
+S35  generated            v1 mp3 44100Hz 2ch 3.4s peak -0.58 dBFS, request-id 885ae191d824c97d66ac731fac0d883a, 1.8s
+S36  generated            v1 mp3 44100Hz 2ch 0.88s peak -0.99 dBFS, request-id a4cf7d8ce76e6d83f0e995a559b8b8b7, 2.23s
+S37  stopped-http-400     invalid_text_length | text_too_long | validation_error | Invalid text length received for text 'A seamless loop of three small polished wooden and ...', expected a maximum number of 450 characters but received 463 characters.
+S38  generated            v1 mp3 44100Hz 2ch 0.48s peak -6.81 dBFS, request-id c487c3a34c7c75c42da6f32ae7468327, 1.73s
+S39  stopped-http-400     invalid_text_length | text_too_long | validation_error | Invalid text length received for text 'A short original warm theatre gift chime with thre ...', expected a maximum number of 450 characters but received 455 characters.
+A01  failed-checks        near-silent output (peak -52.29 dBFS, rms -65.21 dBFS)
+A02  generated            v1 mp3 44100Hz 2ch 10.0s peak -25.14 dBFS, request-id 014c4de1e44d21416278014fedee5a54, 3.36s

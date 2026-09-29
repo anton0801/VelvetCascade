@@ -1,0 +1,67 @@
+{
+  "id": "A01",
+  "variant": 2,
+  "provider": "ElevenLabs",
+  "endpoint": "/v1/sound-generation",
+  "model": "eleven_text_to_sound_v2",
+  "outputFormatRequested": "mp3_44100_128",
+  "requestHash": "sha256:210461a70f0fbdc9acae780cf321a3b1eb0151c61f5c7d456f12a030b3e8fb53",
+  "normalizedRequest": {
+    "method": "POST",
+    "host": "api.elevenlabs.io",
+    "path": "/v1/sound-generation",
+    "query": {
+      "output_format": "mp3_44100_128"
+    },
+    "body": {
+      "text": "A seamless empty velvet theatre room tone: soft warm room air, gentle distant wooden settling creaks, intimate warm space, steady and calm, no people, no footsteps, no music, no obvious repetitive event.",
+      "model_id": "eleven_text_to_sound_v2",
+      "duration_seconds": 12.0,
+      "loop": true,
+      "prompt_influence": 0.5
+    }
+  },
+  "requestedAt": "2026-09-29T10:13:33+00:00",
+  "completedAt": "2026-09-29T10:13:37+00:00",
+  "elapsedSeconds": 3.4,
+  "httpStatus": 200,
+  "contentType": "audio/mpeg",
+  "providerHeaders": {
+    "date": "Tue, 29 Sep 2026 10:13:33 GMT",
+    "character-cost": "120",
+    "content-length": "193141",
+    "content-type": "audio/mpeg",
+    "x-trace-id": "e28039e0d16ef81aef6e59f3660a40fc",
+    "x-region": "us-central1"
+  },
+  "providerRequestId": "e28039e0d16ef81aef6e59f3660a40fc",
+  "rawSha256": "d808886c8acaa65d7e20ea45f06a9218dd7c3ffd434c2d191d2fb2b53ac48cf8",
+  "rawBytes": 193141,
+  "accountTierAtGeneration": null,
+  "costNote": "Actual cost not invented: only provider response headers above are recorded.",
+  "listeningQA": "pending",
+  "codec": {
+    "codec_name": "mp3",
+    "codec_long_name": "MP3 (MPEG audio layer 3)",
+    "sample_rate": "44100",
+    "channels": 2,
+    "bits_per_sample": 0,
+    "bit_rate": "128000"
+  },
+  "container": "mp3",
+  "decodedDuration": 12.0,
+  "decodedChannels": 2,
+  "peakDBFS": -40.22,
+  "rmsDBFS": -57.5,
+  "rawFile": "raw.mp3",
+  "master": {
+    "file": "master.wav",
+    "sampleRate": 48000,
+    "channels": 2,
+    "bitDepth": 24,
+    "codec": "pcm_s24le",
+    "sha256": "e403f1ef27aae0354ef64bf3fe53e5a16135dcbfb2ddf94d9c22b49d89899692"
+  },
+  "technicalQA": "pass",
+  "technicalQAReasons": []
+}

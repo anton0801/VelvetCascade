@@ -1,0 +1,21 @@
+{
+  "id": "S33",
+  "variant": 1,
+  "time": "2026-09-29T10:29:08+00:00",
+  "runtimeFile": "VelvetCascade/Resources/Audio/vc_level_win.wav",
+  "method": "onset-trim",
+  "sourceOnsetSample": 0,
+  "sourceStartSample": 0,
+  "targetFrames": 105600,
+  "tailLevelBeforeShapingDbRel": -85.3,
+  "decayShaped": false,
+  "fadeInMs": 2.0,
+  "fadeOutMs": 8.0,
+  "dcFilter": "one-pole high-pass 20 Hz",
+  "level": {
+    "gainDb": -2.98,
+    "peakCeilingDb": -3.0,
+    "rmsCeilingDb": null
+  },
+  "seamAfterEdit": null
+}

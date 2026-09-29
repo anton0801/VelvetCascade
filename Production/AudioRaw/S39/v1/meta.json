@@ -1,0 +1,67 @@
+{
+  "id": "S39",
+  "variant": 1,
+  "provider": "ElevenLabs",
+  "endpoint": "/v1/sound-generation",
+  "model": "eleven_text_to_sound_v2",
+  "outputFormatRequested": "mp3_44100_128",
+  "requestHash": "sha256:541a5a1d8c0d5c0cfab5f85444c345245f6714caab517c92a52a6bd979d6d83b",
+  "normalizedRequest": {
+    "method": "POST",
+    "host": "api.elevenlabs.io",
+    "path": "/v1/sound-generation",
+    "query": {
+      "output_format": "mp3_44100_128"
+    },
+    "body": {
+      "text": "A short original warm theatre gift chime with three delicate celesta notes and a soft brass sparkle, calm positive reward, not a cash jackpot. Original premium theatrical puzzle game sound. Warm brass, velvet stagecraft, polished wood. Restrained dynamics, clean isolated recording. No speech, no crowd, no music bed, no existing game imitation, no harsh distortion. Short natural decay.",
+      "model_id": "eleven_text_to_sound_v2",
+      "duration_seconds": 1.4,
+      "loop": false,
+      "prompt_influence": 0.5
+    }
+  },
+  "requestedAt": "2026-09-29T10:13:31+00:00",
+  "completedAt": "2026-09-29T10:13:33+00:00",
+  "elapsedSeconds": 1.7,
+  "httpStatus": 200,
+  "contentType": "audio/mpeg",
+  "providerHeaders": {
+    "date": "Tue, 29 Sep 2026 10:13:31 GMT",
+    "character-cost": "14",
+    "content-length": "23031",
+    "content-type": "audio/mpeg",
+    "x-trace-id": "377d7f2144f2bbde10ab400cd73305e5",
+    "x-region": "us-central1"
+  },
+  "providerRequestId": "377d7f2144f2bbde10ab400cd73305e5",
+  "rawSha256": "79d708b96bb4f6a908e8bf2d72f53867ec9395a0f80c782ee1417884d3b0f1e2",
+  "rawBytes": 23031,
+  "accountTierAtGeneration": null,
+  "costNote": "Actual cost not invented: only provider response headers above are recorded.",
+  "listeningQA": "pending",
+  "codec": {
+    "codec_name": "mp3",
+    "codec_long_name": "MP3 (MPEG audio layer 3)",
+    "sample_rate": "44100",
+    "channels": 2,
+    "bits_per_sample": 0,
+    "bit_rate": "128000"
+  },
+  "container": "mp3",
+  "decodedDuration": 1.36,
+  "decodedChannels": 2,
+  "peakDBFS": -10.59,
+  "rmsDBFS": -32.27,
+  "rawFile": "raw.mp3",
+  "master": {
+    "file": "master.wav",
+    "sampleRate": 48000,
+    "channels": 2,
+    "bitDepth": 24,
+    "codec": "pcm_s24le",
+    "sha256": "6721bc74ed95dea8617445f52b1e41d0b65ebe5b7042c8b4830aef83ce3d6541"
+  },
+  "technicalQA": "pass",
+  "technicalQAReasons": []
+}

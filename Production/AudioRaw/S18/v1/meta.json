@@ -1,0 +1,67 @@
+{
+  "id": "S18",
+  "variant": 1,
+  "provider": "ElevenLabs",
+  "endpoint": "/v1/sound-generation",
+  "model": "eleven_text_to_sound_v2",
+  "outputFormatRequested": "mp3_44100_128",
+  "requestHash": "sha256:c661106a14c060c511f6686cf9aba0294d137948c7033b10360543ace571bc56",
+  "normalizedRequest": {
+    "method": "POST",
+    "host": "api.elevenlabs.io",
+    "path": "/v1/sound-generation",
+    "query": {
+      "output_format": "mp3_44100_128"
+    },
+    "body": {
+      "text": "A tiny warm brass bead clicking into a mechanical gauge, one understated pitched tick. Original premium theatrical puzzle game sound. Warm brass, velvet stagecraft, polished wood and delicate crystal. Clear single readable event, restrained dynamics, clean isolated recording. No speech, no crowd, no music bed, no existing game imitation, no harsh distortion. Short natural decay, quiet background.",
+      "model_id": "eleven_text_to_sound_v2",
+      "duration_seconds": 0.5,
+      "loop": false,
+      "prompt_influence": 0.5
+    }
+  },
+  "requestedAt": "2026-09-29T10:12:06+00:00",
+  "completedAt": "2026-09-29T10:12:08+00:00",
+  "elapsedSeconds": 1.62,
+  "httpStatus": 200,
+  "contentType": "audio/mpeg",
+  "providerHeaders": {
+    "date": "Tue, 29 Sep 2026 10:12:06 GMT",
+    "character-cost": "5",
+    "content-length": "8821",
+    "content-type": "audio/mpeg",
+    "x-trace-id": "a679f38946d5ecdeee4426e5eaebadf9",
+    "x-region": "us-central1"
+  },
+  "providerRequestId": "a679f38946d5ecdeee4426e5eaebadf9",
+  "rawSha256": "6041354fff993b07faba89673aa7328faaf6c5d671a453fe594cb68e53fc1077",
+  "rawBytes": 8821,
+  "accountTierAtGeneration": null,
+  "costNote": "Actual cost not invented: only provider response headers above are recorded.",
+  "listeningQA": "pending",
+  "codec": {
+    "codec_name": "mp3",
+    "codec_long_name": "MP3 (MPEG audio layer 3)",
+    "sample_rate": "44100",
+    "channels": 2,
+    "bits_per_sample": 0,
+    "bit_rate": "128000"
+  },
+  "container": "mp3",
+  "decodedDuration": 0.48,
+  "decodedChannels": 2,
+  "peakDBFS": -2.3,
+  "rmsDBFS": -25.96,
+  "rawFile": "raw.mp3",
+  "master": {
+    "file": "master.wav",
+    "sampleRate": 48000,
+    "channels": 2,
+    "bitDepth": 24,
+    "codec": "pcm_s24le",
+    "sha256": "80202b793ad97df7dd72411d2159af13b86a54c629dec35984a33843b8cf4e89"
+  },
+  "technicalQA": "pass",
+  "technicalQAReasons": []
+}

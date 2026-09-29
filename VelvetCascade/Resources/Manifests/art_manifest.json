@@ -1,0 +1,1268 @@
+[
+  {
+    "id": "VC01",
+    "file": "vc_onboarding_welcome.png",
+    "displayRole": "Welcome onboarding fullscreen background (hero Vell inside)",
+    "pixelWidth": 1290,
+    "pixelHeight": 2796,
+    "hasAlpha": false,
+    "transparentPixelRatio": 0.0,
+    "contentRect": {
+      "x": 0.0,
+      "y": 0.0,
+      "w": 1.0,
+      "h": 1.0
+    },
+    "anchor": {
+      "x": 0.5,
+      "y": 0.5,
+      "meaning": "centre"
+    },
+    "safeInsets": {
+      "top": 0.65,
+      "left": 0.06,
+      "bottom": 0.02,
+      "right": 0.06
+    },
+    "provenance": "Procedural vector/CoreGraphics illustration authored by Claude Code via ArtForge; no image-generation model used",
+    "sourcePath": "Production/ArtSources/ArtForge/Sources/ArtForge/BackgroundOnboarding.swift",
+    "nativeRenderPath": "Production/ArtSources/renders/vc_onboarding_welcome.png",
+    "renderCommand": "cd Production/ArtSources/ArtForge && swift run -c release ArtForge VC01",
+    "producedAt": "2026-09-29",
+    "qaStatus": "pass",
+    "notes": "Vell (weight on one leg) grips the edge of a crimson curtain with a wrapped gloved fist, baton raised in the other hand, in front of a round brass stage ring and turntable; five tokens float in the upper half; lower 35% calm plum for text/CTA; top band free for the title.",
+    "safeInsetsMethod": "layout constants from ArtForge sources (drape/prop extents, valance/roof depth), verified visually; decor such as faded ring fragments or light haze may extend slightly inside",
+    "textSafeRegion": {
+      "top": 0.65,
+      "left": 0.08,
+      "bottom": 0.02,
+      "right": 0.08,
+      "meaning": "lower 35% calm plum reserved for text and CTA; hero occupies the middle band"
+    }
+  },
+  {
+    "id": "VC02",
+    "file": "vc_onboarding_match.png",
+    "displayRole": "Match Tutorial fullscreen background",
+    "pixelWidth": 1290,
+    "pixelHeight": 2796,
+    "hasAlpha": false,
+    "transparentPixelRatio": 0.0,
+    "contentRect": {
+      "x": 0.0,
+      "y": 0.0,
+      "w": 1.0,
+      "h": 1.0
+    },
+    "anchor": {
+      "x": 0.5,
+      "y": 0.5,
+      "meaning": "centre"
+    },
+    "safeInsets": {
+      "top": 0.4,
+      "left": 0.06,
+      "bottom": 0.03,
+      "right": 0.06
+    },
+    "provenance": "Procedural vector/CoreGraphics illustration authored by Claude Code via ArtForge; no image-generation model used",
+    "sourcePath": "Production/ArtSources/ArtForge/Sources/ArtForge/BackgroundOnboarding.swift",
+    "nativeRenderPath": "Production/ArtSources/renders/vc_onboarding_match.png",
+    "renderCommand": "cd Production/ArtSources/ArtForge && swift run -c release ArtForge VC02",
+    "producedAt": "2026-09-29",
+    "qaStatus": "pass",
+    "notes": "Macro plum velvet with huge soft folds; five tokens hang on thin gold cables along the upper edges; empty centre for the live 3×3 demo board.",
+    "safeInsetsMethod": "layout constants from ArtForge sources (drape/prop extents, valance/roof depth), verified visually; decor such as faded ring fragments or light haze may extend slightly inside"
+  },
+  {
+    "id": "VC03",
+    "file": "vc_onboarding_rotate.png",
+    "displayRole": "Rotation Tutorial fullscreen background (hero Vell inside)",
+    "pixelWidth": 1290,
+    "pixelHeight": 2796,
+    "hasAlpha": false,
+    "transparentPixelRatio": 0.0,
+    "contentRect": {
+      "x": 0.0,
+      "y": 0.0,
+      "w": 1.0,
+      "h": 1.0
+    },
+    "anchor": {
+      "x": 0.5,
+      "y": 0.5,
+      "meaning": "centre"
+    },
+    "safeInsets": {
+      "top": 0.65,
+      "left": 0.08,
+      "bottom": 0.02,
+      "right": 0.08
+    },
+    "provenance": "Procedural vector/CoreGraphics illustration authored by Claude Code via ArtForge; no image-generation model used",
+    "sourcePath": "Production/ArtSources/ArtForge/Sources/ArtForge/BackgroundOnboarding.swift",
+    "nativeRenderPath": "Production/ArtSources/renders/vc_onboarding_rotate.png",
+    "renderCommand": "cd Production/ArtSources/ArtForge && swift run -c release ArtForge VC03",
+    "producedAt": "2026-09-29",
+    "qaStatus": "pass",
+    "notes": "Vell (upper-left, on a brass ledge) points the baton, held in a wrapped fist, at an empty rotating brass frame with motion arcs; open gloved hand on the other side; drapes swept by the turn; warm spotlight from the right; lower 35% calm.",
+    "safeInsetsMethod": "layout constants from ArtForge sources (drape/prop extents, valance/roof depth), verified visually; decor such as faded ring fragments or light haze may extend slightly inside",
+    "textSafeRegion": {
+      "top": 0.65,
+      "left": 0.08,
+      "bottom": 0.02,
+      "right": 0.08,
+      "meaning": "lower 35% calm plum reserved for text and CTA; hero occupies the middle band"
+    }
+  },
+  {
+    "id": "VC04",
+    "file": "vc_vell_idle.png",
+    "displayRole": "Home hero, full body, up to 190×260 pt",
+    "pixelWidth": 1024,
+    "pixelHeight": 1536,
+    "hasAlpha": true,
+    "transparentPixelRatio": 0.7839,
+    "contentRect": {
+      "x": 0.0771,
+      "y": 0.069,
+      "w": 0.8008,
+      "h": 0.8607
+    },
+    "anchor": {
+      "x": 0.4775,
+      "y": 0.9297,
+      "meaning": "feet / ground contact (bottom-centre of content)"
+    },
+    "safeInsets": null,
+    "provenance": "Procedural vector/CoreGraphics illustration authored by Claude Code via ArtForge; no image-generation model used",
+    "sourcePath": "Production/ArtSources/ArtForge/Sources/ArtForge/Vell.swift",
+    "nativeRenderPath": "Production/ArtSources/renders/vc_vell_idle.png",
+    "renderCommand": "cd Production/ArtSources/ArtForge && swift run -c release ArtForge VC04",
+    "producedAt": "2026-09-29",
+    "qaStatus": "pass",
+    "notes": "Full body, welcoming contrapposto: weight on the screen-left leg (hip raised, shoulders counter-tilted), relaxed right leg with a bent knee; open three-finger-and-thumb gloved palm; baton raised in a fist that wraps it. Same rig/face/hat as all Vell assets."
+  },
+  {
+    "id": "VC05",
+    "file": "vc_vell_celebrate.png",
+    "displayRole": "Victory / World Complete hero bow, up to 180×220 pt",
+    "pixelWidth": 1024,
+    "pixelHeight": 1536,
+    "hasAlpha": true,
+    "transparentPixelRatio": 0.8334,
+    "contentRect": {
+      "x": 0.0889,
+      "y": 0.2721,
+      "w": 0.7373,
+      "h": 0.6576
+    },
+    "anchor": {
+      "x": 0.4576,
+      "y": 0.9297,
+      "meaning": "feet / ground contact (bottom-centre of content)"
+    },
+    "safeInsets": null,
+    "provenance": "Procedural vector/CoreGraphics illustration authored by Claude Code via ArtForge; no image-generation model used",
+    "sourcePath": "Production/ArtSources/ArtForge/Sources/ArtForge/Vell.swift",
+    "nativeRenderPath": "Production/ArtSources/renders/vc_vell_celebrate.png",
+    "renderCommand": "cd Production/ArtSources/ArtForge && swift run -c release ArtForge VC05",
+    "producedAt": "2026-09-29",
+    "qaStatus": "pass",
+    "notes": "Theatrical bow: torso bent forward 46° from the hips (foreshortened), head lowered in front of the chest with happy closed eyes, hat points flopping forward, one arm sweeping open to the audience with a gesturing glove, baton hand tucked behind the back (baton visible beside the hip), back leg crossed behind. No confetti/stars/text."
+  },
+  {
+    "id": "VC06",
+    "file": "vc_vell_encourage.png",
+    "displayRole": "Retry hero, up to 180×220 pt",
+    "pixelWidth": 1024,
+    "pixelHeight": 1536,
+    "hasAlpha": true,
+    "transparentPixelRatio": 0.7896,
+    "contentRect": {
+      "x": 0.2168,
+      "y": 0.0905,
+      "w": 0.6553,
+      "h": 0.8392
+    },
+    "anchor": {
+      "x": 0.5444,
+      "y": 0.9297,
+      "meaning": "feet / ground contact (bottom-centre of content)"
+    },
+    "safeInsets": null,
+    "provenance": "Procedural vector/CoreGraphics illustration authored by Claude Code via ArtForge; no image-generation model used",
+    "sourcePath": "Production/ArtSources/ArtForge/Sources/ArtForge/Vell.swift",
+    "nativeRenderPath": "Production/ArtSources/renders/vc_vell_encourage.png",
+    "renderCommand": "cd Production/ArtSources/ArtForge && swift run -c release ArtForge VC06",
+    "producedAt": "2026-09-29",
+    "qaStatus": "pass",
+    "notes": "Thoughtful warm smile (inner brows lifted), head tilt, supportive open palm facing the viewer at shoulder height; baton lowered at the side in a wrapped fist; relaxed contrapposto."
+  },
+  {
+    "id": "VC07",
+    "file": "vc_gem_heart.png",
+    "displayRole": "Base token Heart (board, objectives 32 pt, reels 48–64 pt)",
+    "pixelWidth": 512,
+    "pixelHeight": 512,
+    "hasAlpha": true,
+    "transparentPixelRatio": 0.6017,
+    "contentRect": {
+      "x": 0.1426,
+      "y": 0.1641,
+      "w": 0.7246,
+      "h": 0.7148
+    },
+    "anchor": {
+      "x": 0.5,
+      "y": 0.5,
+      "meaning": "centre"
+    },
+    "safeInsets": null,
+    "provenance": "Procedural vector/CoreGraphics illustration authored by Claude Code via ArtForge; no image-generation model used",
+    "sourcePath": "Production/ArtSources/ArtForge/Sources/ArtForge/Gems.swift",
+    "nativeRenderPath": "Production/ArtSources/renders/vc_gem_heart.png",
+    "renderCommand": "cd Production/ArtSources/ArtForge && swift run -c release ArtForge VC07",
+    "producedAt": "2026-09-29",
+    "qaStatus": "pass",
+    "notes": "Ruby heart, symmetric bevel facets, narrow gold rim, two readable lobes."
+  },
+  {
+    "id": "VC08",
+    "file": "vc_gem_diamond.png",
+    "displayRole": "Base token Diamond",
+    "pixelWidth": 512,
+    "pixelHeight": 512,
+    "hasAlpha": true,
+    "transparentPixelRatio": 0.7225,
+    "contentRect": {
+      "x": 0.2012,
+      "y": 0.1152,
+      "w": 0.6035,
+      "h": 0.7832
+    },
+    "anchor": {
+      "x": 0.5,
+      "y": 0.5,
+      "meaning": "centre"
+    },
+    "safeInsets": null,
+    "provenance": "Procedural vector/CoreGraphics illustration authored by Claude Code via ArtForge; no image-generation model used",
+    "sourcePath": "Production/ArtSources/ArtForge/Sources/ArtForge/Gems.swift",
+    "nativeRenderPath": "Production/ArtSources/renders/vc_gem_diamond.png",
+    "renderCommand": "cd Production/ArtSources/ArtForge && swift run -c release ArtForge VC08",
+    "producedAt": "2026-09-29",
+    "qaStatus": "pass",
+    "notes": "Sapphire rhombus, four large bevel facets + small table, gold rim."
+  },
+  {
+    "id": "VC09",
+    "file": "vc_gem_clover.png",
+    "displayRole": "Base token Clover",
+    "pixelWidth": 512,
+    "pixelHeight": 512,
+    "hasAlpha": true,
+    "transparentPixelRatio": 0.6164,
+    "contentRect": {
+      "x": 0.1113,
+      "y": 0.1113,
+      "w": 0.7812,
+      "h": 0.7891
+    },
+    "anchor": {
+      "x": 0.5,
+      "y": 0.5,
+      "meaning": "centre"
+    },
+    "safeInsets": null,
+    "provenance": "Procedural vector/CoreGraphics illustration authored by Claude Code via ArtForge; no image-generation model used",
+    "sourcePath": "Production/ArtSources/ArtForge/Sources/ArtForge/Gems.swift",
+    "nativeRenderPath": "Production/ArtSources/renders/vc_gem_clover.png",
+    "renderCommand": "cd Production/ArtSources/ArtForge && swift run -c release ArtForge VC09",
+    "producedAt": "2026-09-29",
+    "qaStatus": "pass",
+    "notes": "Emerald four-leaf clover, leaves cut to 90° wedges so dark seams separate them; short stem lower-right; gold boss."
+  },
+  {
+    "id": "VC10",
+    "file": "vc_gem_bell.png",
+    "displayRole": "Base token Bell",
+    "pixelWidth": 512,
+    "pixelHeight": 512,
+    "hasAlpha": true,
+    "transparentPixelRatio": 0.6429,
+    "contentRect": {
+      "x": 0.1309,
+      "y": 0.0977,
+      "w": 0.7441,
+      "h": 0.8086
+    },
+    "anchor": {
+      "x": 0.5,
+      "y": 0.5,
+      "meaning": "centre"
+    },
+    "safeInsets": null,
+    "provenance": "Procedural vector/CoreGraphics illustration authored by Claude Code via ArtForge; no image-generation model used",
+    "sourcePath": "Production/ArtSources/ArtForge/Sources/ArtForge/Gems.swift",
+    "nativeRenderPath": "Production/ArtSources/renders/vc_gem_bell.png",
+    "renderCommand": "cd Production/ArtSources/ArtForge && swift run -c release ArtForge VC10",
+    "producedAt": "2026-09-29",
+    "qaStatus": "pass",
+    "notes": "Amber-gold stage bell, visible clapper in a burgundy-lit mouth, gold lip ring and hanging loop."
+  },
+  {
+    "id": "VC11",
+    "file": "vc_gem_star.png",
+    "displayRole": "Base token Star",
+    "pixelWidth": 512,
+    "pixelHeight": 512,
+    "hasAlpha": true,
+    "transparentPixelRatio": 0.6888,
+    "contentRect": {
+      "x": 0.1211,
+      "y": 0.125,
+      "w": 0.7617,
+      "h": 0.7363
+    },
+    "anchor": {
+      "x": 0.5,
+      "y": 0.5,
+      "meaning": "centre"
+    },
+    "safeInsets": null,
+    "provenance": "Procedural vector/CoreGraphics illustration authored by Claude Code via ArtForge; no image-generation model used",
+    "sourcePath": "Production/ArtSources/ArtForge/Sources/ArtForge/Gems.swift",
+    "nativeRenderPath": "Production/ArtSources/renders/vc_gem_star.png",
+    "renderCommand": "cd Production/ArtSources/ArtForge && swift run -c release ArtForge VC11",
+    "producedAt": "2026-09-29",
+    "qaStatus": "pass",
+    "notes": "Amethyst five-point star with ridge facets and gold rim."
+  },
+  {
+    "id": "VC12",
+    "file": "vc_special_burst.png",
+    "displayRole": "Special: Stage Burst (≤82% cell; Help 64 pt)",
+    "pixelWidth": 512,
+    "pixelHeight": 512,
+    "hasAlpha": true,
+    "transparentPixelRatio": 0.6828,
+    "contentRect": {
+      "x": 0.1914,
+      "y": 0.0996,
+      "w": 0.6426,
+      "h": 0.7559
+    },
+    "anchor": {
+      "x": 0.5,
+      "y": 0.5,
+      "meaning": "centre"
+    },
+    "safeInsets": null,
+    "provenance": "Procedural vector/CoreGraphics illustration authored by Claude Code via ArtForge; no image-generation model used",
+    "sourcePath": "Production/ArtSources/ArtForge/Sources/ArtForge/Items.swift",
+    "nativeRenderPath": "Production/ArtSources/renders/vc_special_burst.png",
+    "renderCommand": "cd Production/ArtSources/ArtForge && swift run -c release ArtForge VC12",
+    "producedAt": "2026-09-29",
+    "qaStatus": "pass",
+    "notes": "Plum-metal popper sphere with gold ribs, crimson faceted crystal and a short glowing fuse. No skull/weapon."
+  },
+  {
+    "id": "VC13",
+    "file": "vc_special_prism.png",
+    "displayRole": "Special: Prism (≤82% cell)",
+    "pixelWidth": 512,
+    "pixelHeight": 512,
+    "hasAlpha": true,
+    "transparentPixelRatio": 0.3803,
+    "contentRect": {
+      "x": 0.127,
+      "y": 0.1211,
+      "w": 0.7637,
+      "h": 0.7676
+    },
+    "anchor": {
+      "x": 0.5,
+      "y": 0.5,
+      "meaning": "centre"
+    },
+    "safeInsets": null,
+    "provenance": "Procedural vector/CoreGraphics illustration authored by Claude Code via ArtForge; no image-generation model used",
+    "sourcePath": "Production/ArtSources/ArtForge/Sources/ArtForge/Items.swift",
+    "nativeRenderPath": "Production/ArtSources/renders/vc_special_prism.png",
+    "renderCommand": "cd Production/ArtSources/ArtForge && swift run -c release ArtForge VC13",
+    "producedAt": "2026-09-29",
+    "qaStatus": "pass",
+    "notes": "Pentagonal prism with five gem-coloured bevel facets and an iridescent table in a brass prong setting."
+  },
+  {
+    "id": "VC14",
+    "file": "vc_stage_key.png",
+    "displayRole": "Stage key token (board, objectives, tutorial, Help)",
+    "pixelWidth": 512,
+    "pixelHeight": 512,
+    "hasAlpha": true,
+    "transparentPixelRatio": 0.7325,
+    "contentRect": {
+      "x": 0.0938,
+      "y": 0.0938,
+      "w": 0.8008,
+      "h": 0.752
+    },
+    "anchor": {
+      "x": 0.5,
+      "y": 0.5,
+      "meaning": "centre"
+    },
+    "safeInsets": null,
+    "provenance": "Procedural vector/CoreGraphics illustration authored by Claude Code via ArtForge; no image-generation model used",
+    "sourcePath": "Production/ArtSources/ArtForge/Sources/ArtForge/Items.swift",
+    "nativeRenderPath": "Production/ArtSources/renders/vc_stage_key.png",
+    "renderCommand": "cd Production/ArtSources/ArtForge && swift run -c release ArtForge VC14",
+    "producedAt": "2026-09-29",
+    "qaStatus": "pass",
+    "notes": "Gold key, round bow with plum enamel inset, two bold teeth (readable at 32 pt); drawn at 45° to use the square cell."
+  },
+  {
+    "id": "VC15",
+    "file": "vc_exit_port.png",
+    "displayRole": "Key exit port, 36–48 pt",
+    "pixelWidth": 512,
+    "pixelHeight": 512,
+    "hasAlpha": true,
+    "transparentPixelRatio": 0.5377,
+    "contentRect": {
+      "x": 0.1855,
+      "y": 0.123,
+      "w": 0.6465,
+      "h": 0.7832
+    },
+    "anchor": {
+      "x": 0.5,
+      "y": 0.5,
+      "meaning": "centre"
+    },
+    "safeInsets": null,
+    "provenance": "Procedural vector/CoreGraphics illustration authored by Claude Code via ArtForge; no image-generation model used",
+    "sourcePath": "Production/ArtSources/ArtForge/Sources/ArtForge/Items.swift",
+    "nativeRenderPath": "Production/ArtSources/renders/vc_exit_port.png",
+    "renderCommand": "cd Production/ArtSources/ArtForge && swift run -c release ArtForge VC15",
+    "producedAt": "2026-09-29",
+    "qaStatus": "pass",
+    "notes": "Small open gold arch with a velvet swag and drawn-back drapes, warm glowing depth, brass threshold. No key, no arrow."
+  },
+  {
+    "id": "VC16",
+    "file": "vc_crate.png",
+    "displayRole": "Obstacle: crate (≤94% cell)",
+    "pixelWidth": 512,
+    "pixelHeight": 512,
+    "hasAlpha": true,
+    "transparentPixelRatio": 0.0784,
+    "contentRect": {
+      "x": 0.0254,
+      "y": 0.0254,
+      "w": 0.9492,
+      "h": 0.9609
+    },
+    "anchor": {
+      "x": 0.5,
+      "y": 0.5,
+      "meaning": "centre"
+    },
+    "safeInsets": null,
+    "provenance": "Procedural vector/CoreGraphics illustration authored by Claude Code via ArtForge; no image-generation model used",
+    "sourcePath": "Production/ArtSources/ArtForge/Sources/ArtForge/Items.swift",
+    "nativeRenderPath": "Production/ArtSources/renders/vc_crate.png",
+    "renderCommand": "cd Production/ArtSources/ArtForge && swift run -c release ArtForge VC16",
+    "producedAt": "2026-09-29",
+    "qaStatus": "pass",
+    "notes": "Square dark-wood crate, brass corner brackets and a diagonal brace; orthographic, fills ~93% of the cell."
+  },
+  {
+    "id": "VC17",
+    "file": "vc_ice_overlay.png",
+    "displayRole": "Overlay: ice shell over a token (cell size, centre clear)",
+    "pixelWidth": 512,
+    "pixelHeight": 512,
+    "hasAlpha": true,
+    "transparentPixelRatio": 0.1058,
+    "contentRect": {
+      "x": 0.0254,
+      "y": 0.0254,
+      "w": 0.9492,
+      "h": 0.9492
+    },
+    "anchor": {
+      "x": 0.5,
+      "y": 0.5,
+      "meaning": "centre"
+    },
+    "safeInsets": null,
+    "provenance": "Procedural vector/CoreGraphics illustration authored by Claude Code via ArtForge; no image-generation model used",
+    "sourcePath": "Production/ArtSources/ArtForge/Sources/ArtForge/Items.swift",
+    "nativeRenderPath": "Production/ArtSources/renders/vc_ice_overlay.png",
+    "renderCommand": "cd Production/ArtSources/ArtForge && swift run -c release ArtForge VC17",
+    "producedAt": "2026-09-29",
+    "qaStatus": "pass",
+    "notes": "Frosted square shell, thin blue cracks, centre alpha fades to ~0 so the token underneath stays readable."
+  },
+  {
+    "id": "VC18",
+    "file": "vc_chain_overlay.png",
+    "displayRole": "Overlay: chains over a token (cell size)",
+    "pixelWidth": 512,
+    "pixelHeight": 512,
+    "hasAlpha": true,
+    "transparentPixelRatio": 0.7355,
+    "contentRect": {
+      "x": 0.0645,
+      "y": 0.0645,
+      "w": 0.8711,
+      "h": 0.8711
+    },
+    "anchor": {
+      "x": 0.5,
+      "y": 0.5,
+      "meaning": "centre"
+    },
+    "safeInsets": null,
+    "provenance": "Procedural vector/CoreGraphics illustration authored by Claude Code via ArtForge; no image-generation model used",
+    "sourcePath": "Production/ArtSources/ArtForge/Sources/ArtForge/Items.swift",
+    "nativeRenderPath": "Production/ArtSources/renders/vc_chain_overlay.png",
+    "renderCommand": "cd Production/ArtSources/ArtForge && swift run -c release ArtForge VC18",
+    "producedAt": "2026-09-29",
+    "qaStatus": "pass",
+    "notes": "Two bronze chains crossing corner to corner with a round gold clasp; ~74% of the cell transparent."
+  },
+  {
+    "id": "VC19",
+    "file": "vc_shutter_closed.png",
+    "displayRole": "Obstacle: closed shutter (cell size)",
+    "pixelWidth": 512,
+    "pixelHeight": 512,
+    "hasAlpha": true,
+    "transparentPixelRatio": 0.0798,
+    "contentRect": {
+      "x": 0.0273,
+      "y": 0.0293,
+      "w": 0.9453,
+      "h": 0.959
+    },
+    "anchor": {
+      "x": 0.5,
+      "y": 0.5,
+      "meaning": "centre"
+    },
+    "safeInsets": null,
+    "provenance": "Procedural vector/CoreGraphics illustration authored by Claude Code via ArtForge; no image-generation model used",
+    "sourcePath": "Production/ArtSources/ArtForge/Sources/ArtForge/Items.swift",
+    "nativeRenderPath": "Production/ArtSources/renders/vc_shutter_closed.png",
+    "renderCommand": "cd Production/ArtSources/ArtForge && swift run -c release ArtForge VC19",
+    "producedAt": "2026-09-29",
+    "qaStatus": "pass",
+    "notes": "Closed crimson louvred stage shutter with brass guide rails, housing and bottom bar; square silhouette."
+  },
+  {
+    "id": "VC20",
+    "file": "vc_switch.png",
+    "displayRole": "Board switch pedal (≤80% cell, under a token)",
+    "pixelWidth": 512,
+    "pixelHeight": 512,
+    "hasAlpha": true,
+    "transparentPixelRatio": 0.3466,
+    "contentRect": {
+      "x": 0.0977,
+      "y": 0.0977,
+      "w": 0.8047,
+      "h": 0.8145
+    },
+    "anchor": {
+      "x": 0.5,
+      "y": 0.5,
+      "meaning": "centre"
+    },
+    "safeInsets": null,
+    "provenance": "Procedural vector/CoreGraphics illustration authored by Claude Code via ArtForge; no image-generation model used",
+    "sourcePath": "Production/ArtSources/ArtForge/Sources/ArtForge/Items.swift",
+    "nativeRenderPath": "Production/ArtSources/renders/vc_switch.png",
+    "renderCommand": "cd Production/ArtSources/ArtForge && swift run -c release ArtForge VC20",
+    "producedAt": "2026-09-29",
+    "qaStatus": "pass",
+    "notes": "Round brass pedal (unpressed) in a recessed plum velvet niche; no digits."
+  },
+  {
+    "id": "VC21",
+    "file": "vc_baffle.png",
+    "displayRole": "Permanent wall / baffle (cell size)",
+    "pixelWidth": 512,
+    "pixelHeight": 512,
+    "hasAlpha": true,
+    "transparentPixelRatio": 0.0665,
+    "contentRect": {
+      "x": 0.0234,
+      "y": 0.0254,
+      "w": 0.9531,
+      "h": 0.9668
+    },
+    "anchor": {
+      "x": 0.5,
+      "y": 0.5,
+      "meaning": "centre"
+    },
+    "safeInsets": null,
+    "provenance": "Procedural vector/CoreGraphics illustration authored by Claude Code via ArtForge; no image-generation model used",
+    "sourcePath": "Production/ArtSources/ArtForge/Sources/ArtForge/Items.swift",
+    "nativeRenderPath": "Production/ArtSources/renders/vc_baffle.png",
+    "renderCommand": "cd Production/ArtSources/ArtForge && swift run -c release ArtForge VC21",
+    "producedAt": "2026-09-29",
+    "qaStatus": "pass",
+    "notes": "Matte black-plum metal plate with an embossed cross-brace, quiet highlights, eight gold rivets."
+  },
+  {
+    "id": "VC22",
+    "file": "vc_velvet_plate.png",
+    "displayRole": "Velvet plate floor tile under tokens (cell size)",
+    "pixelWidth": 512,
+    "pixelHeight": 512,
+    "hasAlpha": true,
+    "transparentPixelRatio": 0.0688,
+    "contentRect": {
+      "x": 0.0215,
+      "y": 0.0273,
+      "w": 0.957,
+      "h": 0.959
+    },
+    "anchor": {
+      "x": 0.5,
+      "y": 0.5,
+      "meaning": "centre"
+    },
+    "safeInsets": null,
+    "provenance": "Procedural vector/CoreGraphics illustration authored by Claude Code via ArtForge; no image-generation model used",
+    "sourcePath": "Production/ArtSources/ArtForge/Sources/ArtForge/Items.swift",
+    "nativeRenderPath": "Production/ArtSources/renders/vc_velvet_plate.png",
+    "renderCommand": "cd Production/ArtSources/ArtForge && swift run -c release ArtForge VC22",
+    "producedAt": "2026-09-29",
+    "qaStatus": "pass",
+    "notes": "Flat plum velvet tile with crimson rope piping and one gold diamond stitch; reads as a floor plate under tokens."
+  },
+  {
+    "id": "VC23",
+    "file": "vc_daily_machine.png",
+    "displayRole": "Daily Encore cabinet (up to 320 pt; Home 56 pt)",
+    "pixelWidth": 1536,
+    "pixelHeight": 1536,
+    "hasAlpha": true,
+    "transparentPixelRatio": 0.3859,
+    "contentRect": {
+      "x": 0.0885,
+      "y": 0.0527,
+      "w": 0.8255,
+      "h": 0.8991
+    },
+    "anchor": {
+      "x": 0.5,
+      "y": 0.5,
+      "meaning": "centre"
+    },
+    "safeInsets": null,
+    "provenance": "Procedural vector/CoreGraphics illustration authored by Claude Code via ArtForge; no image-generation model used",
+    "sourcePath": "Production/ArtSources/ArtForge/Sources/ArtForge/Machine.swift",
+    "nativeRenderPath": "Production/ArtSources/renders/vc_daily_machine.png",
+    "renderCommand": "cd Production/ArtSources/ArtForge && swift run -c release ArtForge VC23",
+    "producedAt": "2026-09-29",
+    "qaStatus": "pass",
+    "notes": "Symmetric red-plum cabinet, brass/gold frame, marquee bulbs, Vell's hat on a crest; exactly three EMPTY cream windows of equal width; no symbols, text, buttons or lever. reelRects measured from pixels.",
+    "reelRects": [
+      {
+        "x": 0.1699,
+        "y": 0.3607,
+        "w": 0.1901,
+        "h": 0.3594
+      },
+      {
+        "x": 0.4049,
+        "y": 0.3607,
+        "w": 0.1901,
+        "h": 0.3594
+      },
+      {
+        "x": 0.64,
+        "y": 0.3607,
+        "w": 0.1901,
+        "h": 0.3594
+      }
+    ],
+    "reelRectsTarget": [
+      {
+        "x": 0.17,
+        "y": 0.36,
+        "w": 0.19,
+        "h": 0.36
+      },
+      {
+        "x": 0.405,
+        "y": 0.36,
+        "w": 0.19,
+        "h": 0.36
+      },
+      {
+        "x": 0.64,
+        "y": 0.36,
+        "w": 0.19,
+        "h": 0.36
+      }
+    ],
+    "reelRectsMethod": "cream-pixel mask eroded 7 px (drops thin gold highlights), column runs → bbox, re-expanded 7 px"
+  },
+  {
+    "id": "VC24",
+    "file": "vc_curtain_left.png",
+    "displayRole": "Left curtain layer for turn / transitions (anchor left edge)",
+    "pixelWidth": 768,
+    "pixelHeight": 2048,
+    "hasAlpha": true,
+    "transparentPixelRatio": 0.0751,
+    "contentRect": {
+      "x": 0.0,
+      "y": 0.0117,
+      "w": 0.9596,
+      "h": 0.9609
+    },
+    "anchor": {
+      "x": 0.0,
+      "y": 0.0,
+      "meaning": "top-left; pin to the left screen edge"
+    },
+    "safeInsets": null,
+    "provenance": "Procedural vector/CoreGraphics illustration authored by Claude Code via ArtForge; no image-generation model used",
+    "sourcePath": "Production/ArtSources/ArtForge/Sources/ArtForge/Items.swift",
+    "nativeRenderPath": "Production/ArtSources/renders/vc_curtain_left.png",
+    "renderCommand": "cd Production/ArtSources/ArtForge && swift run -c release ArtForge VC24",
+    "producedAt": "2026-09-29",
+    "qaStatus": "pass",
+    "notes": "Heavy crimson velvet panel on brass rings, gold fringe on the leading edge, rope + gold tassel; opaque along the left anchor edge by design."
+  },
+  {
+    "id": "VC25",
+    "file": "vc_curtain_right.png",
+    "displayRole": "Right curtain layer for turn / transitions (anchor right edge)",
+    "pixelWidth": 768,
+    "pixelHeight": 2048,
+    "hasAlpha": true,
+    "transparentPixelRatio": 0.0751,
+    "contentRect": {
+      "x": 0.0404,
+      "y": 0.0107,
+      "w": 0.9596,
+      "h": 0.9619
+    },
+    "anchor": {
+      "x": 1.0,
+      "y": 0.0,
+      "meaning": "top-right; pin to the right screen edge"
+    },
+    "safeInsets": null,
+    "provenance": "Procedural vector/CoreGraphics illustration authored by Claude Code via ArtForge; no image-generation model used",
+    "sourcePath": "Production/ArtSources/ArtForge/Sources/ArtForge/Items.swift",
+    "nativeRenderPath": "Production/ArtSources/renders/vc_curtain_right.png",
+    "renderCommand": "cd Production/ArtSources/ArtForge && swift run -c release ArtForge VC25",
+    "producedAt": "2026-09-29",
+    "qaStatus": "pass",
+    "notes": "Mirror of VC24 geometry (right anchor edge); shading recomputed so the key light still comes from the upper-left."
+  },
+  {
+    "id": "VC26",
+    "file": "vc_spotlight_beam.png",
+    "displayRole": "Spotlight beam overlay (≤220 pt wide, opacity ≤0.25, additive)",
+    "pixelWidth": 1024,
+    "pixelHeight": 1024,
+    "hasAlpha": true,
+    "transparentPixelRatio": 0.539,
+    "contentRect": {
+      "x": 0.1924,
+      "y": 0.0127,
+      "w": 0.6152,
+      "h": 0.9473
+    },
+    "anchor": {
+      "x": 0.5,
+      "y": 0.0127,
+      "meaning": "beam apex"
+    },
+    "safeInsets": null,
+    "provenance": "Procedural vector/CoreGraphics illustration authored by Claude Code via ArtForge; no image-generation model used",
+    "sourcePath": "Production/ArtSources/ArtForge/Sources/ArtForge/Items.swift",
+    "nativeRenderPath": "Production/ArtSources/renders/vc_spotlight_beam.png",
+    "renderCommand": "cd Production/ArtSources/ArtForge && swift run -c release ArtForge VC26",
+    "producedAt": "2026-09-29",
+    "qaStatus": "pass",
+    "notes": "Soft golden cone with a clearer centre and brighter rims, floor pool and dust motes; no lamp."
+  },
+  {
+    "id": "VC27",
+    "file": "vc_world_01.png",
+    "displayRole": "World 1 Ruby Rehearsal background (+Home, Daily, preview)",
+    "pixelWidth": 1290,
+    "pixelHeight": 2796,
+    "hasAlpha": false,
+    "transparentPixelRatio": 0.0,
+    "contentRect": {
+      "x": 0.0,
+      "y": 0.0,
+      "w": 1.0,
+      "h": 1.0
+    },
+    "anchor": {
+      "x": 0.5,
+      "y": 0.5,
+      "meaning": "centre"
+    },
+    "safeInsets": {
+      "top": 0.12,
+      "left": 0.19,
+      "bottom": 0.02,
+      "right": 0.19
+    },
+    "provenance": "Procedural vector/CoreGraphics illustration authored by Claude Code via ArtForge; no image-generation model used",
+    "sourcePath": "Production/ArtSources/ArtForge/Sources/ArtForge/Backgrounds.swift",
+    "nativeRenderPath": "Production/ArtSources/renders/vc_world_01.png",
+    "renderCommand": "cd Production/ArtSources/ArtForge && swift run -c release ArtForge VC27",
+    "producedAt": "2026-09-29",
+    "qaStatus": "pass",
+    "notes": "Ruby Rehearsal: tied-back ruby drapes, scalloped valance with gold fringe, brass stage-ring fragments only at the edges, warm twin spotlights, footlight shells at the bottom corners.",
+    "safeInsetsMethod": "layout constants from ArtForge sources (drape/prop extents, valance/roof depth), verified visually; decor such as faded ring fragments or light haze may extend slightly inside"
+  },
+  {
+    "id": "VC28",
+    "file": "vc_world_02.png",
+    "displayRole": "World 2 Keyhole Wings background",
+    "pixelWidth": 1290,
+    "pixelHeight": 2796,
+    "hasAlpha": false,
+    "transparentPixelRatio": 0.0,
+    "contentRect": {
+      "x": 0.0,
+      "y": 0.0,
+      "w": 1.0,
+      "h": 1.0
+    },
+    "anchor": {
+      "x": 0.5,
+      "y": 0.5,
+      "meaning": "centre"
+    },
+    "safeInsets": {
+      "top": 0.11,
+      "left": 0.21,
+      "bottom": 0.02,
+      "right": 0.21
+    },
+    "provenance": "Procedural vector/CoreGraphics illustration authored by Claude Code via ArtForge; no image-generation model used",
+    "sourcePath": "Production/ArtSources/ArtForge/Sources/ArtForge/BackgroundWorlds.swift",
+    "nativeRenderPath": "Production/ArtSources/renders/vc_world_02.png",
+    "renderCommand": "cd Production/ArtSources/ArtForge && swift run -c release ArtForge VC28",
+    "producedAt": "2026-09-29",
+    "qaStatus": "pass",
+    "notes": "Keyhole Wings: lacquered plum side columns with glowing keyhole cut-outs in gold escutcheons, plum drapes, single overhead spot.",
+    "safeInsetsMethod": "layout constants from ArtForge sources (drape/prop extents, valance/roof depth), verified visually; decor such as faded ring fragments or light haze may extend slightly inside"
+  },
+  {
+    "id": "VC29",
+    "file": "vc_world_03.png",
+    "displayRole": "World 3 Prop Workshop background",
+    "pixelWidth": 1290,
+    "pixelHeight": 2796,
+    "hasAlpha": false,
+    "transparentPixelRatio": 0.0,
+    "contentRect": {
+      "x": 0.0,
+      "y": 0.0,
+      "w": 1.0,
+      "h": 1.0
+    },
+    "anchor": {
+      "x": 0.5,
+      "y": 0.5,
+      "meaning": "centre"
+    },
+    "safeInsets": {
+      "top": 0.1,
+      "left": 0.24,
+      "bottom": 0.02,
+      "right": 0.24
+    },
+    "provenance": "Procedural vector/CoreGraphics illustration authored by Claude Code via ArtForge; no image-generation model used",
+    "sourcePath": "Production/ArtSources/ArtForge/Sources/ArtForge/BackgroundWorlds.swift",
+    "nativeRenderPath": "Production/ArtSources/renders/vc_world_03.png",
+    "renderCommand": "cd Production/ArtSources/ArtForge && swift run -c release ArtForge VC29",
+    "producedAt": "2026-09-29",
+    "qaStatus": "pass",
+    "notes": "Prop Workshop: wooden prop racks with crates and brass boxes at both edges, burgundy drapes and valance, warm work light.",
+    "safeInsetsMethod": "layout constants from ArtForge sources (drape/prop extents, valance/roof depth), verified visually; decor such as faded ring fragments or light haze may extend slightly inside"
+  },
+  {
+    "id": "VC30",
+    "file": "vc_world_04.png",
+    "displayRole": "World 4 Frosted Gallery background",
+    "pixelWidth": 1290,
+    "pixelHeight": 2796,
+    "hasAlpha": false,
+    "transparentPixelRatio": 0.0,
+    "contentRect": {
+      "x": 0.0,
+      "y": 0.0,
+      "w": 1.0,
+      "h": 1.0
+    },
+    "anchor": {
+      "x": 0.5,
+      "y": 0.5,
+      "meaning": "centre"
+    },
+    "safeInsets": {
+      "top": 0.1,
+      "left": 0.22,
+      "bottom": 0.02,
+      "right": 0.22
+    },
+    "provenance": "Procedural vector/CoreGraphics illustration authored by Claude Code via ArtForge; no image-generation model used",
+    "sourcePath": "Production/ArtSources/ArtForge/Sources/ArtForge/BackgroundWorlds.swift",
+    "nativeRenderPath": "Production/ArtSources/renders/vc_world_04.png",
+    "renderCommand": "cd Production/ArtSources/ArtForge && swift run -c release ArtForge VC30",
+    "producedAt": "2026-09-29",
+    "qaStatus": "pass",
+    "notes": "Frosted Gallery: velvet balcony fronts with brass balusters and ice-crystal clusters at the edges, cold blue edge light vs warm centre.",
+    "safeInsetsMethod": "layout constants from ArtForge sources (drape/prop extents, valance/roof depth), verified visually; decor such as faded ring fragments or light haze may extend slightly inside"
+  },
+  {
+    "id": "VC31",
+    "file": "vc_world_05.png",
+    "displayRole": "World 5 Chain Loft background",
+    "pixelWidth": 1290,
+    "pixelHeight": 2796,
+    "hasAlpha": false,
+    "transparentPixelRatio": 0.0,
+    "contentRect": {
+      "x": 0.0,
+      "y": 0.0,
+      "w": 1.0,
+      "h": 1.0
+    },
+    "anchor": {
+      "x": 0.5,
+      "y": 0.5,
+      "meaning": "centre"
+    },
+    "safeInsets": {
+      "top": 0.12,
+      "left": 0.23,
+      "bottom": 0.02,
+      "right": 0.23
+    },
+    "provenance": "Procedural vector/CoreGraphics illustration authored by Claude Code via ArtForge; no image-generation model used",
+    "sourcePath": "Production/ArtSources/ArtForge/Sources/ArtForge/BackgroundWorlds.swift",
+    "nativeRenderPath": "Production/ArtSources/renders/vc_world_05.png",
+    "renderCommand": "cd Production/ArtSources/ArtForge && swift run -c release ArtForge VC31",
+    "producedAt": "2026-09-29",
+    "qaStatus": "pass",
+    "notes": "Chain Loft: bronze truss, pulleys, hanging chains with brass counterweights/hooks along the top edges, ruby drapes.",
+    "safeInsetsMethod": "layout constants from ArtForge sources (drape/prop extents, valance/roof depth), verified visually; decor such as faded ring fragments or light haze may extend slightly inside"
+  },
+  {
+    "id": "VC32",
+    "file": "vc_world_06.png",
+    "displayRole": "World 6 Clockwork Curtains background",
+    "pixelWidth": 1290,
+    "pixelHeight": 2796,
+    "hasAlpha": false,
+    "transparentPixelRatio": 0.0,
+    "contentRect": {
+      "x": 0.0,
+      "y": 0.0,
+      "w": 1.0,
+      "h": 1.0
+    },
+    "anchor": {
+      "x": 0.5,
+      "y": 0.5,
+      "meaning": "centre"
+    },
+    "safeInsets": {
+      "top": 0.11,
+      "left": 0.23,
+      "bottom": 0.02,
+      "right": 0.23
+    },
+    "provenance": "Procedural vector/CoreGraphics illustration authored by Claude Code via ArtForge; no image-generation model used",
+    "sourcePath": "Production/ArtSources/ArtForge/Sources/ArtForge/BackgroundWorlds.swift",
+    "nativeRenderPath": "Production/ArtSources/renders/vc_world_06.png",
+    "renderCommand": "cd Production/ArtSources/ArtForge && swift run -c release ArtForge VC32",
+    "producedAt": "2026-09-29",
+    "qaStatus": "pass",
+    "notes": "Clockwork Curtains: bronze/brass gears cut by the frame edges, louvred crimson stage shutters at the upper corners, crimson drapes.",
+    "safeInsetsMethod": "layout constants from ArtForge sources (drape/prop extents, valance/roof depth), verified visually; decor such as faded ring fragments or light haze may extend slightly inside"
+  },
+  {
+    "id": "VC33",
+    "file": "vc_world_07.png",
+    "displayRole": "World 7 Split Stage background",
+    "pixelWidth": 1290,
+    "pixelHeight": 2796,
+    "hasAlpha": false,
+    "transparentPixelRatio": 0.0,
+    "contentRect": {
+      "x": 0.0,
+      "y": 0.0,
+      "w": 1.0,
+      "h": 1.0
+    },
+    "anchor": {
+      "x": 0.5,
+      "y": 0.5,
+      "meaning": "centre"
+    },
+    "safeInsets": {
+      "top": 0.1,
+      "left": 0.25,
+      "bottom": 0.02,
+      "right": 0.25
+    },
+    "provenance": "Procedural vector/CoreGraphics illustration authored by Claude Code via ArtForge; no image-generation model used",
+    "sourcePath": "Production/ArtSources/ArtForge/Sources/ArtForge/BackgroundWorlds.swift",
+    "nativeRenderPath": "Production/ArtSources/renders/vc_world_07.png",
+    "renderCommand": "cd Production/ArtSources/ArtForge && swift run -c release ArtForge VC33",
+    "producedAt": "2026-09-29",
+    "qaStatus": "pass",
+    "notes": "Split Stage: two side pavilions (velvet domes, gold columns, inner tied drapes, lamps) and a warm brass floor, calm centre.",
+    "safeInsetsMethod": "layout constants from ArtForge sources (drape/prop extents, valance/roof depth), verified visually; decor such as faded ring fragments or light haze may extend slightly inside"
+  },
+  {
+    "id": "VC34",
+    "file": "vc_world_08.png",
+    "displayRole": "World 8 Moonlit Rotation background",
+    "pixelWidth": 1290,
+    "pixelHeight": 2796,
+    "hasAlpha": false,
+    "transparentPixelRatio": 0.0,
+    "contentRect": {
+      "x": 0.0,
+      "y": 0.0,
+      "w": 1.0,
+      "h": 1.0
+    },
+    "anchor": {
+      "x": 0.5,
+      "y": 0.5,
+      "meaning": "centre"
+    },
+    "safeInsets": {
+      "top": 0.2,
+      "left": 0.17,
+      "bottom": 0.02,
+      "right": 0.17
+    },
+    "provenance": "Procedural vector/CoreGraphics illustration authored by Claude Code via ArtForge; no image-generation model used",
+    "sourcePath": "Production/ArtSources/ArtForge/Sources/ArtForge/BackgroundWorlds.swift",
+    "nativeRenderPath": "Production/ArtSources/renders/vc_world_08.png",
+    "renderCommand": "cd Production/ArtSources/ArtForge && swift run -c release ArtForge VC34",
+    "producedAt": "2026-09-29",
+    "qaStatus": "pass",
+    "notes": "Moonlit Rotation: roof trusses and skylight with a small moon (top-right), cold blue light only at the edges, burgundy drapes, faded brass ring fragments.",
+    "safeInsetsMethod": "layout constants from ArtForge sources (drape/prop extents, valance/roof depth), verified visually; decor such as faded ring fragments or light haze may extend slightly inside"
+  },
+  {
+    "id": "VC35",
+    "file": "vc_world_09.png",
+    "displayRole": "World 9 Grand Cascade background (+Final Bow)",
+    "pixelWidth": 1290,
+    "pixelHeight": 2796,
+    "hasAlpha": false,
+    "transparentPixelRatio": 0.0,
+    "contentRect": {
+      "x": 0.0,
+      "y": 0.0,
+      "w": 1.0,
+      "h": 1.0
+    },
+    "anchor": {
+      "x": 0.5,
+      "y": 0.5,
+      "meaning": "centre"
+    },
+    "safeInsets": {
+      "top": 0.2,
+      "left": 0.19,
+      "bottom": 0.02,
+      "right": 0.19
+    },
+    "provenance": "Procedural vector/CoreGraphics illustration authored by Claude Code via ArtForge; no image-generation model used",
+    "sourcePath": "Production/ArtSources/ArtForge/Sources/ArtForge/BackgroundWorlds.swift",
+    "nativeRenderPath": "Production/ArtSources/renders/vc_world_09.png",
+    "renderCommand": "cd Production/ArtSources/ArtForge && swift run -c release ArtForge VC35",
+    "producedAt": "2026-09-29",
+    "qaStatus": "pass",
+    "notes": "Grand Cascade: golden proscenium arch and fluted pilasters with marquee bulbs, keystone gem, layered crimson/burgundy drapes, coffered dark ceiling.",
+    "safeInsetsMethod": "layout constants from ArtForge sources (drape/prop extents, valance/roof depth), verified visually; decor such as faded ring fragments or light haze may extend slightly inside"
+  },
+  {
+    "id": "VC36",
+    "file": "vc_app_icon.png",
+    "displayRole": "App icon source (AppIcon.appiconset universal 1024)",
+    "pixelWidth": 1024,
+    "pixelHeight": 1024,
+    "hasAlpha": false,
+    "transparentPixelRatio": 0.0,
+    "contentRect": {
+      "x": 0.0,
+      "y": 0.0,
+      "w": 1.0,
+      "h": 1.0
+    },
+    "anchor": {
+      "x": 0.5,
+      "y": 0.5,
+      "meaning": "centre"
+    },
+    "safeInsets": null,
+    "provenance": "Procedural vector/CoreGraphics illustration authored by Claude Code via ArtForge; no image-generation model used",
+    "sourcePath": "Production/ArtSources/ArtForge/Sources/ArtForge/Items.swift",
+    "nativeRenderPath": "Production/ArtSources/renders/vc_app_icon.png",
+    "renderCommand": "cd Production/ArtSources/ArtForge && swift run -c release ArtForge VC36",
+    "producedAt": "2026-09-29",
+    "qaStatus": "pass",
+    "notes": "Big Vell hat crowning a sapphire diamond inside a golden quarter-turn arc pair on plum velvet; full-bleed RGB, square corners."
+  },
+  {
+    "id": "VC37",
+    "file": "vc_vell_portrait.png",
+    "displayRole": "Vell bust portrait (Gameplay/Turn Preview 40 pt, Credits 88 pt)",
+    "pixelWidth": 768,
+    "pixelHeight": 768,
+    "hasAlpha": true,
+    "transparentPixelRatio": 0.2512,
+    "contentRect": {
+      "x": 0.026,
+      "y": 0.0104,
+      "w": 0.9232,
+      "h": 0.9818
+    },
+    "anchor": {
+      "x": 0.5,
+      "y": 0.5,
+      "meaning": "centre"
+    },
+    "safeInsets": null,
+    "provenance": "Procedural vector/CoreGraphics illustration authored by Claude Code via ArtForge; no image-generation model used",
+    "sourcePath": "Production/ArtSources/ArtForge/Sources/ArtForge/Vell.swift",
+    "nativeRenderPath": "Production/ArtSources/renders/vc_vell_portrait.png",
+    "renderCommand": "cd Production/ArtSources/ArtForge && swift run -c release ArtForge VC37",
+    "producedAt": "2026-09-29",
+    "qaStatus": "pass",
+    "notes": "Separate bust drawing (not a downscale): same rig, headScale, face and costume, framed so the skin face oval is 53% of the frame width. In this tight framing the soft hat points flop down over the ears (left longer, right shorter) and the centre point folds over to the right, so all three points with their bells and the collar stay inside the frame; baton rises beside the right shoulder, clear of the face; shoulders fade out below the collar.",
+    "faceRect": {
+      "h": 0.6142,
+      "w": 0.53,
+      "x": 0.235,
+      "y": 0.261
+    },
+    "faceRectWithEars": {
+      "h": 0.6142,
+      "w": 0.6298,
+      "x": 0.1851,
+      "y": 0.261
+    },
+    "faceRectMeasuredSkin": {
+      "x": 0.2396,
+      "y": 0.3424,
+      "w": 0.543,
+      "h": 0.5599
+    },
+    "faceRectMethod": "faceRect = rig geometry of the skin face oval (hat band to chin); cross-checked against a skin-colour pixel mask"
+  },
+  {
+    "id": "VC38",
+    "file": "vc_hint_ticket.png",
+    "displayRole": "Hint Ticket icon (24–56 pt)",
+    "pixelWidth": 512,
+    "pixelHeight": 512,
+    "hasAlpha": true,
+    "transparentPixelRatio": 0.5728,
+    "contentRect": {
+      "x": 0.0781,
+      "y": 0.2422,
+      "w": 0.8438,
+      "h": 0.5156
+    },
+    "anchor": {
+      "x": 0.5,
+      "y": 0.5,
+      "meaning": "centre"
+    },
+    "safeInsets": null,
+    "provenance": "Procedural vector/CoreGraphics illustration authored by Claude Code via ArtForge; no image-generation model used",
+    "sourcePath": "Production/ArtSources/ArtForge/Sources/ArtForge/Items.swift",
+    "nativeRenderPath": "Production/ArtSources/renders/vc_hint_ticket.png",
+    "renderCommand": "cd Production/ArtSources/ArtForge && swift run -c release ArtForge VC38",
+    "producedAt": "2026-09-29",
+    "qaStatus": "pass",
+    "notes": "Cream ticket with two side notches, thin gold inset border, embossed faceted sapphire star, perforation dots; no text."
+  },
+  {
+    "id": "VC39",
+    "file": "vc_result_crest.png",
+    "displayRole": "Result crest behind stars/title (≤200×100 pt)",
+    "pixelWidth": 1024,
+    "pixelHeight": 512,
+    "hasAlpha": true,
+    "transparentPixelRatio": 0.6374,
+    "contentRect": {
+      "x": 0.1699,
+      "y": 0.1328,
+      "w": 0.6602,
+      "h": 0.7852
+    },
+    "anchor": {
+      "x": 0.5,
+      "y": 0.5,
+      "meaning": "centre"
+    },
+    "safeInsets": null,
+    "provenance": "Procedural vector/CoreGraphics illustration authored by Claude Code via ArtForge; no image-generation model used",
+    "sourcePath": "Production/ArtSources/ArtForge/Sources/ArtForge/Items.swift",
+    "nativeRenderPath": "Production/ArtSources/renders/vc_result_crest.png",
+    "renderCommand": "cd Production/ArtSources/ArtForge && swift run -c release ArtForge VC39",
+    "producedAt": "2026-09-29",
+    "qaStatus": "pass",
+    "notes": "Symmetric brass cartouche with scroll ends, two gold laurel branches and one red ribbon; empty dark-plum velvet field."
+  },
+  {
+    "id": "VC40",
+    "file": "vc_turn_crown.png",
+    "displayRole": "Stage Turn emblem (40–56 pt), live gauge sits under the arc",
+    "pixelWidth": 512,
+    "pixelHeight": 512,
+    "hasAlpha": true,
+    "transparentPixelRatio": 0.85,
+    "contentRect": {
+      "x": 0.1738,
+      "y": 0.2305,
+      "w": 0.6602,
+      "h": 0.4531
+    },
+    "anchor": {
+      "x": 0.5,
+      "y": 0.5,
+      "meaning": "centre; live gauge sits below the arc (y > 0.62)"
+    },
+    "safeInsets": null,
+    "provenance": "Procedural vector/CoreGraphics illustration authored by Claude Code via ArtForge; no image-generation model used",
+    "sourcePath": "Production/ArtSources/ArtForge/Sources/ArtForge/Items.swift",
+    "nativeRenderPath": "Production/ArtSources/renders/vc_turn_crown.png",
+    "renderCommand": "cd Production/ArtSources/ArtForge && swift run -c release ArtForge VC40",
+    "producedAt": "2026-09-29",
+    "qaStatus": "pass",
+    "notes": "Mini three-pointed Vell hat resting on a brass quarter-turn arc with end caps; empty space below the arc for the live gauge."
+  }
+]

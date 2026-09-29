@@ -1,0 +1,21 @@
+{
+  "id": "S39",
+  "variant": 1,
+  "time": "2026-09-29T10:29:10+00:00",
+  "runtimeFile": "VelvetCascade/Resources/Audio/vc_daily_reward.wav",
+  "method": "onset-trim",
+  "sourceOnsetSample": 0,
+  "sourceStartSample": 0,
+  "targetFrames": 52800,
+  "tailLevelBeforeShapingDbRel": -61.8,
+  "decayShaped": false,
+  "fadeInMs": 2.0,
+  "fadeOutMs": 8.0,
+  "dcFilter": "one-pole high-pass 20 Hz",
+  "level": {
+    "gainDb": 0.0,
+    "peakCeilingDb": -3.0,
+    "rmsCeilingDb": null
+  },
+  "seamAfterEdit": null
+}

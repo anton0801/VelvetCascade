@@ -1,0 +1,39 @@
+{
+  "id": "S37",
+  "variant": 2,
+  "time": "2026-09-29T10:29:09+00:00",
+  "runtimeFile": "VelvetCascade/Resources/Audio/vc_reel_spin_loop.wav",
+  "strippedLeadingSamples": 0,
+  "strippedTrailingSamples": 0,
+  "providerLoopSeam": 0.238,
+  "method": "crossfade loop (continuation after loop end blended into the head)",
+  "loopFrames": 72768,
+  "crossfadeMs": 25.0,
+  "crossfadeCurve": "equal-gain",
+  "alignmentNcc": 0.364,
+  "alignmentOffsetSamples": 768,
+  "crossfadesTried": [
+    {
+      "crossfadeMs": 25.0,
+      "seam": 0.193
+    }
+  ],
+  "level": {
+    "gainDb": 0.0,
+    "peakCeilingDb": -6.0,
+    "rmsCeilingDb": null
+  },
+  "seamAfterEdit": {
+    "seamClickRatio": 0.193,
+    "pass": true,
+    "channels": [
+      {
+        "channel": 0,
+        "seamJump": 0.004028,
+        "seamD2": 0.029724,
+        "localP99D2": 0.1539,
+        "ratio": 0.193
+      }
+    ]
+  }
+}

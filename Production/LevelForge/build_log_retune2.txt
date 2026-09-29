@@ -1,0 +1,18 @@
+Forging 16 levels with 8 jobs…
+L043 Crate Row ok; outside-band(100%) moves 28→22 sol 6 (turns 1, req 0) bot 100% 6.0s
+L047 Under the Props ok; outside-band(96%) moves 30→24 sol 6 (turns 2, req 0) bot 96% 7.1s
+L028 Two Appointments ok; outside-band(100%) moves 30→24 sol 8 (turns 1, req 1) bot 100% 22.1s
+L082 Hanging Row ok; outside-band(100%) moves 30→24 sol 7 (turns 1, req 0) bot 100% 22.2s
+L134 Stitched Bridge ok moves 38→34 sol 10 (turns 1, req 0) bot 83% 21.5s
+L084 Chain and Frost ok; outside-band(100%) moves 32→25 sol 8 (turns 0, req 0) bot 100% 29.9s
+L096 Mixed Rigging ok; outside-band(96%) moves 36→28 sol 9 (turns 1, req 0) bot 96% 32.8s
+L087 Suspended Carpet ok moves 34→34 sol 7 (turns 1, req 0) bot 88% 34.4s
+L089 A Bright Release ok; outside-band(92%) moves 32→25 sol 9 (turns 2, req 0) bot 92% 42.3s
+L153 An Inner Stitch ok; outside-band(100%) moves 38→30 sol 8 (turns 1, req 0) bot 100% 26.6s
+L165 Five Bright Shapes ok; outside-band(100%) moves 38→30 sol 7 (turns 0, req 0) bot 100% 29.5s
+L176 A Woven Ovation ok moves 44→35 sol 11 (turns 2, req 0) bot 79% 48.1s
+L166 The Brass Circle ok; outside-band(100%) moves 42→33 sol 8 (turns 2, req 2) bot 100% 62.7s
+L140 Split Finale ok; outside-band(25%) moves 44→72 sol 11 (turns 2, req 2) bot 25% 91.7s
+L179 Grand Procession ok; outside-band(33%) moves 48→78 sol 13 (turns 3, req 3) bot 33% 85.8s
+L178 The Penultimate Cue ok moves 46→46 sol 8 (turns 2, req 2) bot 67% 96.1s
+Done. 180 records, 12 not ok: ["28:ok; outside-band(100%)", "43:ok; outside-band(100%)", "47:ok; outside-band(96%)", "82:ok; outside-band(100%)", "84:ok; outside-band(100%)", "89:ok; outside-band(92%)", "96:ok; outside-band(96%)", "140:ok; outside-band(25%)", "153:ok; outside-band(100%)", "165:ok; outside-band(100%)", "166:ok; outside-band(100%)", "179:ok; outside-band(33%)"]

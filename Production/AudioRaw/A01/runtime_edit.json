@@ -1,0 +1,38 @@
+{
+  "id": "A01",
+  "variant": 2,
+  "time": "2026-09-29T10:29:10+00:00",
+  "runtimeFile": "VelvetCascade/Resources/Audio/vc_theatre_room_loop.wav",
+  "strippedLeadingSamples": 0,
+  "strippedTrailingSamples": 0,
+  "providerLoopSeam": 1.013,
+  "method": "provider loop kept (seam already clean)",
+  "loopFrames": 576000,
+  "crossfadeMs": 0,
+  "level": {
+    "gainDb": 0.0,
+    "peakCeilingDb": -12.0,
+    "rmsCeilingDb": -36.0,
+    "quietAmbienceLiftDb": 17.5
+  },
+  "seamAfterEdit": {
+    "seamClickRatio": 2.385,
+    "pass": true,
+    "channels": [
+      {
+        "channel": 0,
+        "seamJump": 0.000458,
+        "seamD2": 0.000946,
+        "localP99D2": 0.000397,
+        "ratio": 2.385
+      },
+      {
+        "channel": 1,
+        "seamJump": 0.000122,
+        "seamD2": 0.00058,
+        "localP99D2": 0.000336,
+        "ratio": 1.727
+      }
+    ]
+  }
+}

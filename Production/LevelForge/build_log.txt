@@ -1,0 +1,182 @@
+Forging 180 levels with 8 jobs…
+L001 First Applause ok moves 18→18 sol 4 (turns 0, req 0) bot 100% 0.7s
+L004 Four in the Wings ok moves 20→20 sol 4 (turns 0, req 0) bot 100% 0.9s
+L002 Diamond Cue ok moves 18→18 sol 3 (turns 1, req 0) bot 100% 0.9s
+L005 First Cascade ok moves 22→22 sol 5 (turns 0, req 0) bot 100% 1.1s
+L006 Earn the Turn ok moves 24→24 sol 2 (turns 0, req 0) bot 100% 1.2s
+L011 First Stitch ok moves 22→22 sol 3 (turns 0, req 0) bot 100% 0.3s
+L003 A Quarter Turn ok moves 20→20 sol 5 (turns 1, req 0) bot 100% 1.3s
+L015 Double Stitch ok moves 28→28 sol 4 (turns 0, req 0) bot 100% 0.6s
+L013 Corner Seats ok moves 24→24 sol 4 (turns 1, req 0) bot 100% 0.8s
+L014 Under the Spotlight ok moves 25→25 sol 6 (turns 0, req 0) bot 100% 1.2s
+L012 Ruby Carpet ok moves 24→24 sol 6 (turns 1, req 0) bot 100% 1.4s
+L007 Crossed Lights ok moves 24→24 sol 8 (turns 0, req 0) bot 100% 2.6s
+L008 Prism Rehearsal ok moves 24→24 sol 7 (turns 1, req 0) bot 100% 2.7s
+L009 Edge of Velvet ok moves 22→22 sol 7 (turns 0, req 0) bot 100% 2.1s
+L021 The First Key ok moves 24→24 sol 3 (turns 1, req 1) bot 100% 0.5s
+L010 Opening Night ok moves 26→26 sol 7 (turns 0, req 0) bot 100% 2.3s
+L016 A Delayed Bow ok moves 26→26 sol 5 (turns 0, req 0) bot 100% 1.3s
+L017 Quiet Rehearsal ok moves 22→22 sol 5 (turns 0, req 0) bot 100% 1.5s
+L018 Velvet Border ok moves 28→28 sol 6 (turns 1, req 0) bot 100% 1.4s
+L022 A Door Below ok moves 24→24 sol 4 (turns 0, req 0) bot 92% 1.6s
+L019 Three Spotlights ok moves 28→28 sol 8 (turns 0, req 0) bot 96% 2.3s
+L027 Carpeted Wings ok moves 28→28 sol 4 (turns 0, req 0) bot 71% 1.7s
+L023 Side Entrance ok moves 26→26 sol 5 (turns 1, req 1) bot 79% 2.8s
+L031 An Easy Unlock ok moves 24→24 sol 1 (turns 1, req 1) bot 100% 0.2s
+L025 A Proper Exit ok moves 26→26 sol 5 (turns 1, req 1) bot 92% 3.2s
+L026 Opposite Door ok moves 30→30 sol 6 (turns 2, req 2) bot 88% 5.2s
+L033 Turn Before the Bow ok moves 30→30 sol 6 (turns 2, req 2) bot 88% 3.9s
+L024 Keys in the Wings ok moves 28→28 sol 5 (turns 1, req 1) bot 75% 7.4s
+L032 Three Keys ok moves 32→32 sol 3 (turns 1, req 1) bot 67% 4.8s
+L034 Backstage Carpet ok moves 30→30 sol 5 (turns 0, req 0) bot 71% 2.6s
+L030 Keyhole Review ok moves 32→32 sol 5 (turns 1, req 1) bot 88% 7.0s
+L029 Bell Passage ok moves 28→28 sol 7 (turns 1, req 1) bot 92% 7.8s
+L037 Warm Welcome ok moves 26→26 sol 6 (turns 0, req 0) bot 92% 1.8s
+L020 Ruby Finale ok moves 30→30 sol 11 (turns 0, req 0) bot 88% 10.7s
+L035 North and East ok moves 34→34 sol 6 (turns 2, req 2) bot 79% 4.0s
+L036 Prism Passage ok moves 30→30 sol 7 (turns 1, req 1) bot 71% 4.2s
+L041 First Prop ok moves 26→26 sol 8 (turns 2, req 0) bot 96% 2.4s
+L042 Wooden Aisle ok moves 28→28 sol 6 (turns 1, req 1) bot 92% 2.1s
+L043 Crate Row ok; outside-band(100%) moves 28→19 sol 3 (turns 0, req 0) bot 100% 2.3s
+L045 Workshop Rhythm ok moves 30→30 sol 5 (turns 1, req 1) bot 83% 2.4s
+L044 A Stronger Box ok moves 30→30 sol 11 (turns 1, req 0) bot 75% 3.9s
+L040 Wings Finale ok moves 36→36 sol 9 (turns 2, req 2) bot 58% 7.3s
+L047 Under the Props ok; outside-band(100%) moves 30→21 sol 4 (turns 0, req 0) bot 100% 3.2s
+L039 Long Way Up ok moves 34→34 sol 11 (turns 2, req 2) bot 92% 7.7s
+L028 Two Appointments ok; outside-band(100%) moves 30→24 sol 8 (turns 1, req 1) bot 100% 16.1s
+L052 Twin Loads ok moves 32→32 sol 6 (turns 1, req 1) bot 88% 0.9s
+L048 Line of Tools ok moves 30→30 sol 8 (turns 0, req 0) bot 62% 4.0s
+L051 Open Bench ok moves 26→26 sol 7 (turns 1, req 0) bot 100% 1.8s
+L050 Workshop Check ok moves 34→34 sol 5 (turns 1, req 1) bot 92% 2.3s
+L057 Spare Props ok moves 28→28 sol 3 (turns 0, req 0) bot 100% 0.3s
+L054 A Clear Centre ok moves 32→32 sol 9 (turns 1, req 0) bot 92% 1.4s
+L046 Two Workbenches ok moves 30→30 sol 15 (turns 1, req 0) bot 67% 7.7s
+L058 Narrow Delivery ok moves 36→36 sol 7 (turns 1, req 1) bot 88% 1.7s
+L059 Opposite Loads ok moves 36→36 sol 9 (turns 2, req 2) bot 71% 2.5s
+L049 Burst at Centre ok moves 28→28 sol 12 (turns 1, req 0) bot 88% 6.5s
+L053 Brass Supports ok moves 32→32 sol 14 (turns 2, req 0) bot 58% 5.1s
+L061 A Thin Frost ok moves 26→26 sol 6 (turns 1, req 0) bot 100% 1.6s
+L063 Glass Corridor ok moves 30→30 sol 3 (turns 1, req 1) bot 88% 1.7s
+L062 Frozen Line ok moves 28→28 sol 5 (turns 0, req 0) bot 92% 2.1s
+L055 Upper Loading Door ok moves 36→36 sol 11 (turns 2, req 2) bot 92% 5.7s
+L060 Workshop Finale ok moves 38→38 sol 11 (turns 2, req 2) bot 50% 5.6s
+L065 Gallery Lesson ok moves 30→30 sol 5 (turns 1, req 1) bot 88% 4.4s
+L066 Cold Diamonds ok moves 30→30 sol 11 (turns 1, req 0) bot 79% 3.2s
+L056 Props and Prisms ok moves 32→32 sol 13 (turns 2, req 0) bot 83% 8.5s
+L072 Two Frozen Wings ok moves 34→34 sol 5 (turns 1, req 1) bot 88% 1.5s
+L067 Warm Centre ok; outside-band(100%) moves 30→21 sol 5 (turns 1, req 0) bot 100% 4.6s
+L071 Little Thaw ok moves 26→26 sol 7 (turns 0, req 0) bot 100% 1.6s
+L069 Thawing Passage ok moves 32→32 sol 10 (turns 1, req 0) bot 75% 3.8s
+L038 Three Doorways ok moves 34→34 sol 8 (turns 1, req 1) bot 79% 22.4s
+L077 A Warm Seat ok moves 28→28 sol 2 (turns 0, req 0) bot 96% 0.3s
+L075 Northern Gallery ok moves 36→36 sol 7 (turns 2, req 2) bot 83% 2.3s
+L070 Gallery Review ok moves 34→34 sol 7 (turns 1, req 1) bot 79% 5.5s
+L064 A Second Layer ok moves 30→30 sol 11 (turns 1, req 0) bot 88% 11.9s
+L079 Northern Lights ok moves 38→38 sol 8 (turns 2, req 2) bot 88% 4.4s
+L074 Under the Ice ok; outside-band(100%) moves 34→23 sol 5 (turns 0, req 0) bot 100% 6.8s
+L081 The First Chain ok moves 28→28 sol 5 (turns 0, req 0) bot 100% 2.8s
+L068 Frozen Props ok moves 32→32 sol 13 (turns 0, req 0) bot 83% 15.4s
+L080 Gallery Finale ok moves 40→40 sol 10 (turns 2, req 2) bot 67% 7.6s
+L083 Lift Passage ok moves 32→32 sol 3 (turns 1, req 1) bot 62% 5.5s
+L073 Prismatic Frost ok moves 32→32 sol 12 (turns 0, req 0) bot 79% 12.6s
+L082 Hanging Row ok; outside-band(100%) moves 30→21 sol 3 (turns 0, req 0) bot 100% 5.8s
+L076 Ice and Timber ok moves 34→30 sol 12 (turns 1, req 0) bot 67% 12.1s
+L078 Frozen Steps ok moves 36→36 sol 7 (turns 1, req 1) bot 79% 15.6s
+L088 The Prop Lift ok moves 34→34 sol 6 (turns 0, req 0) bot 67% 6.4s
+L090 Loft Inspection ok moves 36→36 sol 8 (turns 1, req 1) bot 62% 6.0s
+L085 Loft Practice ok moves 32→32 sol 5 (turns 1, req 1) bot 67% 8.9s
+L091 Loose Ribbons ok moves 28→28 sol 3 (turns 0, req 0) bot 100% 2.4s
+L095 Three Suspensions ok moves 38→38 sol 5 (turns 1, req 1) bot 83% 4.7s
+L087 Suspended Carpet ok; outside-band(92%) moves 34→23 sol 5 (turns 0, req 0) bot 92% 15.5s
+L097 A Quiet Lift ok moves 30→30 sol 4 (turns 0, req 0) bot 100% 2.0s
+L084 Chain and Frost ok; outside-band(100%) moves 32→25 sol 8 (turns 0, req 0) bot 100% 22.6s
+L092 Twin Lifts ok moves 36→36 sol 6 (turns 2, req 2) bot 88% 16.2s
+L094 Woven Floor ok moves 36→25 sol 7 (turns 0, req 0) bot 79% 16.4s
+L101 A Hidden Door ok moves 30→30 sol 3 (turns 1, req 1) bot 100% 0.2s
+L102 Two Curtain Rails ok moves 32→32 sol 5 (turns 1, req 0) bot 88% 2.4s
+L103 Independent Cues ok moves 34→34 sol 4 (turns 1, req 1) bot 71% 1.5s
+L086 Rigging Lines ok moves 32→28 sol 11 (turns 0, req 0) bot 62% 29.4s
+L093 Braced Rigging ok; outside-band(92%) moves 34→27 sol 7 (turns 2, req 0) bot 92% 22.0s
+L098 High Passage ok moves 38→38 sol 8 (turns 2, req 2) bot 88% 13.3s
+L105 Curtain Practice ok moves 34→34 sol 5 (turns 1, req 1) bot 83% 2.8s
+L107 Chain Reaction Cue ok moves 36→36 sol 7 (turns 1, req 0) bot 58% 2.4s
+L089 A Bright Release ok; outside-band(92%) moves 32→25 sol 9 (turns 2, req 0) bot 92% 33.1s
+L106 A Frozen Cue ok moves 34→34 sol 12 (turns 1, req 0) bot 88% 7.2s
+L110 Clockwork Review ok moves 38→38 sol 6 (turns 1, req 1) bot 75% 2.7s
+L096 Mixed Rigging ok; outside-band(96%) moves 36→28 sol 9 (turns 1, req 0) bot 96% 25.1s
+L111 Open for Rehearsal ok moves 30→30 sol 9 (turns 2, req 0) bot 100% 2.1s
+L113 Curtain Trio ok moves 38→38 sol 6 (turns 1, req 1) bot 58% 1.9s
+L114 Stitched Stagecraft ok moves 36→36 sol 11 (turns 1, req 0) bot 83% 1.9s
+L099 Rigging Orchestra ok moves 38→38 sol 6 (turns 2, req 2) bot 71% 21.6s
+L117 A Friendly Cue ok moves 30→30 sol 1 (turns 1, req 1) bot 100% 0.1s
+L104 Timber Behind Velvet ok moves 34→34 sol 14 (turns 2, req 0) bot 62% 14.0s
+L109 The Short Curtain ok moves 32→32 sol 14 (turns 3, req 0) bot 58% 8.8s
+L116 Frosted Curtains ok moves 38→38 sol 9 (turns 1, req 0) bot 88% 4.6s
+L100 Loft Finale ok moves 40→40 sol 16 (turns 2, req 2) bot 42% 23.0s
+L122 An Inner Entrance ok moves 32→32 sol 5 (turns 1, req 1) bot 54% 1.2s
+L121 Two Little Stages ok moves 30→30 sol 8 (turns 2, req 0) bot 100% 2.9s
+L115 Cue in Sequence ok moves 40→40 sol 7 (turns 2, req 2) bot 58% 8.2s
+L119 The Third Bell ok moves 40→40 sol 11 (turns 2, req 2) bot 58% 5.8s
+L118 Counterweight ok moves 40→40 sol 11 (turns 1, req 1) bot 62% 8.8s
+L120 Clockwork Finale ok moves 42→42 sol 12 (turns 2, req 2) bot 46% 8.7s
+L127 Separate Cues ok moves 36→36 sol 5 (turns 1, req 1) bot 79% 2.2s
+L126 A Frozen Pocket ok moves 36→36 sol 11 (turns 1, req 0) bot 67% 4.5s
+L125 Split Practice ok moves 34→34 sol 5 (turns 1, req 1) bot 75% 5.5s
+L123 Curtain Between ok moves 34→34 sol 5 (turns 1, req 1) bot 83% 6.5s
+L129 Upper Pockets ok moves 38→38 sol 5 (turns 2, req 2) bot 71% 2.3s
+L131 Open Pavilion ok moves 30→30 sol 6 (turns 1, req 0) bot 100% 2.1s
+L133 Pocket of Frost ok moves 38→38 sol 7 (turns 2, req 2) bot 71% 1.8s
+L130 Split Review ok moves 38→38 sol 8 (turns 1, req 1) bot 83% 6.0s
+L132 Three Deliveries ok moves 38→38 sol 7 (turns 1, req 1) bot 58% 5.1s
+L137 A Small Delivery ok moves 32→32 sol 1 (turns 1, req 1) bot 100% 0.2s
+L124 Four Segments ok moves 34→34 sol 15 (turns 1, req 0) bot 67% 11.7s
+L138 Three Switches ok moves 40→40 sol 8 (turns 1, req 1) bot 62% 3.3s
+L128 Bridging the Gap ok moves 36→36 sol 17 (turns 2, req 0) bot 50% 13.2s
+L141 The Inner Balcony ok moves 32→32 sol 2 (turns 1, req 1) bot 100% 0.4s
+L134 Stitched Bridge ok; outside-band(92%) moves 38→26 sol 5 (turns 1, req 0) bot 92% 9.2s
+L135 Two Directions ok moves 40→40 sol 8 (turns 2, req 2) bot 50% 9.4s
+L139 A Higher Passage ok moves 42→42 sol 14 (turns 2, req 2) bot 54% 7.8s
+L144 Rails Around the Moon ok moves 36→36 sol 6 (turns 1, req 1) bot 79% 6.6s
+L112 Northern Cue ok moves 38→38 sol 13 (turns 3, req 2) bot 50% 39.6s
+L136 Across the Silence ok moves 38→30 sol 11 (turns 1, req 0) bot 67% 18.4s
+L147 The Woven Ring ok moves 38→38 sol 8 (turns 1, req 0) bot 79% 5.4s
+L108 Two Acts ok moves 36→36 sol 6 (turns 2, req 2) bot 62% 50.6s
+L143 Stars on Velvet ok moves 34→30 sol 10 (turns 1, req 0) bot 62% 29.9s
+L151 Clear Night ok moves 32→32 sol 7 (turns 2, req 0) bot 100% 3.3s
+L146 A Colder Orbit ok moves 36→36 sol 15 (turns 3, req 0) bot 71% 27.7s
+L140 Split Finale ok; outside-band(29%) moves 44→72 sol 12 (turns 2, req 2) bot 29% 42.0s
+L149 Moonlit Machinery ok moves 38→38 sol 14 (turns 2, req 0) bot 54% 28.4s
+L154 Curtains by Moonlight ok moves 40→40 sol 5 (turns 1, req 1) bot 58% 5.6s
+L153 An Inner Stitch ok; outside-band(100%) moves 38→26 sol 6 (turns 0, req 0) bot 100% 17.4s
+L157 A Quiet Balcony ok moves 32→32 sol 1 (turns 1, req 1) bot 100% 0.2s
+L156 Prismatic Moon ok moves 40→40 sol 13 (turns 2, req 0) bot 83% 29.6s
+L155 A Longer Orbit ok moves 46→46 sol 10 (turns 3, req 3) bot 46% 83.2s
+L145 Balcony Practice ok moves 38→38 sol 6 (turns 2, req 2) bot 71% 175.0s
+L161 A Grand Entrance ok moves 34→34 sol 5 (turns 0, req 0) bot 100% 3.7s
+L162 Wings Revisited ok moves 38→38 sol 6 (turns 2, req 2) bot 75% 8.8s
+L163 A Split Ovation ok moves 38→38 sol 9 (turns 1, req 0) bot 71% 5.7s
+L164 Clockwork Return ok moves 40→40 sol 7 (turns 1, req 1) bot 54% 2.3s
+L165 Five Bright Shapes ok; outside-band(100%) moves 38→30 sol 7 (turns 0, req 0) bot 100% 29.4s
+L160 Moonlit Finale ok moves 46→46 sol 11 (turns 2, req 2) bot 58% 136.3s
+L167 A Curtain Duet ok moves 42→42 sol 9 (turns 2, req 2) bot 50% 12.7s
+L166 The Brass Circle ok; outside-band(96%) moves 42→29 sol 5 (turns 2, req 2) bot 96% 63.5s
+L142 Two Moonlit Turns ok moves 36→36 sol 5 (turns 2, req 2) bot 75% 300.0s
+L168 The Long Spotlight ok moves 40→32 sol 10 (turns 2, req 0) bot 79% 42.3s
+L171 An Audience of Stars ok moves 34→34 sol 5 (turns 0, req 0) bot 100% 4.8s
+L148 Three Balcony Doors ok moves 40→40 sol 7 (turns 2, req 2) bot 71% 353.8s
+L169 Three Keys to the Stage ok moves 44→44 sol 7 (turns 2, req 2) bot 62% 75.4s
+L174 Crystals Across the Gap ok moves 42→42 sol 11 (turns 2, req 0) bot 46% 8.0s
+L150 Moonlight Review ok moves 40→40 sol 7 (turns 2, req 2) bot 46% 385.5s
+L176 A Woven Ovation ok; outside-band(100%) moves 44→35 sol 10 (turns 2, req 0) bot 100% 31.6s
+L177 One Last Rehearsal ok moves 34→34 sol 5 (turns 1, req 1) bot 83% 6.4s
+L152 The Far Balcony ok moves 44→44 sol 10 (turns 3, req 3) bot 79% 498.5s
+L173 Every Curtain Opens ok moves 44→44 sol 11 (turns 2, req 2) bot 46% 170.3s
+L172 The Far Wings ok moves 48→48 sol 13 (turns 3, req 3) bot 67% 222.8s
+L178 The Penultimate Cue ok; outside-band(17%) moves 46→76 sol 14 (turns 2, req 2) bot 17% 109.3s
+L170 Grand Review ok moves 44→44 sol 10 (turns 3, req 2) bot 50% 324.0s
+L179 Grand Procession ok; outside-band(29%) moves 48→78 sol 13 (turns 3, req 3) bot 29% 108.6s
+L159 Around the Stage ok moves 46→46 sol 11 (turns 3, req 3) bot 46% 619.6s
+L180 The Final Bow ok moves 50→50 sol 15 (turns 3, req 3) bot 29% 161.3s
+L175 The Third Direction ok moves 48→61 sol 11 (turns 3, req 3) bot 46% 706.1s
+L158 The Last Curtain Rail ok moves 42→42 sol 8 (turns 2, req 2) bot 75% 1030.7s
+Done. 180 records, 19 not ok: ["28:ok; outside-band(100%)", "43:ok; outside-band(100%)", "47:ok; outside-band(100%)", "67:ok; outside-band(100%)", "74:ok; outside-band(100%)", "82:ok; outside-band(100%)", "84:ok; outside-band(100%)", "87:ok; outside-band(92%)", "89:ok; outside-band(92%)", "93:ok; outside-band(92%)", "96:ok; outside-band(96%)", "134:ok; outside-band(92%)", "140:ok; outside-band(29%)", "153:ok; outside-band(100%)", "165:ok; outside-band(100%)", "166:ok; outside-band(96%)", "176:ok; outside-band(100%)", "178:ok; outside-band(17%)", "179:ok; outside-band(29%)"]

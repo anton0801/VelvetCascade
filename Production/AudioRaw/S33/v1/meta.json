@@ -1,0 +1,67 @@
+{
+  "id": "S33",
+  "variant": 1,
+  "provider": "ElevenLabs",
+  "endpoint": "/v1/sound-generation",
+  "model": "eleven_text_to_sound_v2",
+  "outputFormatRequested": "mp3_44100_128",
+  "requestHash": "sha256:d17b886d56be7ee67238ecd41d086eda1b848243033a56fea9fbeea5623374f9",
+  "normalizedRequest": {
+    "method": "POST",
+    "host": "api.elevenlabs.io",
+    "path": "/v1/sound-generation",
+    "query": {
+      "output_format": "mp3_44100_128"
+    },
+    "body": {
+      "text": "An original short chamber-theatre success sting with celesta, pizzicato strings and warm brass, graceful uplifting cadence, no vocals. Original premium theatrical puzzle game sound. Warm brass, velvet stagecraft, polished wood and delicate crystal. Clear single readable event, restrained dynamics, clean isolated recording. No speech, no crowd, no existing game imitation, no harsh distortion. Short natural decay, quiet background.",
+      "model_id": "eleven_text_to_sound_v2",
+      "duration_seconds": 2.8,
+      "loop": false,
+      "prompt_influence": 0.5
+    }
+  },
+  "requestedAt": "2026-09-29T10:12:21+00:00",
+  "completedAt": "2026-09-29T10:12:24+00:00",
+  "elapsedSeconds": 2.6,
+  "httpStatus": 200,
+  "contentType": "audio/mpeg",
+  "providerHeaders": {
+    "date": "Tue, 29 Sep 2026 10:12:21 GMT",
+    "character-cost": "28",
+    "content-length": "45183",
+    "content-type": "audio/mpeg",
+    "x-trace-id": "c8a2cda6b4ec7280a572d4c3e72fc56e",
+    "x-region": "us-central1"
+  },
+  "providerRequestId": "c8a2cda6b4ec7280a572d4c3e72fc56e",
+  "rawSha256": "f8f9cc747144066a7aa7d7129741c97316c570612d3e3bf16106a9bff84ad31f",
+  "rawBytes": 45183,
+  "accountTierAtGeneration": null,
+  "costNote": "Actual cost not invented: only provider response headers above are recorded.",
+  "listeningQA": "pending",
+  "codec": {
+    "codec_name": "mp3",
+    "codec_long_name": "MP3 (MPEG audio layer 3)",
+    "sample_rate": "44100",
+    "channels": 2,
+    "bits_per_sample": 0,
+    "bit_rate": "128000"
+  },
+  "container": "mp3",
+  "decodedDuration": 2.76,
+  "decodedChannels": 2,
+  "peakDBFS": 0.3,
+  "rmsDBFS": -17.53,
+  "rawFile": "raw.mp3",
+  "master": {
+    "file": "master.wav",
+    "sampleRate": 48000,
+    "channels": 2,
+    "bitDepth": 24,
+    "codec": "pcm_s24le",
+    "sha256": "78c9955ad2a7705d5fd9e9387e5f9de230be800da2b03c23d854dffffb14b91e"
+  },
+  "technicalQA": "pass",
+  "technicalQAReasons": []
+}

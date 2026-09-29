@@ -1,0 +1,21 @@
+{
+  "id": "S35",
+  "variant": 1,
+  "time": "2026-09-29T10:29:09+00:00",
+  "runtimeFile": "VelvetCascade/Resources/Audio/vc_world_unlock.wav",
+  "method": "onset-trim",
+  "sourceOnsetSample": 0,
+  "sourceStartSample": 0,
+  "targetFrames": 129600,
+  "tailLevelBeforeShapingDbRel": -78.8,
+  "decayShaped": false,
+  "fadeInMs": 2.0,
+  "fadeOutMs": 8.0,
+  "dcFilter": "one-pole high-pass 20 Hz",
+  "level": {
+    "gainDb": 0.0,
+    "peakCeilingDb": -3.0,
+    "rmsCeilingDb": null
+  },
+  "seamAfterEdit": null
+}

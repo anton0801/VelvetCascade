@@ -1,0 +1,21 @@
+{
+  "id": "S10",
+  "variant": 1,
+  "time": "2026-09-29T10:29:03+00:00",
+  "runtimeFile": "VelvetCascade/Resources/Audio/vc_cascade_two.wav",
+  "method": "onset-trim + decay-preserving taper",
+  "sourceOnsetSample": 0,
+  "sourceStartSample": 0,
+  "targetFrames": 20160,
+  "tailLevelBeforeShapingDbRel": -14.2,
+  "decayShaped": true,
+  "fadeInMs": 2.0,
+  "fadeOutMs": 8.0,
+  "dcFilter": "one-pole high-pass 20 Hz",
+  "level": {
+    "gainDb": 0.0,
+    "peakCeilingDb": -6.0,
+    "rmsCeilingDb": null
+  },
+  "seamAfterEdit": null
+}
